@@ -1,0 +1,73 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#1017,,voided,,unfulfilled,,yes,BDT,1800.00,50.00,0.00,1850.00,"",0.00,Standard Shipping,2026-04-04 08:14:36 +0500,1,"Rust Converter, Weatherproof Rust Converter Paint for Metal - Black",1800.00,,,true,true,pending,Mmmm -,Vgg,Vgg,,,Vgg,-,,BD,+8801341349842,Mmmm -,Vgg,Vgg,,,Vgg,-,,BD,+8801341349842,,"First name: Mmmm
+Phone number: 1341349842
+province_country_field: -
+Address: Vgg
+City: Vgg
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244582006500034
+UTM content: 120244582007020034
+UTM term: 120244582006770034
+IP address: 2400:c600:461f:30cc:1:0:d608:8a1c",2026-04-04 11:12:49 +0500,Cash on Delivery (COD),"",0.00,AquaGlow,1850.00,,,,6834546147554,"Checked - 4 April, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801341349842,,,,,#1017.1,,,#1017.1 + #1017.2
+#1018,,pending,,unfulfilled,,yes,BDT,1800.00,50.00,0.00,1850.00,"",0.00,Standard Shipping,2026-04-05 21:41:44 +0500,1,"Rust Converter, Weatherproof Rust Converter Paint for Metal - Black",1800.00,,,true,true,pending,Hasan -,Manikganj,Manikganj,,,1.850.00,-,,BD,+88001623719875,Hasan -,Manikganj,Manikganj,,,1.850.00,-,,BD,+88001623719875,,"First name: Hasan
+Phone number: 01623719875
+province_country_field: -
+Address: Manikganj
+City: 1.850.00
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244582006500034
+UTM content: 120244582214770034
+UTM term: 120244582214590034
+IP address: 103.214.83.180",,Cash on Delivery (COD),"",0.00,AquaGlow,1850.00,,,,6837428453602,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801623719875,,,,,#1018.1,,,#1018.1
+#1019,,pending,,unfulfilled,,no,BDT,1800.00,50.00,0.00,1850.00,"",0.00,Standard Shipping,2026-04-05 21:49:15 +0500,1,"Rust Converter, Weatherproof Rust Converter Paint for Metal - Black",1800.00,,,true,true,pending,Hasan -,Hsyijddi,Hsyijddi,,,Ureii,-,,BD,+88001623719875,Hasan -,Hsyijddi,Hsyijddi,,,Ureii,-,,BD,+88001623719875,,"First name: Hasan
+Phone number: 01623719875
+province_country_field: -
+Address: Hsyijddi
+City: Ureii
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244582006500034
+UTM content: 120244582214770034
+UTM term: 120244582214590034
+IP address: 103.214.83.180",,Cash on Delivery (COD),"",0.00,AquaGlow,1850.00,,,,6837439496418,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801623719875,,,,,#1019.1,,,#1019.1
+#1020,,pending,,unfulfilled,,yes,BDT,1800.00,50.00,0.00,1850.00,"",0.00,Standard Shipping,2026-04-05 23:16:08 +0500,1,"Rust Converter, Weatherproof Rust Converter Paint for Metal - Black",1800.00,,,true,true,pending,Dipu -,বরিশাল,বরিশাল,,,111111,-,,BD,+88001339217132,Dipu -,বরিশাল,বরিশাল,,,111111,-,,BD,+88001339217132,,"First name: Dipu
+Phone number: 01339217132
+province_country_field: -
+Address: বরিশাল
+City: 111111
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244582006500034
+UTM content: 120244582214770034
+UTM term: 120244582214590034
+IP address: 103.127.6.113",,Cash on Delivery (COD),"",0.00,AquaGlow,1850.00,,,,6837571715298,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801339217132,,,,,#1020.1,,,#1020.1
+#1021,,pending,,unfulfilled,,yes,BDT,1800.00,50.00,0.00,1850.00,"",0.00,Standard Shipping,2026-04-05 23:52:35 +0500,1,"Rust Converter, Weatherproof Rust Converter Paint for Metal - Black",1800.00,,,true,true,pending,Md01647471931 -,বাংলাদেশ,বাংলাদেশ,,,Bangladesh,-,,BD,+8801647471931,Md01647471931 -,বাংলাদেশ,বাংলাদেশ,,,Bangladesh,-,,BD,+8801647471931,,"First name: Md01647471931
+Phone number: 1647471931
+province_country_field: -
+Address: বাংলাদেশ
+City: Bangladesh
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244582006500034
+UTM content: 120244582214770034
+UTM term: 120244582214590034
+IP address: 103.114.99.32",,Cash on Delivery (COD),"",0.00,AquaGlow,1850.00,,,,6837623423202,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801647471931,,,,,#1021.1,,,#1021.1
+#1022,,pending,,unfulfilled,,no,BDT,1800.00,50.00,0.00,1850.00,"",0.00,Standard Shipping,2026-04-06 00:07:27 +0500,1,"Rust Converter, Weatherproof Rust Converter Paint for Metal - Black",1800.00,,,true,true,pending,Jihadur -,chunarghat habiganj,chunarghat habiganj,,,chunarughat,-,,BD,+88001626834227,Jihadur -,chunarghat habiganj,chunarghat habiganj,,,chunarughat,-,,BD,+88001626834227,,"First name: Jihadur
+Phone number: 01626834227
+province_country_field: -
+Address: chunarghat habiganj
+City: chunarughat
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244582006500034
+UTM content: 120244582214770034
+UTM term: 120244582214590034
+IP address: 160.22.151.244",,Cash on Delivery (COD),"",0.00,AquaGlow,1850.00,,,,6837644919010,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801626834227,,,,,#1022.1,,,#1022.1
