@@ -2,6 +2,9 @@ import pandas as pd
 
 class ShopifyParser:
 
+    def __init__(self):
+        self.masterfile = pd.read_csv("product_masterfile.csv")
+
     def csv_parser(self, csv_file):
 
         # read in csv file and extract relevant columns
@@ -41,6 +44,20 @@ class ShopifyParser:
 
             # parse order number
 
+            # how does order no work
+
             # parse phone number
+            phone_str = "{:.0f}".format(input_data["Shipping Phone"][i])
+            if(phone_str.startswith("880")):
+                phone_str = phone_str[3:]
+            elif(phone_str.startswith("92")):
+                phone_str = phone_str[2:]
+            elif(phone_str.startswith("966")):
+                phone_str = phone_str[4:] # why 4th index
 
             # parse revenue
+            output_data["Revenue"].append("{:.2f}".format(input_data["Total"][i]))
+
+            # parse item
+            
+            # what are the shop names
