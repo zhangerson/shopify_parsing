@@ -2,6 +2,8 @@ import pandas as pd
 import sys
 import numpy as np
 import csv
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
 
 class ShopifyParser:
 
@@ -165,6 +167,25 @@ class ShopifyParser:
 
                 # write data to output dataframe
                 self.output_data[product_name][i] = "{:.0f}".format(total)
+        
+        self.append_to_sheet(data_length)
+
+    def append_to_sheet(self, data_length):
+        
+        # authenticate credentials to google drive and open sheet
+        sheet_id = "1F9JwYgSKO0wY9qPPMuJNsiX2eCz4inUIljOKK45I0A8"
+        tab_name = "P/L"
+        scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+        creds = ServiceAccountCredentials.from_json_keyfile_name('credentials.json', scope)
+        client = gspread.authorize(creds)
+        sheet = client.open_by_key(sheet_id).worksheet(tab_name)
+        existing_data = sheet.get_all_values()
+
+        start_row = len(sheet.col_values(2))
+
+        for i in range(data_length):
+
+            sheet.
 
 def main(argv=None):
     
