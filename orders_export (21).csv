@@ -1,0 +1,508 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#1001,,pending,,unfulfilled,,no,BDT,1625.00,50.00,0.00,1675.00,"",0.00,Standard Shipping,2026-01-24 17:34:28 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Test fahad,Adamjee Nagar Society,Adamjee Nagar Society,,,"Karachi, Pakistan",-,,BD,+88003857877428,Test fahad,Adamjee Nagar Society,Adamjee Nagar Society,,,"Karachi, Pakistan",-,,BD,+88003857877428,,"First name: Test fahad
+Phone number: 03857877428
+Address: Adamjee Nagar Society
+City: Karachi, Pakistan
+Subscribe to stay updated with new products and offers!: off
+IP address: 2400:adc1:15d:f900:a587:575a:5782:f2af",,Cash on Delivery (COD),"",0.00,Medluck,1675.00,,,,7112142323893,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8803857877428,,,,,#1001.1,,,#1001.1
+#1002,,pending,,unfulfilled,,yes,BDT,1625.00,50.00,0.00,1675.00,"",0.00,Standard Shipping,2026-01-25 02:28:49 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Elias -,"H-383, rd-10, block-d , flat A/4 , akbor road , bashundhara r/a,","H-383, rd-10, block-d , flat A/4 , akbor road , bashundhara r/a,",,,Dhaka -1229,-,,BD,+88001715009999,Elias -,"H-383, rd-10, block-d , flat A/4 , akbor road , bashundhara r/a,","H-383, rd-10, block-d , flat A/4 , akbor road , bashundhara r/a,",,,Dhaka -1229,-,,BD,+88001715009999,,"First name: Elias
+Phone number: 01715009999
+Address: H-383, rd-10, block-d , flat A/4 , akbor road , bashundhara r/a,
+City: Dhaka -1229
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.62.140.135",,Cash on Delivery (COD),"",0.00,Medluck,1675.00,,,,7113134473397,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801715009999,,,,,#1002.1,,,#1002.1
+#1003,,pending,,unfulfilled,,no,BDT,1625.00,50.00,0.00,1675.00,"",0.00,Standard Shipping,2026-01-25 02:40:22 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Zahurul Haque momin,Sheujgari Water Tank Road,Sheujgari Water Tank Road,,,Bogra,-,,BD,+8801306732013,Zahurul Haque momin,Sheujgari Water Tank Road,Sheujgari Water Tank Road,,,Bogra,-,,BD,+8801306732013,,"First name: Zahurul Haque momin
+Phone number: 1306732013
+Address: Sheujgari Water Tank Road
+City: Bogra
+Subscribe to stay updated with new products and offers!: off
+IP address: 2400:c600:546d:76c6::1",,Cash on Delivery (COD),"",0.00,Medluck,1675.00,,,,7113157279925,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801306732013,,,,,#1003.1,,,#1003.1
+#1004,,pending,,unfulfilled,,yes,BDT,1625.00,100.00,0.00,1725.00,"",0.00,Fast Shipping,2026-01-25 02:58:14 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,kamran -,"Benibazar , deulgram","Benibazar , deulgram",,,Sylhet,-,,BD,+88001723851686,kamran -,"Benibazar , deulgram","Benibazar , deulgram",,,Sylhet,-,,BD,+88001723851686,,"First name: kamran
+Phone number: 01723851686
+Address: Benibazar , deulgram
+City: Sylhet
+Subscribe to stay updated with new products and offers!: on
+IP address: 37.111.223.49",,Cash on Delivery (COD),"",0.00,Medluck,1725.00,,,,7113191588021,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801723851686,,,,,#1004.1,,,#1004.1
+#1005,,pending,,unfulfilled,,yes,BDT,1625.00,100.00,0.00,1725.00,"",0.00,Fast Shipping,2026-01-25 08:46:48 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Tariqul islam,House 526 Road 10 baridhara DOHS lift 4,House 526 Road 10 baridhara DOHS lift 4,,,Dhaka,-,,BD,+88001346618143,Tariqul islam,House 526 Road 10 baridhara DOHS lift 4,House 526 Road 10 baridhara DOHS lift 4,,,Dhaka,-,,BD,+88001346618143,,"First name: Tariqul islam
+Phone number: 01346618143
+Address: House 526 Road 10 baridhara DOHS lift 4
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.203.95.208",,Cash on Delivery (COD),"",0.00,Medluck,1725.00,,,,7113633562805,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801346618143,,,,,#1005.1,,,#1005.1
+#1006,,pending,,unfulfilled,,no,BDT,1625.00,100.00,0.00,1725.00,"",0.00,Fast Shipping,2026-01-25 08:57:22 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,MD -,"Apt: A1, Shams PARASOL, House: CWS(C)5, Road: 21 & 16 (Corner Plot), Gulshan-1, Dhaka-1212, Bangladesh","Apt: A1, Shams PARASOL, House: CWS(C)5, Road: 21 & 16 (Corner Plot), Gulshan-1, Dhaka-1212, Bangladesh",,,Dhaka,-,,BD,+88001971220474,MD -,"Apt: A1, Shams PARASOL, House: CWS(C)5, Road: 21 & 16 (Corner Plot), Gulshan-1, Dhaka-1212, Bangladesh","Apt: A1, Shams PARASOL, House: CWS(C)5, Road: 21 & 16 (Corner Plot), Gulshan-1, Dhaka-1212, Bangladesh",,,Dhaka,-,,BD,+88001971220474,,"First name: MD
+Phone number: 01971220474
+Address: Apt: A1, Shams PARASOL, House: CWS(C)5, Road: 21 & 16 (Corner Plot), Gulshan-1, Dhaka-1212, Bangladesh
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 113.11.40.42",,Cash on Delivery (COD),"",0.00,Medluck,1725.00,,,,7113642639541,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801971220474,,,,,#1006.1,,,#1006.1
+#1007,,pending,,unfulfilled,,yes,BDT,1625.00,100.00,0.00,1725.00,"",0.00,Fast Shipping,2026-01-25 09:41:15 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Saifuraj -,South Halishahar ward39,South Halishahar ward39,,,Chittagong,-,,BD,+8801792031066,Saifuraj -,South Halishahar ward39,South Halishahar ward39,,,Chittagong,-,,BD,+8801792031066,,"First name: Saifuraj
+Phone number: 1792031066
+Address: South Halishahar ward39
+City: Chittagong
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.185.25.94",,Cash on Delivery (COD),"",0.00,Medluck,1725.00,,,,7113679306933,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801792031066,,,,,#1007.1,,,#1007.1
+#1008,,pending,,unfulfilled,,yes,BDT,1625.00,50.00,0.00,1675.00,"",0.00,Standard Shipping,2026-01-25 10:40:52 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Md. Ismail Hossen,bepza abasik still mil kepz potenga Chittagong,bepza abasik still mil kepz potenga Chittagong,,,Chittagong,-,,BD,+8801768826034,Md. Ismail Hossen,bepza abasik still mil kepz potenga Chittagong,bepza abasik still mil kepz potenga Chittagong,,,Chittagong,-,,BD,+8801768826034,,"First name: Md. Ismail Hossen
+Phone number: 1768826034
+Address: bepza abasik still mil kepz potenga Chittagong
+City: Chittagong
+Subscribe to stay updated with new products and offers!: on
+IP address: 119.18.146.29",,Cash on Delivery (COD),"",0.00,Medluck,1675.00,,,,7113730228405,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801768826034,,,,,#1008.1,,,#1008.1
+#1009,,pending,,unfulfilled,,no,BDT,1625.00,100.00,0.00,1725.00,"",0.00,Fast Shipping,2026-01-25 12:16:18 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,rashed -,House-275 Road-14 block-c Basundhara R/A,House-275 Road-14 block-c Basundhara R/A,,,Dhaka,-,,BD,+88001730031295,rashed -,House-275 Road-14 block-c Basundhara R/A,House-275 Road-14 block-c Basundhara R/A,,,Dhaka,-,,BD,+88001730031295,,"First name: rashed
+Phone number: 01730031295
+Address: House-275 Road-14 block-c Basundhara R/A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.72.212.57",,Cash on Delivery (COD),"",0.00,Medluck,1725.00,,,,7113799205045,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801730031295,,,,,#1009.1,,,#1009.1
+#1010,,pending,,unfulfilled,,yes,BDT,1625.00,50.00,0.00,1675.00,"",0.00,Standard Shipping,2026-01-25 13:25:31 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Abdur Rahim,"Dhap check post, Rangpur","Dhap check post, Rangpur",,,Rangpur,-,,BD,+88001719165293,Abdur Rahim,"Dhap check post, Rangpur","Dhap check post, Rangpur",,,Rangpur,-,,BD,+88001719165293,,"First name: Abdur Rahim
+Phone number: 01719165293
+Address: Dhap check post, Rangpur
+City: Rangpur
+Subscribe to stay updated with new products and offers!: on
+IP address: 223.25.254.12",,Cash on Delivery (COD),"",0.00,Medluck,1675.00,,,,7113841082549,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801719165293,,,,,#1010.1,,,#1010.1
+#1011,,pending,,unfulfilled,,no,BDT,1625.00,100.00,0.00,1725.00,"",0.00,Fast Shipping,2026-01-25 14:35:33 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Sagar Dubash,"10, Yacub Nagar. Feringhee Bazar Road. Chittagong","10, Yacub Nagar. Feringhee Bazar Road. Chittagong",,,Chattogram,-,,BD,+88001819328963,Sagar Dubash,"10, Yacub Nagar. Feringhee Bazar Road. Chittagong","10, Yacub Nagar. Feringhee Bazar Road. Chittagong",,,Chattogram,-,,BD,+88001819328963,,"First name: Sagar Dubash
+Phone number: 01819328963
+Address: 10, Yacub Nagar. Feringhee Bazar Road. Chittagong
+City: Chattogram
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.135.253.242",,Cash on Delivery (COD),"",0.00,Medluck,1725.00,,,,7113880764597,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801819328963,,,,,#1011.1,,,#1011.1
+#1012,,pending,,unfulfilled,,no,BDT,1625.00,100.00,0.00,1725.00,"",0.00,Fast Shipping,2026-01-25 16:13:25 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Ehtesham Khan,"225, Tejgaon Industrial Area","225, Tejgaon Industrial Area",,,Dhaka,-,,BD,+88001988885555,Ehtesham Khan,"225, Tejgaon Industrial Area","225, Tejgaon Industrial Area",,,Dhaka,-,,BD,+88001988885555,,"First name: Ehtesham Khan
+Phone number: 01988885555
+Address: 225, Tejgaon Industrial Area
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 37.111.194.26",,Cash on Delivery (COD),"",0.00,Medluck,1725.00,,,,7113939845301,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801988885555,,,,,#1012.1,,,#1012.1
+#1013,,pending,,unfulfilled,,no,BDT,1625.00,50.00,0.00,1675.00,"",0.00,Standard Shipping,2026-01-25 16:49:20 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,1625.00,,,true,true,pending,Mainul Hossain,"Concord Mahbub Place. House-62, Flat-503, Road-9/A, Dhanmomdi, Dhaka-1209","Concord Mahbub Place. House-62, Flat-503, Road-9/A, Dhanmomdi, Dhaka-1209",,,Dhaka,-,,BD,+88001782383782,Mainul Hossain,"Concord Mahbub Place. House-62, Flat-503, Road-9/A, Dhanmomdi, Dhaka-1209","Concord Mahbub Place. House-62, Flat-503, Road-9/A, Dhanmomdi, Dhaka-1209",,,Dhaka,-,,BD,+88001782383782,,"First name: Mainul Hossain
+Phone number: 01782383782
+Address: Concord Mahbub Place. House-62, Flat-503, Road-9/A, Dhanmomdi, Dhaka-1209
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 2400:3240:7003:73ae:d45b:a997:1503:8235",,Cash on Delivery (COD),"",0.00,Medluck,1675.00,,,,7113961406645,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801782383782,,,,,#1013.1,,,#1013.1
+#1014,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-01-30 04:39:15 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Jafor -,173 R M Dash Rd sutrapur dhaka1100,173 R M Dash Rd sutrapur dhaka1100,,,Dhaka,-,,BD,+88001712621213,Jafor -,173 R M Dash Rd sutrapur dhaka1100,173 R M Dash Rd sutrapur dhaka1100,,,Dhaka,-,,BD,+88001712621213,,"First name: Jafor
+Phone number: 01712621213
+Address: 173 R M Dash Rd sutrapur dhaka1100
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 2400:c600:335a:a44c:4b29:df08:c2b0:d178",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7121686921397,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801712621213,,,,,#1014.1,,,#1014.1
+#1015,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-01-30 05:25:29 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Iftekhar -,"25/1 Circular road, Hatirpool vootergali masjid, Dhaka 1205","25/1 Circular road, Hatirpool vootergali masjid, Dhaka 1205",,,Dhaka,-,,BD,+88001711522758,Iftekhar -,"25/1 Circular road, Hatirpool vootergali masjid, Dhaka 1205","25/1 Circular road, Hatirpool vootergali masjid, Dhaka 1205",,,Dhaka,-,,BD,+88001711522758,,"First name: Iftekhar
+Phone number: 01711522758
+Address: 25/1 Circular road, Hatirpool vootergali masjid, Dhaka 1205
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 2401:f40:1531:2a:5a8c:25b9:625:d379",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7121893163189,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711522758,,,,,#1015.1,,,#1015.1
+#1016,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-01-30 10:10:53 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Asraful Alam jahid,House-200 Road-4 Block-A Basundhara riverview south Keraniganj Dhaka,House-200 Road-4 Block-A Basundhara riverview south Keraniganj Dhaka,,,Dhaka,-,,BD,+88001855551718,Asraful Alam jahid,House-200 Road-4 Block-A Basundhara riverview south Keraniganj Dhaka,House-200 Road-4 Block-A Basundhara riverview south Keraniganj Dhaka,,,Dhaka,-,,BD,+88001855551718,,"First name: Asraful Alam jahid
+Phone number: 01855551718
+Address: House-200 Road-4 Block-A Basundhara riverview south Keraniganj Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 59.153.201.46",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7122237882549,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801855551718,,,,,#1016.1,,,#1016.1
+#1017,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-01-30 10:14:20 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Lubna -,"Apt 4, 11B UN To","Apt 4, 11B UN To",,,Dhaka,-,,BD,+8801847135555,Lubna -,"Apt 4, 11B UN To","Apt 4, 11B UN To",,,Dhaka,-,,BD,+8801847135555,,"First name: Lubna
+Phone number: 1847135555
+Address: Apt 4, 11B UN To
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.91.231.253",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7122240372917,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801847135555,,,,,#1017.1,,,#1017.1
+#1018,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-01-30 10:14:21 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Lubna -,"Apt 4, 11B UN To","Apt 4, 11B UN To",,,Dhaka,-,,BD,+8801847135555,Lubna -,"Apt 4, 11B UN To","Apt 4, 11B UN To",,,Dhaka,-,,BD,+8801847135555,,"First name: Lubna
+Phone number: 1847135555
+Address: Apt 4, 11B UN To
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.91.231.253",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7122240405685,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801847135555,,,,,#1018.1,,,#1018.1
+#1019,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-01-30 11:37:40 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Lubna -,"House 341,Road 6,Block k, Boshundhara","House 341,Road 6,Block k, Boshundhara",,,Dhaka,-,,BD,+88001678126000,Lubna -,"House 341,Road 6,Block k, Boshundhara","House 341,Road 6,Block k, Boshundhara",,,Dhaka,-,,BD,+88001678126000,,"First name: Lubna
+Phone number: 01678126000
+Address: House 341,Road 6,Block k, Boshundhara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 202.53.174.101",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7122306072757,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801678126000,,,,,#1019.1,,,#1019.1
+#1020,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-01-30 14:16:00 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Md.Iftakar -,"House-220/B, khojar khola,south surma, Sylhet.","House-220/B, khojar khola,south surma, Sylhet.",,,Sylhet,-,,BD,+8801711129199,Md.Iftakar -,"House-220/B, khojar khola,south surma, Sylhet.","House-220/B, khojar khola,south surma, Sylhet.",,,Sylhet,-,,BD,+8801711129199,,"First name: Md.Iftakar
+Phone number: 1711129199
+Address: House-220/B, khojar khola,south surma, Sylhet.
+City: Sylhet
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 37.111.220.59",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7122409750709,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711129199,,,,,#1020.1,,,#1020.1
+#1021,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-01-30 14:17:57 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Md.Hasinul -,Thakurgaon,Thakurgaon,,,Thakurgaon,-,,BD,+88001711249192,Md.Hasinul -,Thakurgaon,Thakurgaon,,,Thakurgaon,-,,BD,+88001711249192,,"First name: Md.Hasinul
+Phone number: 01711249192
+Address: Thakurgaon
+City: Thakurgaon
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 180.149.232.102",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7122410864821,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711249192,,,,,#1021.1,,,#1021.1
+#1022,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-01-30 15:44:30 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Salma khan,Bashundhara A block Road 15 House number 401,Bashundhara A block Road 15 House number 401,,,Dhaka,-,,BD,+88001883002055,Salma khan,Bashundhara A block Road 15 House number 401,Bashundhara A block Road 15 House number 401,,,Dhaka,-,,BD,+88001883002055,,"First name: Salma khan
+Phone number: 01883002055
+Address: Bashundhara A block Road 15 House number 401
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.129.238.254",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7122464309429,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801883002055,,,,,#1022.1,,,#1022.1
+#1023,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-01-31 09:35:38 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Raihan -,"House-12, Road-12, Sector-4, Uttara","House-12, Road-12, Sector-4, Uttara",,,Dhaka,-,,BD,+88001819207048,Raihan -,"House-12, Road-12, Sector-4, Uttara","House-12, Road-12, Sector-4, Uttara",,,Dhaka,-,,BD,+88001819207048,,"First name: Raihan
+Phone number: 01819207048
+Address: House-12, Road-12, Sector-4, Uttara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 2404:1c40:bb:6a24:d5b:8841:ddbb:53a0",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7123955155125,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801819207048,,,,,#1023.1,,,#1023.1
+#1024,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-02-02 22:04:41 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,lubna -,"apt 5, 11B UN Road, Baridhara","apt 5, 11B UN Road, Baridhara",,,Dhaka,-,,BD,+88001847135555,lubna -,"apt 5, 11B UN Road, Baridhara","apt 5, 11B UN Road, Baridhara",,,Dhaka,-,,BD,+88001847135555,,"First name: lubna
+Phone number: 01847135555
+Address: apt 5, 11B UN Road, Baridhara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 27.147.237.28",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7129308889269,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801847135555,,,,,#1024.1,,,#1024.1
+#1025,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 02:12:21 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Alamgir -,"Cplustv office, 3rd floor, Muntasir center,Dampara Wasa Cir","Cplustv office, 3rd floor, Muntasir center,Dampara Wasa Cir",,,Chittagong,-,,BD,+88001819871225,Alamgir -,"Cplustv office, 3rd floor, Muntasir center,Dampara Wasa Cir","Cplustv office, 3rd floor, Muntasir center,Dampara Wasa Cir",,,Chittagong,-,,BD,+88001819871225,,"First name: Alamgir
+Phone number: 01819871225
+Address: Cplustv office, 3rd floor, Muntasir center,Dampara Wasa Cir
+City: Chittagong
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992190034
+UTM term: 120244687991760034
+IP address: 101.2.164.65",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7258934640821,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801819871225,,,,,#1025.1,,,#1025.1
+#1026,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 02:36:00 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Sultana  Razia -,Hajipur  Lamapara,Hajipur  Lamapara,,,Golapgonj. Sylhet Bangladesh.,-,,BD,+88001776145646,Sultana  Razia -,Hajipur  Lamapara,Hajipur  Lamapara,,,Golapgonj. Sylhet Bangladesh.,-,,BD,+88001776145646,,"First name: Sultana  Razia
+Phone number: 01776145646
+Address: Hajipur  Lamapara
+City: Golapgonj. Sylhet Bangladesh.
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687991820034
+UTM term: 120244687991720034
+IP address: 103.133.200.135",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7258982711477,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801776145646,,,,,#1026.1,,,#1026.1
+#1027,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 05:52:59 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Dr Mahabubul,"ফাতেমা মেডিকেল সেন্টার, শরীয়তপুর সদর","ফাতেমা মেডিকেল সেন্টার, শরীয়তপুর সদর",,,Shariatpur,-,,BD,+88001718304248,Dr Mahabubul,"ফাতেমা মেডিকেল সেন্টার, শরীয়তপুর সদর","ফাতেমা মেডিকেল সেন্টার, শরীয়তপুর সদর",,,Shariatpur,-,,BD,+88001718304248,,"First name: Dr Mahabubul
+Phone number: 01718304248
+Address: ফাতেমা মেডিকেল সেন্টার, শরীয়তপুর সদর
+City: Shariatpur
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992150034
+UTM term: 120244687991790034
+IP address: 37.111.211.140",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259291844789,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801718304248,,,,,#1027.1,,,#1027.1
+#1028,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 06:32:29 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Ashoke -,40 C Asad Avenue block e Mohammadpur,40 C Asad Avenue block e Mohammadpur,,,Dhaka,-,,BD,+88001308741077,Ashoke -,40 C Asad Avenue block e Mohammadpur,40 C Asad Avenue block e Mohammadpur,,,Dhaka,-,,BD,+88001308741077,,"First name: Ashoke
+Phone number: 01308741077
+Address: 40 C Asad Avenue block e Mohammadpur
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687732430034
+UTM term: 120244687664120034
+IP address: 113.11.21.112",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259341521077,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801308741077,,,,,#1028.1,,,#1028.1
+#1029,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 07:59:27 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,মোঃ ওমর ফারুক,কালিতলা সদর দিনাজপুর,কালিতলা সদর দিনাজপুর,,,দিনাজপুর,-,,BD,+88001715170807,মোঃ ওমর ফারুক,কালিতলা সদর দিনাজপুর,কালিতলা সদর দিনাজপুর,,,দিনাজপুর,-,,BD,+88001715170807,,"First name: মোঃ ওমর ফারুক
+Phone number: 01715170807
+Address: কালিতলা সদর দিনাজপুর
+City: দিনাজপুর
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687991820034
+UTM term: 120244687991720034
+IP address: 2400:c600:4815:d0a6:1:0:e5cd:900a",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259442938037,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801715170807,,,,,#1029.1,,,#1029.1
+#1030,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 08:12:19 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Mahabub -,"H-11, road -3 Kakina kuthi road , keranipara , rangpur.","H-11, road -3 Kakina kuthi road , keranipara , rangpur.",,,Rangpur,-,,BD,+88001730724179,Mahabub -,"H-11, road -3 Kakina kuthi road , keranipara , rangpur.","H-11, road -3 Kakina kuthi road , keranipara , rangpur.",,,Rangpur,-,,BD,+88001730724179,,"First name: Mahabub
+Phone number: 01730724179
+Address: H-11, road -3 Kakina kuthi road , keranipara , rangpur.
+City: Rangpur
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992130034
+UTM term: 120244687991730034
+IP address: 37.111.210.37",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259456471221,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801730724179,,,,,#1030.1,,,#1030.1
+#1031,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 08:20:26 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Sharif -,"Dendabor, Pollibeddut bazar,","Dendabor, Pollibeddut bazar,",,,Ashulia Savar,-,,BD,+88001716876593,Sharif -,"Dendabor, Pollibeddut bazar,","Dendabor, Pollibeddut bazar,",,,Ashulia Savar,-,,BD,+88001716876593,,"First name: Sharif
+Phone number: 01716876593
+Address: Dendabor, Pollibeddut bazar,
+City: Ashulia Savar
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992100034
+UTM term: 120244687991770034
+IP address: 2400:c600:3345:a3ab:2496:fac6:5b8b:2f3f",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259463942325,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801716876593,,,,,#1031.1,,,#1031.1
+#1032,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 10:15:17 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Anik Kumar,"11/12, Protik kamini apartment, kajir goli, garden road, kawran bazar, dhaka","11/12, Protik kamini apartment, kajir goli, garden road, kawran bazar, dhaka",,,Dhaka,-,,BD,+88001736573249,Anik Kumar,"11/12, Protik kamini apartment, kajir goli, garden road, kawran bazar, dhaka","11/12, Protik kamini apartment, kajir goli, garden road, kawran bazar, dhaka",,,Dhaka,-,,BD,+88001736573249,,"First name: Anik Kumar
+Phone number: 01736573249
+Address: 11/12, Protik kamini apartment, kajir goli, garden road, kawran bazar, dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687991780034
+UTM term: 120244687991520034
+IP address: 103.145.70.243",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7259571126453,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801736573249,,,,,#1032.1,,,#1032.1
+#1033,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 10:25:09 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Rashedul -,"house #85, Road #4, Block#B, Banani, Dhaka","house #85, Road #4, Block#B, Banani, Dhaka",,,Dhaka,-,,BD,+8801777798933,Rashedul -,"house #85, Road #4, Block#B, Banani, Dhaka","house #85, Road #4, Block#B, Banani, Dhaka",,,Dhaka,-,,BD,+8801777798933,,"First name: Rashedul
+Phone number: 1777798933
+Address: house #85, Road #4, Block#B, Banani, Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687991700034
+UTM term: 120244687991760034
+IP address: 37.111.200.249",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259578269877,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801777798933,,,,,#1033.1,,,#1033.1
+#1034,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 10:57:29 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Dr.Shahidul Huq sumon,234 east rampora dhaka,234 east rampora dhaka,,,Dhaka,-,,BD,+88001711132211,Dr.Shahidul Huq sumon,234 east rampora dhaka,234 east rampora dhaka,,,Dhaka,-,,BD,+88001711132211,,"First name: Dr.Shahidul Huq sumon
+Phone number: 01711132211
+Address: 234 east rampora dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687991700034
+UTM term: 120244687991760034
+IP address: 103.68.4.228",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259600814261,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711132211,,,,,#1034.1,,,#1034.1
+#1035,,pending,,unfulfilled,,no,BDT,4200.00,50.00,0.00,4250.00,"",0.00,Standard Shipping,2026-04-07 12:48:35 +0500,2,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,sujan -,21/C monipuripara Tejgoan  dhaka 1215,21/C monipuripara Tejgoan  dhaka 1215,,,Dhaka,-,,BD,+88001857626950,sujan -,21/C monipuripara Tejgoan  dhaka 1215,21/C monipuripara Tejgoan  dhaka 1215,,,Dhaka,-,,BD,+88001857626950,,"First name: sujan
+Phone number: 01857626950
+Address: 21/C monipuripara Tejgoan  dhaka 1215
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687732460034
+UTM term: 120244687664120034
+IP address: 2400:c600:3553:4e8a:1:0:bf74:db7d",,Cash on Delivery (COD),"",0.00,Medluck,4250.00,,,,7259675066549,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801857626950,,,,,#1035.1,,,#1035.1
+#1036,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 14:07:57 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Tanya Tazeen,"House 59, road 7/A, Malobika apartments, 5B, Dhanmondi","House 59, road 7/A, Malobika apartments, 5B, Dhanmondi",,,Dhaka,-,,BD,+8801711522890,Tanya Tazeen,"House 59, road 7/A, Malobika apartments, 5B, Dhanmondi","House 59, road 7/A, Malobika apartments, 5B, Dhanmondi",,,Dhaka,-,,BD,+8801711522890,,"First name: Tanya Tazeen
+Phone number: 1711522890
+Address: House 59, road 7/A, Malobika apartments, 5B, Dhanmondi
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687732460034
+UTM term: 120244687664120034
+IP address: 103.187.94.221",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259721498805,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711522890,,,,,#1036.1,,,#1036.1
+#1037,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 14:42:25 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Abul -,536police plaza gulshan gadget police,536police plaza gulshan gadget police,,,Dhak,-,,BD,+88001920072848,Abul -,536police plaza gulshan gadget police,536police plaza gulshan gadget police,,,Dhak,-,,BD,+88001920072848,,"First name: Abul
+Phone number: 01920072848
+Address: 536police plaza gulshan gadget police
+City: Dhak
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244718664170034
+UTM content: 120244718664590034
+UTM term: 120244718664460034
+IP address: 103.35.109.114",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259742994613,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801920072848,,,,,#1037.1,,,#1037.1
+#1038,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 15:11:54 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,ওয়ালিদ মাহমুদ।,"বি-৪/সি-১ আরামবাগ হাউজিং, অনির্বাণ স্কুলের পার্শ্বে","বি-৪/সি-১ আরামবাগ হাউজিং, অনির্বাণ স্কুলের পার্শ্বে",,,"মিরপুর  -৭,ঢাকা।",-,,BD,+88001711171783,ওয়ালিদ মাহমুদ।,"বি-৪/সি-১ আরামবাগ হাউজিং, অনির্বাণ স্কুলের পার্শ্বে","বি-৪/সি-১ আরামবাগ হাউজিং, অনির্বাণ স্কুলের পার্শ্বে",,,"মিরপুর  -৭,ঢাকা।",-,,BD,+88001711171783,,"First name: ওয়ালিদ মাহমুদ।
+Phone number: 01711171783
+Address: বি-৪/সি-১ আরামবাগ হাউজিং, অনির্বাণ স্কুলের পার্শ্বে
+City: মিরপুর  -৭,ঢাকা।
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992060034
+UTM term: 120244687991790034
+IP address: 103.127.178.28",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259764097205,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711171783,,,,,#1038.1,,,#1038.1
+#1039,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 16:21:09 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Jessica Crowley,Commical Bank of Ceylon 1102/A,Commical Bank of Ceylon 1102/A,,,Chattogram,-,,BD,+8801674031375,Jessica Crowley,Commical Bank of Ceylon 1102/A,Commical Bank of Ceylon 1102/A,,,Chattogram,-,,BD,+8801674031375,,"First name: Jessica Crowley
+Phone number: 1674031375
+Address: Commical Bank of Ceylon 1102/A
+City: Chattogram
+Subscribe to stay updated with new products and offers!: off
+IP address: 2404:1c40:43d:7e0a:344b:75ff:fe0b:b338",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259814101173,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801674031375,,,,,#1039.1,,,#1039.1
+#1040,,pending,,unfulfilled,,no,BDT,8400.00,50.00,0.00,8450.00,"",0.00,Standard Shipping,2026-04-07 16:21:41 +0500,4,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Nahida  Zafrin  Tuly -,"WARD 33,   4TH FLOOR,  SYLHET MAG MEDICAL  COLLEGE, SYLHET","WARD 33,   4TH FLOOR,  SYLHET MAG MEDICAL  COLLEGE, SYLHET",,,SYLHET,-,,BD,+8801911701525,Nahida  Zafrin  Tuly -,"WARD 33,   4TH FLOOR,  SYLHET MAG MEDICAL  COLLEGE, SYLHET","WARD 33,   4TH FLOOR,  SYLHET MAG MEDICAL  COLLEGE, SYLHET",,,SYLHET,-,,BD,+8801911701525,,"First name: Nahida  Zafrin  Tuly
+Phone number: 1911701525
+Address: WARD 33,   4TH FLOOR,  SYLHET MAG MEDICAL  COLLEGE, SYLHET
+City: SYLHET
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687732440034
+UTM term: 120244687664120034
+IP address: 59.152.111.50",,Cash on Delivery (COD),"",0.00,Medluck,8450.00,,,,7259814527157,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801911701525,,,,,#1040.1,,,#1040.1
+#1041,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 16:25:01 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress,2100.00,,,true,true,pending,Taufiqul Islam,"Sha-108/2, North Badda, Old Thana road,  Dhaka-1212","Sha-108/2, North Badda, Old Thana road,  Dhaka-1212",,,Dhaka,-,,BD,+88001827550049,Taufiqul Islam,"Sha-108/2, North Badda, Old Thana road,  Dhaka-1212","Sha-108/2, North Badda, Old Thana road,  Dhaka-1212",,,Dhaka,-,,BD,+88001827550049,,"First name: Taufiqul Islam
+Phone number: 01827550049
+Address: Sha-108/2, North Badda, Old Thana road,  Dhaka-1212
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687991890034
+UTM term: 120244687991800034
+IP address: 103.78.226.69",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7259817509045,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801827550049,,,,,#1041.1,,,#1041.1
+#1042,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 18:32:36 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,,"First name: Lubna Alam
+Phone number: 01678126000
+Address: House 341, Road 6 Block K Boshundhara R/a
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244718664170034
+UTM content: 120244718664780034
+UTM term: 120244718664440034
+IP address: 45.64.132.132",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7259946025141,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801678126000,,,,,#1042.1,,,#1042.1
+#1043,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 18:33:07 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,,"First name: Lubna Alam
+Phone number: 01678126000
+Address: House 341, Road 6 Block K Boshundhara R/a
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244718664170034
+UTM content: 120244718664780034
+UTM term: 120244718664440034
+IP address: 45.64.132.132",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7259946680501,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801678126000,,,,,#1043.1,,,#1043.1
+#1044,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 19:58:42 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Momotaz Begum,Kulaura Mohila College,Kulaura Mohila College,,,Moulvibazar,-,,BD,+88001743708862,Momotaz Begum,Kulaura Mohila College,Kulaura Mohila College,,,Moulvibazar,-,,BD,+88001743708862,,"First name: Momotaz Begum
+Phone number: 01743708862
+Address: Kulaura Mohila College
+City: Moulvibazar
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244730479020034
+UTM content: 120244730482650034
+UTM term: 120244730482580034
+IP address: 182.48.76.88",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260077293749,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801743708862,,,,,#1044.1,,,#1044.1
+#1045,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 20:10:24 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Mitu prodhan,"H#53,R#13,Block D.Banani","H#53,R#13,Block D.Banani",,,Dhaka,-,,BD,+88001712045870,Mitu prodhan,"H#53,R#13,Block D.Banani","H#53,R#13,Block D.Banani",,,Dhaka,-,,BD,+88001712045870,,"First name: Mitu prodhan
+Phone number: 01712045870
+Address: H#53,R#13,Block D.Banani
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244730479020034
+UTM content: 120244730482600034
+UTM term: 120244730482710034
+IP address: 37.111.194.41",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260096987317,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801712045870,,,,,#1045.1,,,#1045.1
+#1046,,pending,,unfulfilled,,yes,BDT,6300.00,50.00,0.00,6350.00,"",0.00,Standard Shipping,2026-04-07 20:20:59 +0500,3,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Dr. Mabin,"Eden Multi-Care Hospital, 753,Satmasjid Road, Dhanmondi","Eden Multi-Care Hospital, 753,Satmasjid Road, Dhanmondi",,,Dhaka 1209,-,,BD,+88001711520852,Dr. Mabin,"Eden Multi-Care Hospital, 753,Satmasjid Road, Dhanmondi","Eden Multi-Care Hospital, 753,Satmasjid Road, Dhanmondi",,,Dhaka 1209,-,,BD,+88001711520852,,"First name: Dr. Mabin
+Phone number: 01711520852
+Address: Eden Multi-Care Hospital, 753,Satmasjid Road, Dhanmondi
+City: Dhaka 1209
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244718664170034
+UTM content: 120244718664940034
+UTM term: 120244718664450034
+IP address: 103.197.153.57",,Cash on Delivery (COD),"",0.00,Medluck,6350.00,,,,7260113338549,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711520852,,,,,#1046.1,,,#1046.1
+#1047,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 20:29:47 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Ahsan -,"House 24 Flat A1, Road 36, Sector 07, Uttara, Dhaka","House 24 Flat A1, Road 36, Sector 07, Uttara, Dhaka",,,Dhaka,-,,BD,+8801765270366,Ahsan -,"House 24 Flat A1, Road 36, Sector 07, Uttara, Dhaka","House 24 Flat A1, Road 36, Sector 07, Uttara, Dhaka",,,Dhaka,-,,BD,+8801765270366,,"First name: Ahsan
+Phone number: 1765270366
+Address: House 24 Flat A1, Road 36, Sector 07, Uttara, Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244718664170034
+UTM content: 120244718664940034
+UTM term: 120244718664450034
+IP address: 103.101.197.121",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7260125626549,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801765270366,,,,,#1047.1,,,#1047.1
+#1048,,pending,,unfulfilled,,yes,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 20:44:37 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Mynul -,"GP house, Bashundhara RArea","GP house, Bashundhara RArea",,,Dhaka,-,,BD,+8801711506169,Mynul -,"GP house, Bashundhara RArea","GP house, Bashundhara RArea",,,Dhaka,-,,BD,+8801711506169,,"First name: Mynul
+Phone number: 1711506169
+Address: GP house, Bashundhara RArea
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992120034
+UTM term: 120244687991760034
+IP address: 37.111.194.16",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260152496309,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711506169,,,,,#1048.1,,,#1048.1
+#1049,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 21:02:26 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Ayesha -,H 51 rd 1 block i banani apt b7,H 51 rd 1 block i banani apt b7,,,Dhaka,-,,BD,+8801777757141,Ayesha -,H 51 rd 1 block i banani apt b7,H 51 rd 1 block i banani apt b7,,,Dhaka,-,,BD,+8801777757141,,"First name: Ayesha
+Phone number: 1777757141
+Address: H 51 rd 1 block i banani apt b7
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992050034
+UTM term: 120244687991770034
+IP address: 59.153.103.56",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260183658677,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801777757141,,,,,#1049.1,,,#1049.1
+#1050,,pending,,unfulfilled,,yes,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 21:09:24 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Dr.Syed Mamun,Good Health Hospital. Rangpur City.,Good Health Hospital. Rangpur City.,,,Rangpur,-,,BD,+88001714050625,Dr.Syed Mamun,Good Health Hospital. Rangpur City.,Good Health Hospital. Rangpur City.,,,Rangpur,-,,BD,+88001714050625,,"First name: Dr.Syed Mamun
+Phone number: 01714050625
+Address: Good Health Hospital. Rangpur City.
+City: Rangpur
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687992120034
+UTM term: 120244687991760034
+IP address: 27.147.191.124",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7260195487925,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801714050625,,,,,#1050.1,,,#1050.1
+#1051,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 21:20:51 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Ehtesham -,"225, Tejgaon Industrial Area","225, Tejgaon Industrial Area",,,Dhaka,-,,BD,+88001988885555,Ehtesham -,"225, Tejgaon Industrial Area","225, Tejgaon Industrial Area",,,Dhaka,-,,BD,+88001988885555,,"First name: Ehtesham
+Phone number: 01988885555
+Address: 225, Tejgaon Industrial Area
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244730479020034
+UTM content: 120244730482680034
+UTM term: 120244730482580034
+IP address: 103.231.176.250",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260209414325,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801988885555,,,,,#1051.1,,,#1051.1
+#1052,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 22:03:47 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Tariqul islam,House 526 Road  10 lift 4 app B4 Baridhara DOHS,House 526 Road  10 lift 4 app B4 Baridhara DOHS,,,Dhaka,-,,BD,+88001346618143,Tariqul islam,House 526 Road  10 lift 4 app B4 Baridhara DOHS,House 526 Road  10 lift 4 app B4 Baridhara DOHS,,,Dhaka,-,,BD,+88001346618143,,"First name: Tariqul islam
+Phone number: 01346618143
+Address: House 526 Road  10 lift 4 app B4 Baridhara DOHS
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687732440034
+UTM term: 120244687664120034",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7260269707445,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801346618143,,,,,#1052.1,,,#1052.1
+#1053,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 22:41:05 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,,"First name: Lubna Alam
+Phone number: 01678126000
+Address: House 341, Road 6 Block K Boshundhara R/a
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687991670034
+UTM term: 120244687991770034",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7260321939637,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801678126000,,,,,#1053.1,,,#1053.1
+#1054,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 23:22:37 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,AKM Sazzad Hossain,"288/A, Shere Bangla Road, Rayer Bazar","288/A, Shere Bangla Road, Rayer Bazar",,,Dhaka,-,,BD,+88001715661878,AKM Sazzad Hossain,"288/A, Shere Bangla Road, Rayer Bazar","288/A, Shere Bangla Road, Rayer Bazar",,,Dhaka,-,,BD,+88001715661878,,"First name: AKM Sazzad Hossain
+Phone number: 01715661878
+Address: 288/A, Shere Bangla Road, Rayer Bazar
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244730479020034
+UTM content: 120244730482570034
+UTM term: 120244730482710034",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260381020341,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801715661878,,,,,#1054.1,,,#1054.1
+#1055,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-07 23:31:25 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,Lubna Alam,"House 341, Road 6 Block K Boshundhara R/a","House 341, Road 6 Block K Boshundhara R/a",,,Dhaka,-,,BD,+88001678126000,,"First name: Lubna Alam
+Phone number: 01678126000
+Address: House 341, Road 6 Block K Boshundhara R/a
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244730479020034
+UTM content: 120244730482800034
+UTM term: 120244730482580034",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260395897013,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801678126000,,,,,#1055.1,,,#1055.1
+#1056,,pending,,unfulfilled,,no,BDT,2100.00,100.00,0.00,2200.00,"",0.00,Fast Shipping,2026-04-07 23:31:47 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Reza -,House no 22A mohammodia housing limited main riad niribiligate mohammodpur,House no 22A mohammodia housing limited main riad niribiligate mohammodpur,,,Dhaka,-,,BD,+8801713484753,Reza -,House no 22A mohammodia housing limited main riad niribiligate mohammodpur,House no 22A mohammodia housing limited main riad niribiligate mohammodpur,,,Dhaka,-,,BD,+8801713484753,,"First name: Reza
+Phone number: 1713484753
+Address: House no 22A mohammodia housing limited main riad niribiligate mohammodpur
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244730479020034
+UTM content: 120244730482800034
+UTM term: 120244730482580034",,Cash on Delivery (COD),"",0.00,Medluck,2200.00,,,,7260396421301,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801713484753,,,,,#1056.1,,,#1056.1
+#1057,,pending,,unfulfilled,,no,BDT,2100.00,50.00,0.00,2150.00,"",0.00,Standard Shipping,2026-04-08 00:07:55 +0500,1,Positioning Bed Pad Patient Transfer Sheet with Handles Washable Draw Sheets Mattress - Buy 1,2100.00,,,true,true,pending,Farjana -,"160 west Arzat Para, tejgaon","160 west Arzat Para, tejgaon",,,Dhaka,-,,BD,+88001710017400,Farjana -,"160 west Arzat Para, tejgaon","160 west Arzat Para, tejgaon",,,Dhaka,-,,BD,+88001710017400,,"First name: Farjana
+Phone number: 01710017400
+Address: 160 west Arzat Para, tejgaon
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244687664130034
+UTM content: 120244687732420034
+UTM term: 120244687664120034",,Cash on Delivery (COD),"",0.00,Medluck,2150.00,,,,7260448293045,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801710017400,,,,,#1057.1,,,#1057.1
