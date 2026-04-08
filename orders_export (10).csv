@@ -1,0 +1,491 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#1113,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-01 12:39:28 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Naeem -,Dhaka Gazipur,Dhaka Gazipur,,,Apex....road horinhari 2 tala mosjid,-,,BD,+8801733341507,Naeem -,Dhaka Gazipur,Dhaka Gazipur,,,Apex....road horinhari 2 tala mosjid,-,,BD,+8801733341507,,"First name: Naeem
+Phone number: 1733341507
+Address: Dhaka Gazipur
+City: Apex....road horinhari 2 tala mosjid
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 103.69.150.17",2026-04-02 00:35:14 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6870379135024,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801733341507,,,,,#1113.1,,,#1113.1 + #1113.2
+#1114,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-01 15:48:57 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Far Din,Chandpur Sadar,Chandpur Sadar,,,Chandpur,-,,BD,+88001402431343,Far Din,Chandpur Sadar,Chandpur Sadar,,,Chandpur,-,,BD,+88001402431343,,"First name: Far Din
+Phone number: 01402431343
+Address: Chandpur Sadar
+City: Chandpur
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 2a09:bac6:d699:1028::19c:2b4",2026-04-05 02:15:03 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6870735880240,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801402431343,,,,,#1114.1,,,#1114.1 + #1114.2
+#1115,,voided,,unfulfilled,,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-01 22:57:37 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Sowad -,Kamlapur,Kamlapur,,,Faridpur,-,,BD,+88001628826385,Sowad -,Kamlapur,Kamlapur,,,Faridpur,-,,BD,+88001628826385,,"First name: Sowad
+Phone number: 01628826385
+Address: Kamlapur
+City: Faridpur
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.78.253.38",2026-04-04 03:57:39 -0400,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6871247618096,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801628826385,,,,,#1115.1,,,#1115.1 + #1115.2
+#1116,,pending,,fulfilled,2026-04-02 08:00:56 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-01 23:57:36 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Sadia -,"Gm tower 58 balurmath, maijdee noakhali","Gm tower 58 balurmath, maijdee noakhali",,,Maijdee,-,,BD,+88001345839495,Sadia -,"Gm tower 58 balurmath, maijdee noakhali","Gm tower 58 balurmath, maijdee noakhali",,,Maijdee,-,,BD,+88001345839495,,"First name: Sadia
+Phone number: 01345839495
+Address: Gm tower 58 balurmath, maijdee noakhali
+City: Maijdee
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.137.160.118",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6871302733872,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801345839495,,,,,#1116.1,,,#1116.1
+#1117,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-02 00:59:09 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Arena -,"Road 13, house 548, baridhara Dohs","Road 13, house 548, baridhara Dohs",,,Dhaka,-,,BD,+88001410281080,Arena -,"Road 13, house 548, baridhara Dohs","Road 13, house 548, baridhara Dohs",,,Dhaka,-,,BD,+88001410281080,,"First name: Arena
+Phone number: 01410281080
+Address: Road 13, house 548, baridhara Dohs
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707952750612
+UTM term: 120244707952780612
+IP address: 103.203.92.15",2026-04-06 02:22:44 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6871357194288,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801410281080,,,,,#1117.1,,,#1117.1 + #1117.2
+#1118,,pending,,fulfilled,2026-04-04 11:55:08 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-02 04:51:35 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,MD Razu,"রশিদ মার্কেট, মাটির মসজিদ, আশুলিয়া সাভার ঢাকা","রশিদ মার্কেট, মাটির মসজিদ, আশুলিয়া সাভার ঢাকা",,,Savar,-,,BD,+88001746630417,MD Razu,"রশিদ মার্কেট, মাটির মসজিদ, আশুলিয়া সাভার ঢাকা","রশিদ মার্কেট, মাটির মসজিদ, আশুলিয়া সাভার ঢাকা",,,Savar,-,,BD,+88001746630417,,"First name: MD Razu
+Phone number: 01746630417
+Address: রশিদ মার্কেট, মাটির মসজিদ, আশুলিয়া সাভার ঢাকা
+City: Savar
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 2400:c600:3344:5515:fcb0:92ff:fed4:5142",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6872011440176,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801746630417,,,,,#1118.1,,,#1118.1
+#1119,,voided,,unfulfilled,,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-02 05:16:28 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Data Magfur,"H 17, Rd 15, Sec 04, Uttara","H 17, Rd 15, Sec 04, Uttara",,,Dhaka,-,,BD,+88001711534650,Data Magfur,"H 17, Rd 15, Sec 04, Uttara","H 17, Rd 15, Sec 04, Uttara",,,Dhaka,-,,BD,+88001711534650,,"First name: Data Magfur
+Phone number: 01711534650
+Address: H 17, Rd 15, Sec 04, Uttara
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 103.197.153.126",2026-04-05 02:09:33 -0400,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6872026021936,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711534650,,,,,#1119.1,,,#1119.1 + #1119.2
+#1120,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-02 05:43:40 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,আমানত শাহ,jashore sadar e-block Kalabagan,jashore sadar e-block Kalabagan,,,Jashore,-,,BD,+88001717311672,আমানত শাহ,jashore sadar e-block Kalabagan,jashore sadar e-block Kalabagan,,,Jashore,-,,BD,+88001717311672,,"First name: আমানত শাহ
+Phone number: 01717311672
+Address: jashore sadar e-block Kalabagan
+City: Jashore
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 103.180.104.113",2026-04-05 02:01:35 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6872040833072,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801717311672,,,,,#1120.1,,,#1120.1 + #1120.2
+#1121,,pending,,fulfilled,2026-04-04 11:55:09 -0400,no,BDT,2730.00,100.00,0.00,2830.00,AUTOMATIC DISCOUNTS,1170.00,Steadfast (2-4 days Shipping),2026-04-02 06:33:22 -0400,3,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Tanjila -,"House-186, road-10, block-B, pallabi, Mirpur-12, dhaka","House-186, road-10, block-B, pallabi, Mirpur-12, dhaka",,,Dhaka,-,,BD,+88001781866974,Tanjila -,"House-186, road-10, block-B, pallabi, Mirpur-12, dhaka","House-186, road-10, block-B, pallabi, Mirpur-12, dhaka",,,Dhaka,-,,BD,+88001781866974,,"First name: Tanjila
+Phone number: 01781866974
+Address: House-186, road-10, block-B, pallabi, Mirpur-12, dhaka
+City: Dhaka
+UTM source: fb
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244888817260612
+UTM term: 120244888817180612
+IP address: 37.111.194.199",,Cash on Delivery (COD),"",0.00,Novia,2830.00,,,,6872075567152,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801781866974,,,,,#1121.1,,,#1121.1
+#1122,,pending,,fulfilled,2026-04-05 12:38:02 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-02 08:22:47 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Jahid Hussen,"West world shopping city, Zindabazar, Sylhet","West world shopping city, Zindabazar, Sylhet",,,Sylhet,-,,BD,+8801786642583,Jahid Hussen,"West world shopping city, Zindabazar, Sylhet","West world shopping city, Zindabazar, Sylhet",,,Sylhet,-,,BD,+8801786642583,,"First name: Jahid Hussen
+Phone number: 1786642583
+Address: West world shopping city, Zindabazar, Sylhet
+City: Sylhet
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 103.124.250.28",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6872166006832,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801786642583,,,,,#1122.1,,,#1122.1
+#1123,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-02 08:43:25 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Fatema -,"11/1, 5A, block C tajmahal road, Mohammadpur","11/1, 5A, block C tajmahal road, Mohammadpur",,,Dhaka,-,,BD,+88001534304229,Fatema -,"11/1, 5A, block C tajmahal road, Mohammadpur","11/1, 5A, block C tajmahal road, Mohammadpur",,,Dhaka,-,,BD,+88001534304229,,"First name: Fatema
+Phone number: 01534304229
+Address: 11/1, 5A, block C tajmahal road, Mohammadpur
+City: Dhaka
+UTM source: ig
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244888817260612
+UTM term: 120244888817180612
+IP address: 118.179.49.17",2026-04-04 03:46:51 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6872186454064,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801534304229,,,,,#1123.1,,,#1123.1 + #1123.2
+#1124,,pending,,fulfilled,2026-04-05 12:38:03 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-02 09:30:15 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Arafat -,"House-2/D,Road-16,Sector-4,Uttara","House-2/D,Road-16,Sector-4,Uttara",,,Dhaka,-,,BD,+88001828869292,Arafat -,"House-2/D,Road-16,Sector-4,Uttara","House-2/D,Road-16,Sector-4,Uttara",,,Dhaka,-,,BD,+88001828869292,,"First name: Arafat
+Phone number: 01828869292
+Address: House-2/D,Road-16,Sector-4,Uttara
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 103.87.251.230",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6872244125744,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801828869292,,,,,#1124.1,,,#1124.1
+#1125,,pending,,fulfilled,2026-04-04 11:55:09 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-02 10:53:28 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Nilima -,"29 karwan bazar, team building (level-5)","29 karwan bazar, team building (level-5)",,,Dhaka,-,,BD,+8801689919678,Nilima -,"29 karwan bazar, team building (level-5)","29 karwan bazar, team building (level-5)",,,Dhaka,-,,BD,+8801689919678,,"First name: Nilima
+Phone number: 1689919678
+Address: 29 karwan bazar, team building (level-5)
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707952750612
+UTM term: 120244707952780612
+IP address: 103.165.186.9",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6872367104048,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801689919678,,,,,#1125.1,,,#1125.1
+#1126,,pending,,fulfilled,2026-04-04 11:55:10 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-02 16:02:28 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Arfan -,Bhairab,Bhairab,,,Bhairab,-,,BD,+88001608890685,Arfan -,Bhairab,Bhairab,,,Bhairab,-,,BD,+88001608890685,,"First name: Arfan
+Phone number: 01608890685
+Address: Bhairab Ranir Bajar
+City: Bhairab
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 103.89.25.21",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6872884674608,"Confirmed, Dispatch only 1, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801608890685,,,,,#1126.1,,,#1126.1
+#1127,,pending,,fulfilled,2026-04-04 11:55:11 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-02 23:28:20 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,MD sagor,"sustapur hokbazar ,futullah,narayanganj","sustapur hokbazar ,futullah,narayanganj",,,Narayanganj,-,,BD,+88001331402814,MD sagor,"sustapur hokbazar ,futullah,narayanganj","sustapur hokbazar ,futullah,narayanganj",,,Narayanganj,-,,BD,+88001331402814,,"First name: MD sagor
+Phone number: 01331402814
+Address: sustapur hokbazar ,futullah,narayanganj
+City: Narayanganj
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 161.248.16.230",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6873479610416,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801331402814,,,,,#1127.1,,,#1127.1
+#1128,,pending,,fulfilled,2026-04-04 11:55:12 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-03 04:50:08 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Shumaiz -,"Bengal Airlift Ltd, Landmark Buukding, 13th floor, Gulshan 2 Circle, Gulshan 2","Bengal Airlift Ltd, Landmark Buukding, 13th floor, Gulshan 2 Circle, Gulshan 2",,,Dhaka,-,,BD,+88001817046854,Shumaiz -,"Bengal Airlift Ltd, Landmark Buukding, 13th floor, Gulshan 2 Circle, Gulshan 2","Bengal Airlift Ltd, Landmark Buukding, 13th floor, Gulshan 2 Circle, Gulshan 2",,,Dhaka,-,,BD,+88001817046854,,"First name: Shumaiz
+Phone number: 01817046854
+Address: Bengal Airlift Ltd, Landmark Buukding, 13th floor, Gulshan 2 Circle, Gulshan 2
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 120.50.180.215",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6874265649200,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801817046854,,,,,#1128.1,,,#1128.1
+#1129,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-03 05:07:35 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Safwan -,"Bou bazar, pti mur, gatepar, jamalpur","Bou bazar, pti mur, gatepar, jamalpur",,,Jamalpur,-,,BD,+88001880800328,Safwan -,"Bou bazar, pti mur, gatepar, jamalpur","Bou bazar, pti mur, gatepar, jamalpur",,,Jamalpur,-,,BD,+88001880800328,,"First name: Safwan
+Phone number: 01880800328
+Address: Bou bazar, pti mur, gatepar, jamalpur
+City: Jamalpur
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 157.15.134.233",2026-04-04 03:33:06 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6874278690864,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801880800328,,,,,#1129.1,,,#1129.1 + #1129.2
+#1130,,pending,,fulfilled,2026-04-04 11:55:12 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-03 05:23:47 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Muntaha Huda,"House 49, Road 27, Sector 7, Flat C8, Uttara","House 49, Road 27, Sector 7, Flat C8, Uttara",,,Dhaka,-,,BD,+8801820845085,Muntaha Huda,"House 49, Road 27, Sector 7, Flat C8, Uttara","House 49, Road 27, Sector 7, Flat C8, Uttara",,,Dhaka,-,,BD,+8801820845085,,"First name: Muntaha Huda
+Phone number: 1820845085
+Address: House 49, Road 27, Sector 7, Flat C8, Uttara
+City: Dhaka
+UTM source: ig
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244888817210612
+UTM term: 120244888817180612
+IP address: 202.84.35.15",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6874290946096,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801820845085,,,,,#1130.1,,,#1130.1
+#1131,,pending,,fulfilled,2026-04-04 11:55:13 -0400,no,BDT,2730.00,100.00,0.00,2830.00,AUTOMATIC DISCOUNTS,1170.00,Steadfast (2-4 days Shipping),2026-04-03 07:37:11 -0400,3,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Tasnim -,"57-57/A, Uday Tower , Gulshan-1, Dhaka.","57-57/A, Uday Tower , Gulshan-1, Dhaka.",,,Dhaka,-,,BD,+8801797088100,Tasnim -,"57-57/A, Uday Tower , Gulshan-1, Dhaka.","57-57/A, Uday Tower , Gulshan-1, Dhaka.",,,Dhaka,-,,BD,+8801797088100,,"First name: Tasnim
+Phone number: 1797088100
+Address: 57-57/A, Uday Tower , Gulshan-1, Dhaka.
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707952750612
+UTM term: 120244707952780612
+IP address: 103.60.175.7",,Cash on Delivery (COD),"",0.00,Novia,2830.00,,,,6874399801392,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801797088100,,,,,#1131.1,,,#1131.1
+#1132,,pending,,fulfilled,2026-04-04 11:55:14 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-03 08:09:50 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Ananna -,3rd floor Jamuna Bank building Nitaiganj,3rd floor Jamuna Bank building Nitaiganj,,,Narayanganj,-,,BD,+88001966657778,Ananna -,3rd floor Jamuna Bank building Nitaiganj,3rd floor Jamuna Bank building Nitaiganj,,,Narayanganj,-,,BD,+88001966657778,,"First name: Ananna
+Phone number: 01966657778
+Address: 3rd floor Jamuna Bank building Nitaiganj
+City: Narayanganj
+IP address: 103.203.178.59",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6874431488048,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801966657778,,,,,#1132.1,,,#1132.1
+#1133,,voided,,unfulfilled,,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-03 08:49:34 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Iqbal ahmed,"Kanaigat, gasbari, Banigram takar pul","Kanaigat, gasbari, Banigram takar pul",,,Sylhet,-,,BD,+88001886951190,Iqbal ahmed,"Kanaigat, gasbari, Banigram takar pul","Kanaigat, gasbari, Banigram takar pul",,,Sylhet,-,,BD,+88001886951190,,"First name: Iqbal ahmed
+Phone number: 01886951190
+Address: Kanaigat, gasbari, Banigram takar pul
+City: Sylhet
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.153.130.17",2026-04-06 02:19:58 -0400,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6874477822000,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801886951190,,,,,#1133.1,,,#1133.1 + #1133.2
+#1134,,pending,,fulfilled,2026-04-04 11:55:15 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-03 11:08:47 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Ferdous Ara,"271/19 niribili housing , west dhanmondi, shankar","271/19 niribili housing , west dhanmondi, shankar",,,Dhaka,-,,BD,+88001888676825,Ferdous Ara,"271/19 niribili housing , west dhanmondi, shankar","271/19 niribili housing , west dhanmondi, shankar",,,Dhaka,-,,BD,+88001888676825,,"First name: Ferdous Ara
+Phone number: 01888676825
+Address: 271/19 niribili housing , west dhanmondi, shankar
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.205.69.62",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6874680885296,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801888676825,,,,,#1134.1,,,#1134.1
+#1135,,pending,,fulfilled,2026-04-04 11:55:16 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-03 11:40:34 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Arian -,"Gaziour,chowrasta,bypass","Gaziour,chowrasta,bypass",,,Gazipur,-,,BD,+88001974442611,Arian -,"Gaziour,chowrasta,bypass","Gaziour,chowrasta,bypass",,,Gazipur,-,,BD,+88001974442611,,"First name: Arian
+Phone number: 01974442611
+Address: Gaziour,chowrasta,bypass
+City: Gazipur
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 2401:1900:812b:93a7:4980:e750:dcf0:319d",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6874741899312,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801974442611,,,,,#1135.1,,,#1135.1
+#1136,,pending,,fulfilled,2026-04-04 11:55:16 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-03 12:41:38 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Fahim Kader,"B5, Hs 7, Rd 116, Gulshan 2","B5, Hs 7, Rd 116, Gulshan 2",,,Dhaka,-,,BD,+8801711434397,Fahim Kader,"B5, Hs 7, Rd 116, Gulshan 2","B5, Hs 7, Rd 116, Gulshan 2",,,Dhaka,-,,BD,+8801711434397,,"First name: Fahim Kader
+Phone number: 1711434397
+Address: B5, Hs 7, Rd 116, Gulshan 2
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780290612
+UTM term: 120244707780260612
+IP address: 43.229.210.225",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6874859896880,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711434397,,,,,#1136.1,,,#1136.1
+#1137,,pending,,unfulfilled,,no,BDT,1600.00,100.00,0.00,1700.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-03 13:54:20 -0400,1,MuscleMax™ 20-in-1 Supplement Bundle,1600.00,,,true,true,pending,প্রশন কান্তি পাল,"আকুর-টাকুর পাড়া, বটতলা, উপজেলা: টাঙ্গাইল সদর, জেলা: টাঙ্গাইল","আকুর-টাকুর পাড়া, বটতলা, উপজেলা: টাঙ্গাইল সদর, জেলা: টাঙ্গাইল",,,টাঙ্গাইল,-,,BD,+88001708101807,প্রশন কান্তি পাল,"আকুর-টাকুর পাড়া, বটতলা, উপজেলা: টাঙ্গাইল সদর, জেলা: টাঙ্গাইল","আকুর-টাকুর পাড়া, বটতলা, উপজেলা: টাঙ্গাইল সদর, জেলা: টাঙ্গাইল",,,টাঙ্গাইল,-,,BD,+88001708101807,,"First name: প্রশন কান্তি পাল
+Phone number: 01708101807
+Address: আকুর-টাকুর পাড়া, বটতলা, উপজেলা: টাঙ্গাইল সদর, জেলা: টাঙ্গাইল
+City: টাঙ্গাইল
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244937461140612
+UTM content: 120244998213010612
+UTM term: 120244998213120612
+IP address: 103.72.212.67",,Cash on Delivery (COD),"",0.00,Novia,1700.00,,,,6875001159728,"New Product, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801708101807,,,,,#1137.1,,,#1137.1
+#1138,,pending,,fulfilled,2026-04-04 11:55:17 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-03 16:56:17 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Shafiq -,"Lechusha sorok,gorosthan road","Lechusha sorok,gorosthan road",,,Barishal,-,,BD,+8801791227319,Shafiq -,"Lechusha sorok,gorosthan road","Lechusha sorok,gorosthan road",,,Barishal,-,,BD,+8801791227319,,"First name: Shafiq
+Phone number: 1791227319
+Address: Lechusha sorok,gorosthan road
+City: Barishal
+IP address: 27.147.200.53",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6875334967344,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801791227319,,,,,#1138.1,,,#1138.1
+#1139,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-03 20:10:03 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Robin khan,Sylhet Golapgonj shodor shornali abashik,Sylhet Golapgonj shodor shornali abashik,,,Sylhet,-,,BD,+88001754130459,Robin khan,Sylhet Golapgonj shodor shornali abashik,Sylhet Golapgonj shodor shornali abashik,,,Sylhet,-,,BD,+88001754130459,,"First name: Robin khan
+Phone number: 01754130459
+Address: Sylhet Golapgonj shodor shornali abashik
+City: Sylhet
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.199.109.136",2026-04-07 02:28:37 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6875583610928,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801754130459,,,,,#1139.1,,,#1139.1 + #1139.2
+#1140,,pending,,fulfilled,2026-04-05 12:38:03 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 03:45:34 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Zahid khan,"thakurpara,cumilla 3500","thakurpara,cumilla 3500",,,Comilla,-,,BD,+88001805625686,Zahid khan,"thakurpara,cumilla 3500","thakurpara,cumilla 3500",,,Comilla,-,,BD,+88001805625686,Send only 1,"First name: Zahid khan
+Phone number: 01805625686
+Address: thakurpara,cumilla 3500
+City: Comilla
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 103.214.202.102",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6876446883888,"Confirmed, Dispatch only 1×, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801805625686,,,,,#1140.1,,,#1140.1
+#1141,,pending,,fulfilled,2026-04-05 12:38:04 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 04:59:36 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,আমানত শাহ,Jashore sadar e-block Kalabagan,Jashore sadar e-block Kalabagan,,,Jashore,-,,BD,+88001717311672,আমানত শাহ,Jashore sadar e-block Kalabagan,Jashore sadar e-block Kalabagan,,,Jashore,-,,BD,+88001717311672,,"First name: আমানত শাহ
+Phone number: 01717311672
+Address: Jashore sadar e-block Kalabagan
+City: Jashore
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.180.104.102",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6876498100272,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801717311672,,,,,#1141.1,,,#1141.1
+#1142,,pending,,fulfilled,2026-04-05 12:38:05 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 05:16:28 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Fariha -,"96 Darus Salam Mirpur Dhaka 1216, Comfort Garments Building","96 Darus Salam Mirpur Dhaka 1216, Comfort Garments Building",,,Dhaka,-,,BD,+88001764197890,Fariha -,"96 Darus Salam Mirpur Dhaka 1216, Comfort Garments Building","96 Darus Salam Mirpur Dhaka 1216, Comfort Garments Building",,,Dhaka,-,,BD,+88001764197890,,"First name: Fariha
+Phone number: 01764197890
+Address: 96 Darus Salam Mirpur Dhaka 1216, Comfort Garments Building
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707669600612
+UTM term: 120244706691230612
+IP address: 103.218.27.89",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6876508880944,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801764197890,,,,,#1142.1,,,#1142.1
+#1143,,pending,,fulfilled,2026-04-05 12:38:06 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 05:53:01 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Zakaria Saikat,"Shanta Tower, Tejgaon, Dhaka","Shanta Tower, Tejgaon, Dhaka",,,Dhaka,-,,BD,+8801791023066,Zakaria Saikat,"Shanta Tower, Tejgaon, Dhaka","Shanta Tower, Tejgaon, Dhaka",,,Dhaka,-,,BD,+8801791023066,,"First name: Zakaria Saikat
+Phone number: 1791023066
+Address: Shanta Tower, Tejgaon, Dhaka
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 2400:c600:334a:fb29:1:0:8de0:a08a",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6876533391408,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801791023066,,,,,#1143.1,,,#1143.1
+#1144,,pending,,fulfilled,2026-04-05 12:38:07 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 06:41:08 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Nehal -,"2/5 NS Road, Block- A, Banasree","2/5 NS Road, Block- A, Banasree",,,Dhaka,-,,BD,+88001979590390,Nehal -,"2/5 NS Road, Block- A, Banasree","2/5 NS Road, Block- A, Banasree",,,Dhaka,-,,BD,+88001979590390,,"First name: Nehal
+Phone number: 01979590390
+Address: 2/5 NS Road, Block- A, Banasree
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 2401:ff80:2000:fa0d:31d5:3f6e:ba97:380a",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6876569763888,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801979590390,,,,,#1144.1,,,#1144.1
+#1145,,pending,,unfulfilled,,no,BDT,1600.00,100.00,0.00,1700.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 07:23:48 -0400,1,MuscleMax™ 20-in-1 Supplement Bundle,1600.00,,,true,true,pending,Amit -,Senpara,Senpara,,,Rangpur,-,,BD,+8801763345495,Amit -,Senpara,Senpara,,,Rangpur,-,,BD,+8801763345495,,"First name: Amit
+Phone number: 1763345495
+Address: Senpara
+City: Rangpur
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244937461140612
+UTM content: 120244998213010612
+UTM term: 120244998213120612
+IP address: 37.111.229.39",,Cash on Delivery (COD),"",0.00,Novia,1700.00,,,,6876602040368,"New Product, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801763345495,,,,,#1145.1,,,#1145.1
+#1146,,pending,,fulfilled,2026-04-05 12:38:07 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 07:25:54 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Saadman -,"Bashundhara R/A,Block-E, Road-6, Tenement-1","Bashundhara R/A,Block-E, Road-6, Tenement-1",,,Dhaka,-,,BD,+8801749996099,Saadman -,"Bashundhara R/A,Block-E, Road-6, Tenement-1","Bashundhara R/A,Block-E, Road-6, Tenement-1",,,Dhaka,-,,BD,+8801749996099,,"First name: Saadman
+Phone number: 1749996099
+Address: Bashundhara R/A,Block-E, Road-6, Tenement-1
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 103.112.52.253",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6876604203056,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801749996099,,,,,#1146.1,,,#1146.1
+#1147,,pending,,fulfilled,2026-04-05 12:38:08 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 08:38:00 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Ridwan -,"h-192, r-8, blk-c, bashundhara ra","h-192, r-8, blk-c, bashundhara ra",,,Dhaka,-,,BD,+8801336633205,Ridwan -,"h-192, r-8, blk-c, bashundhara ra","h-192, r-8, blk-c, bashundhara ra",,,Dhaka,-,,BD,+8801336633205,,"First name: Ridwan
+Phone number: 1336633205
+Address: h-192, r-8, blk-c, bashundhara ra
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.146.10.1",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6876669968432,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801336633205,,,,,#1147.1,,,#1147.1
+#1148,,pending,,fulfilled,2026-04-05 12:38:09 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 09:22:18 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Syfullah Mansur,"Bangladesh Marine Academy, Chittagong","Bangladesh Marine Academy, Chittagong",,,Anowara,-,,BD,+88001952062981,Syfullah Mansur,"Bangladesh Marine Academy, Chittagong","Bangladesh Marine Academy, Chittagong",,,Anowara,-,,BD,+88001952062981,,"First name: Syfullah Mansur
+Phone number: 01952062981
+Address: Bangladesh Marine Academy, Chittagong
+City: Anowara
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707952740612
+UTM term: 120244707952780612
+IP address: 2401:1900:2083:d9fd:acb1:82f:47ec:da75",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6876720562224,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801952062981,,,,,#1148.1,,,#1148.1
+#1149,,pending,,fulfilled,2026-04-06 07:15:18 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 10:32:21 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Iqbal ahmed,"Sylhet, kajitula, digir phar","Sylhet, kajitula, digir phar",,,Sylhet,-,,BD,+8801323353692,Iqbal ahmed,"Sylhet, kajitula, digir phar","Sylhet, kajitula, digir phar",,,Sylhet,-,,BD,+8801323353692,,"First name: Iqbal ahmed
+Phone number: 1323353692
+Address: Sylhet, kajitula, digir phar
+City: Sylhet
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.153.130.17",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6876811001904,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801323353692,,,,,#1149.1,,,#1149.1
+#1150,,pending,,fulfilled,2026-04-05 12:38:10 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 11:14:05 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Samiul Abrar,"SM  Tower, New monsurabad,  Ak khan , Chittagong","SM  Tower, New monsurabad,  Ak khan , Chittagong",,,Chittagong,-,,BD,+88001978224289,Samiul Abrar,"SM  Tower, New monsurabad,  Ak khan , Chittagong","SM  Tower, New monsurabad,  Ak khan , Chittagong",,,Chittagong,-,,BD,+88001978224289,,"First name: Samiul Abrar
+Phone number: 01978224289
+Address: SM  Tower, New monsurabad,  Ak khan , Chittagong
+City: Chittagong
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.135.253.143",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6876874768432,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801978224289,,,,,#1150.1,,,#1150.1
+#1151,,pending,,fulfilled,2026-04-05 12:38:10 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 11:23:42 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Suraiya -,"Flat#3D, House#122, Road#9/A, Dhanmondi","Flat#3D, House#122, Road#9/A, Dhanmondi",,,Dhaka,-,,BD,+88001820162616,Suraiya -,"Flat#3D, House#122, Road#9/A, Dhanmondi","Flat#3D, House#122, Road#9/A, Dhanmondi",,,Dhaka,-,,BD,+88001820162616,,"First name: Suraiya
+Phone number: 01820162616
+Address: Flat#3D, House#122, Road#9/A, Dhanmondi
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800810612
+UTM term: 120244707800830612
+IP address: 103.60.175.14",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6876889907248,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801820162616,,,,,#1151.1,,,#1151.1
+#1152,,pending,,unfulfilled,,no,BDT,1600.00,100.00,0.00,1700.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 13:59:00 -0400,1,MuscleMax™ 20-in-1 Supplement Bundle,1600.00,,,true,true,pending,jishan -,"Kishoreganj Sadar, Hoybotnogor, Dhaanshiri Road","Kishoreganj Sadar, Hoybotnogor, Dhaanshiri Road",,,Kishoreganj,-,,BD,+88001632059484,jishan -,"Kishoreganj Sadar, Hoybotnogor, Dhaanshiri Road","Kishoreganj Sadar, Hoybotnogor, Dhaanshiri Road",,,Kishoreganj,-,,BD,+88001632059484,,"First name: jishan
+Phone number: 01632059484
+Address: Kishoreganj Sadar, Hoybotnogor, Dhaanshiri Road
+City: Kishoreganj
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244937461140612
+UTM content: 120244975266900612
+UTM term: 120244975266930612
+IP address: 103.124.180.126",,Cash on Delivery (COD),"",0.00,Novia,1700.00,,,,6877146841136,"New Product, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801632059484,,,,,#1152.1,,,#1152.1
+#1153,,pending,,fulfilled,2026-04-05 12:38:11 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 15:21:13 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Sabik Ahmed,"Nasirabad, polytechnical, mojaffornagar, road num-3, Chittagong","Nasirabad, polytechnical, mojaffornagar, road num-3, Chittagong",,,Chittagong,-,,BD,+88001844580473,Sabik Ahmed,"Nasirabad, polytechnical, mojaffornagar, road num-3, Chittagong","Nasirabad, polytechnical, mojaffornagar, road num-3, Chittagong",,,Chittagong,-,,BD,+88001844580473,,"First name: Sabik Ahmed
+Phone number: 01844580473
+Address: Nasirabad, polytechnical, mojaffornagar, road num-3, Chittagong
+City: Chittagong
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707800850612
+UTM term: 120244707800830612
+IP address: 103.101.54.175",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6877284892720,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801844580473,,,,,#1153.1,,,#1153.1
+#1154,,pending,,fulfilled,2026-04-05 12:38:12 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 16:02:14 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Rafsan -,"Gulshan 1,Rd 128,Flat B3,House-17","Gulshan 1,Rd 128,Flat B3,House-17",,,Dhaka 1212,-,,BD,+88001791492116,Rafsan -,"Gulshan 1,Rd 128,Flat B3,House-17","Gulshan 1,Rd 128,Flat B3,House-17",,,Dhaka 1212,-,,BD,+88001791492116,,"First name: Rafsan
+Phone number: 01791492116
+Address: Gulshan 1,Rd 128,Flat B3,House-17
+City: Dhaka 1212
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120245044660860612
+UTM content: 120245044973780612
+UTM term: 120245044973790612
+IP address: 36.50.9.128",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6877348724784,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801791492116,,,,,#1154.1,,,#1154.1
+#1155,,pending,,fulfilled,2026-04-05 12:38:13 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 16:30:54 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Sabbir ahmed,Pagar Tongi Gazipur,Pagar Tongi Gazipur,,,Gazipur,-,,BD,+8801608420104,Sabbir ahmed,Pagar Tongi Gazipur,Pagar Tongi Gazipur,,,Gazipur,-,,BD,+8801608420104,,"First name: Sabbir ahmed
+Phone number: 1608420104
+Address: Pagar Tongi Gazipur
+City: Gazipur
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 103.96.71.233",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6877395550256,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801608420104,,,,,#1155.1,,,#1155.1
+#1156,,pending,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 16:56:29 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Tanjim -,"15,unmesh dutta road,dhaka","15,unmesh dutta road,dhaka",,,Dhaka,-,,BD,+88001975404839,Tanjim -,"15,unmesh dutta road,dhaka","15,unmesh dutta road,dhaka",,,Dhaka,-,,BD,+88001975404839,,"First name: Tanjim
+Phone number: 01975404839
+Address: 15,unmesh dutta road,dhaka
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 165.101.132.19",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6877456465968,"3rd call done, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801975404839,,,,,#1156.1,,,#1156.1
+#1157,,pending,,fulfilled,2026-04-05 12:38:14 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-04 17:30:30 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Labiba -,Bashundhara I block Afroza begem road house 578,Bashundhara I block Afroza begem road house 578,,,Dhaka,-,,BD,+88001793389065,Labiba -,Bashundhara I block Afroza begem road house 578,Bashundhara I block Afroza begem road house 578,,,Dhaka,-,,BD,+88001793389065,,"First name: Labiba
+Phone number: 01793389065
+Address: Bashundhara I block Afroza begem road house 578
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707952800612
+UTM term: 120244707952780612
+IP address: 103.129.238.255",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6877504077872,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801793389065,,,,,#1157.1,,,#1157.1
+#1158,,pending,,fulfilled,2026-04-06 07:15:18 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-04 23:36:01 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Selim -,Sadar coxs bazar,Sadar coxs bazar,,,Sadar Coxs Bazar,-,,BD,+8801843440090,Selim -,Sadar coxs bazar,Sadar coxs bazar,,,Sadar Coxs Bazar,-,,BD,+8801843440090,,"First name: Selim
+Phone number: 1843440090
+Address: Sadar coxs bazar
+City: Sadar Coxs Bazar
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 2404:1c40:455:f621:401:7b39:91fb:ee8b",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6877901815856,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801843440090,,,,,#1158.1,,,#1158.1
+#1159,,pending,,fulfilled,2026-04-05 12:38:15 -0400,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-05 00:01:53 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Muntaha -,"House-1066, Road-7, Avenue-7, Mirpur dohs","House-1066, Road-7, Avenue-7, Mirpur dohs",,,Dhaka,-,,BD,+88001608038872,Muntaha -,"House-1066, Road-7, Avenue-7, Mirpur dohs","House-1066, Road-7, Avenue-7, Mirpur dohs",,,Dhaka,-,,BD,+88001608038872,,"First name: Muntaha
+Phone number: 01608038872
+Address: House-1066, Road-7, Avenue-7, Mirpur dohs
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707780320612
+UTM term: 120244707780260612
+IP address: 103.29.60.165",,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6877924327472,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801608038872,,,,,#1159.1,,,#1159.1
+#1160,,voided,,unfulfilled,,no,BDT,1300.00,100.00,0.00,1400.00,"",0.00,Steadfast (2-4 days Shipping),2026-04-05 03:36:14 -0400,1,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Dr. Najmu,Uttora 07,Uttora 07,,,Dhaka,-,,BD,+88001856684171,Dr. Najmu,Uttora 07,Uttora 07,,,Dhaka,-,,BD,+88001856684171,,"First name: Dr. Najmu
+Phone number: 01856684171
+Address: Uttora 07
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 45.250.229.176",2026-04-06 01:57:36 -0400,Cash on Delivery (COD),"",0.00,Novia,1400.00,,,,6878533156912,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801856684171,,,,,#1160.1,,,#1160.1 + #1160.2
+#1161,,pending,,fulfilled,2026-04-06 07:15:19 -0400,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-05 04:51:21 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,fulfilled,Md jahid asraf,"Ecs computer city , maltiplan center shop no -835 level - 8 , new elephant road Dhaka-1205","Ecs computer city , maltiplan center shop no -835 level - 8 , new elephant road Dhaka-1205",,,Dhaka,-,,BD,+8801898828302,Md jahid asraf,"Ecs computer city , maltiplan center shop no -835 level - 8 , new elephant road Dhaka-1205","Ecs computer city , maltiplan center shop no -835 level - 8 , new elephant road Dhaka-1205",,,Dhaka,-,,BD,+8801898828302,,"First name: Md jahid asraf
+Phone number: 1898828302
+Address: Ecs computer city , maltiplan center shop no -835 level - 8 , new elephant road Dhaka-1205
+City: Dhaka
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707952740612
+UTM term: 120244707952780612
+IP address: 103.72.137.17",,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6878588108848,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801898828302,,,,,#1161.1,,,#1161.1
+#1162,,voided,,unfulfilled,,no,BDT,2080.00,100.00,0.00,2180.00,AUTOMATIC DISCOUNTS,520.00,Steadfast (2-4 days Shipping),2026-04-05 04:56:41 -0400,2,Advanced Hair Growth Roll‑On Serum,1300.00,,,true,true,pending,Uba -,"Kaptai, chittmorom","Kaptai, chittmorom",,,Rangamati,-,,BD,+88001553829791,Uba -,"Kaptai, chittmorom","Kaptai, chittmorom",,,Rangamati,-,,BD,+88001553829791,,"First name: Uba
+Phone number: 01553829791
+Address: Kaptai, chittmorom
+City: Rangamati
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120244702925980612
+UTM content: 120244707235360612
+UTM term: 120244706691230612
+IP address: 103.230.104.22",2026-04-07 02:25:32 -0400,Cash on Delivery (COD),"",0.00,Novia,2180.00,,,,6878591975472,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801553829791,,,,,#1162.1,,,#1162.1 + #1162.2

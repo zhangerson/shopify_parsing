@@ -1,0 +1,528 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#3763,,pending,,fulfilled,2026-04-04 20:49:44 +0500,yes,BDT,1805.00,50.00,0.00,1855.00,UPSELL DISCOUNT,845.00,Standard Shipping,2026-04-04 00:27:43 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,fulfilled,Ashraful -,Green road 229 dhaka kolbagan,Green road 229 dhaka kolbagan,,,Dhaka,-,,BD,+88001851039450,Ashraful -,Green road 229 dhaka kolbagan,Green road 229 dhaka kolbagan,,,Dhaka,-,,BD,+88001851039450,Only send skin tag removal patch,"First name: Ashraful
+Phone number: 01851039450
+Address: Green road 229 dhaka kolbagan
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120235916079620743
+UTM content: 120235916124870743
+UTM term: 120235916124760743
+IP address: 216.106.183.98",,Cash on Delivery (COD),"",0.00,Passion Mart,1855.00,,,,7391512559861,"Confirmed, Dispatch only 1× skin tag patch, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801851039450,,,,,#3763.1,,,#3763.1
+#3763,,,,,,,,,,,,,,,2026-04-04 00:27:43 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801851039450,,,,,,,,
+#3764,,pending,,fulfilled,2026-04-06 16:09:13 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 00:59:20 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Afsara -,"House 1/C, road 73, gulshan 2","House 1/C, road 73, gulshan 2",,,Dhaka,-,,BD,+88001754589504,Afsara -,"House 1/C, road 73, gulshan 2","House 1/C, road 73, gulshan 2",,,Dhaka,-,,BD,+88001754589504,,"First name: Afsara
+Phone number: 01754589504
+Address: House 1/C, road 73, gulshan 2
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145220743
+UTM term: 120240855145100743
+IP address: 122.144.8.217",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7391569838325,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801754589504,,,,,#3764.1,,,#3764.1
+#3765,,pending,,fulfilled,2026-04-04 20:49:45 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 04:54:07 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Raya -,"Flat 14E, House 01, Genetic Huq Garden, Ring Road, Shamoly, Dhaka 1207","Flat 14E, House 01, Genetic Huq Garden, Ring Road, Shamoly, Dhaka 1207",,,Dhaka,-,,BD,+8801741653030,Raya -,"Flat 14E, House 01, Genetic Huq Garden, Ring Road, Shamoly, Dhaka 1207","Flat 14E, House 01, Genetic Huq Garden, Ring Road, Shamoly, Dhaka 1207",,,Dhaka,-,,BD,+8801741653030,,"First name: Raya
+Phone number: 1741653030
+Address: Flat 14E, House 01, Genetic Huq Garden, Ring Road, Shamoly, Dhaka 1207
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 118.179.49.17",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7391987826933,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801741653030,,,,,#3765.1,,,#3765.1
+#3766,,pending,,fulfilled,2026-04-04 20:49:46 +0500,yes,BDT,1350.00,100.00,0.00,1450.00,"",0.00,Fast Shipping,2026-04-04 07:05:13 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Babu -,CB206/2 Rahmanvobon Kachu Khat Main Road Dhaka cant Dhaka 1206,CB206/2 Rahmanvobon Kachu Khat Main Road Dhaka cant Dhaka 1206,,,Dhaka,-,,BD,+88001970353478,Babu -,CB206/2 Rahmanvobon Kachu Khat Main Road Dhaka cant Dhaka 1206,CB206/2 Rahmanvobon Kachu Khat Main Road Dhaka cant Dhaka 1206,,,Dhaka,-,,BD,+88001970353478,,"First name: Babu
+Phone number: 01970353478
+Address: CB206/2 Rahmanvobon Kachu Khat Main Road Dhaka cant Dhaka 1206
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120237002023340743
+UTM content: 120237002702660743
+UTM term: 120237002702750743
+IP address: 37.111.214.235",,Cash on Delivery (COD),"",0.00,My Store,1450.00,,,,7392145113333,"1st Attempt, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801970353478,,,,,#3766.1,,,#3766.1
+#3767,,pending,,fulfilled,2026-04-04 20:49:46 +0500,no,BDT,1350.00,100.00,0.00,1450.00,"",0.00,Fast Shipping,2026-04-04 09:05:13 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Shiplu -,"House - 8, Road - 6, Block -H, Banshree,Rampura","House - 8, Road - 6, Block -H, Banshree,Rampura",,,Dhaka,-,,BD,+88001756200050,Shiplu -,"House - 8, Road - 6, Block -H, Banshree,Rampura","House - 8, Road - 6, Block -H, Banshree,Rampura",,,Dhaka,-,,BD,+88001756200050,,"First name: Shiplu
+Phone number: 01756200050
+Address: House - 8, Road - 6, Block -H, Banshree,Rampura
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120237002023340743
+UTM content: 120237002702660743
+UTM term: 120237002702750743
+IP address: 103.152.107.241",,Cash on Delivery (COD),"",0.00,My Store,1450.00,,,,7392263536885,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801756200050,,,,,#3767.1,,,#3767.1
+#3768,,pending,,fulfilled,2026-04-04 20:49:47 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 09:20:13 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Dr. Shishir Kumer Gain,"Disha Diagnostic center,upazila road, Agailjhara, Barishal","Disha Diagnostic center,upazila road, Agailjhara, Barishal",,,Agailjhara,-,,BD,+88001712679825,Dr. Shishir Kumer Gain,"Disha Diagnostic center,upazila road, Agailjhara, Barishal","Disha Diagnostic center,upazila road, Agailjhara, Barishal",,,Agailjhara,-,,BD,+88001712679825,,"First name: Dr. Shishir Kumer Gain
+Phone number: 01712679825
+Address: Disha Diagnostic center,upazila road, Agailjhara, Barishal
+City: Agailjhara
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120239351962900743
+UTM content: 120239351963720743
+UTM term: 120239351963700743
+IP address: 202.86.219.231",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7392326058229,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801712679825,,,,,#3768.1,,,#3768.1
+#3769,,pending,,fulfilled,2026-04-05 21:33:54 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 11:17:50 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Fauzia -,Sec12block E lane 2house 34mirpur kalshi pallabi,Sec12block E lane 2house 34mirpur kalshi pallabi,,,Dhaka,-,,BD,+88001752801598,Fauzia -,Sec12block E lane 2house 34mirpur kalshi pallabi,Sec12block E lane 2house 34mirpur kalshi pallabi,,,Dhaka,-,,BD,+88001752801598,,"First name: Fauzia
+Phone number: 01752801598
+Address: Sec12block E lane 2house 34mirpur kalshi pallabi
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240397332310743
+UTM content: 120240397433110743
+UTM term: 120240397433100743
+IP address: 103.88.142.52",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7392573718773,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801752801598,,,,,#3769.1,,,#3769.1
+#3770,,voided,,unfulfilled,,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 13:34:50 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,pending,Manzima -,Swc-1 gulshan 1,Swc-1 gulshan 1,,,Dhaka,-,,BD,+8801711392331,Manzima -,Swc-1 gulshan 1,Swc-1 gulshan 1,,,Dhaka,-,,BD,+8801711392331,,"First name: Manzima
+Phone number: 1711392331
+Address: Swc-1 gulshan 1
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120235916079620743
+UTM content: 120235916124900743
+UTM term: 120235916124770743
+IP address: 103.108.60.158",2026-04-08 10:22:01 +0500,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7392709902581,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711392331,,,,,#3770.1,,,#3770.1 + #3770.2
+#3771,,voided,,unfulfilled,,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 13:49:29 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,pending,Raihan Ahmed Hridoy,"Narayanganj, Sonargaon,  Ashariachar","Narayanganj, Sonargaon,  Ashariachar",,,Newton,-,,BD,+88001932522260,Raihan Ahmed Hridoy,"Narayanganj, Sonargaon,  Ashariachar","Narayanganj, Sonargaon,  Ashariachar",,,Newton,-,,BD,+88001932522260,,"First name: Raihan Ahmed Hridoy
+Phone number: 01932522260
+Address: Narayanganj, Sonargaon,  Ashariachar
+City: Newton
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120235916079620743
+UTM content: 120235916124900743
+UTM term: 120235916124770743
+IP address: 59.152.4.247",2026-04-06 12:01:10 +0500,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7392718651637,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801932522260,,,,,#3771.1,,,#3771.1 + #3771.2
+#3772,,voided,,unfulfilled,,no,BDT,3625.00,50.00,0.00,3675.00,UPSELL DISCOUNT,4225.00,Standard Shipping,2026-04-04 19:45:59 +0500,5,Clinical Beauty Filler - buy 1,1300.00,,,true,true,pending,ববি হোসেন,ফরাশগঞ্জ সুত্র পুর ঢাকা,ফরাশগঞ্জ সুত্র পুর ঢাকা,,,ঢাকা,-,,BD,+88001711682214,ববি হোসেন,ফরাশগঞ্জ সুত্র পুর ঢাকা,ফরাশগঞ্জ সুত্র পুর ঢাকা,,,ঢাকা,-,,BD,+88001711682214,,"First name: ববি হোসেন
+Phone number: 01711682214
+Address: ফরাশগঞ্জ সুত্র পুর ঢাকা
+City: ঢাকা
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145180743
+UTM term: 120240855145080743
+IP address: 103.160.8.99",2026-04-05 11:40:15 +0500,Cash on Delivery (COD),"",0.00,Passion Mart,3675.00,,,,7393226522869,"checked - 6 April, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711682214,,,,,#3772.1,,,#3772.1 + #3772.2
+#3772,,,,,,,,,,,,,,,2026-04-04 19:45:59 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,pending,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801711682214,,,,,,,,
+#3773,,pending,,fulfilled,2026-04-05 21:33:55 +0500,yes,BDT,4050.00,50.00,0.00,4100.00,"",0.00,Standard Shipping,2026-04-04 21:41:33 +0500,3,Japanese Instant Pain Relief Soothing Massage Gel - Buy 1,1350.00,,,true,true,fulfilled,Tanvir -,Flat 1 J Aziz Housing Complex Shahbagh,Flat 1 J Aziz Housing Complex Shahbagh,,,Dhaka,-,,BD,+88001715158457,Tanvir -,Flat 1 J Aziz Housing Complex Shahbagh,Flat 1 J Aziz Housing Complex Shahbagh,,,Dhaka,-,,BD,+88001715158457,,"First name: Tanvir
+Phone number: 01715158457
+Address: Flat 1 J Aziz Housing Complex Shahbagh
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240662065380743
+UTM content: 120240663730240743
+UTM term: 120240663730160743
+IP address: 103.72.212.28",,Cash on Delivery (COD),"",0.00,Fleximart,4100.00,,,,7393441906933,"20% Discount 3290 Tk, Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801715158457,,,,,#3773.1,,,#3773.1
+#3774,,pending,,fulfilled,2026-04-05 21:33:55 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 22:03:19 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Shakhawat -,"Ka-24, Kuril, Progati Sarani","Ka-24, Kuril, Progati Sarani",,,Vatara,-,,BD,+88001711146877,Shakhawat -,"Ka-24, Kuril, Progati Sarani","Ka-24, Kuril, Progati Sarani",,,Vatara,-,,BD,+88001711146877,,"First name: Shakhawat
+Phone number: 01711146877
+Address: Ka-24, Kuril, Progati Sarani
+City: Vatara
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244605020743
+UTM content: 120240244661040743
+UTM term: 120240244660990743
+IP address: 103.127.4.21",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7393486536949,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711146877,,,,,#3774.1,,,#3774.1
+#3775,,pending,,fulfilled,2026-04-06 16:09:14 +0500,no,BDT,1805.00,50.00,0.00,1855.00,UPSELL DISCOUNT,845.00,Standard Shipping,2026-04-04 22:14:59 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,fulfilled,Abdus -,"Urban Jewel Rd 23, H 32, Block B Banani.","Urban Jewel Rd 23, H 32, Block B Banani.",,,Dhaka,-,,BD,+88001726394071,Abdus -,"Urban Jewel Rd 23, H 32, Block B Banani.","Urban Jewel Rd 23, H 32, Block B Banani.",,,Dhaka,-,,BD,+88001726394071,,"First name: Abdus
+Phone number: 01726394071
+Address: Urban Jewel Rd 23, H 32, Block B Banani.
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244489000743
+UTM content: 120240244489660743
+UTM term: 120240244489710743
+IP address: 103.91.231.213",,Cash on Delivery (COD),"",0.00,Passion Mart,1855.00,,,,7393511670005,"Confirmed, Dispatch only 1× skin tag patch, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801726394071,,,,,#3775.1,,,#3775.1
+#3775,,,,,,,,,,,,,,,2026-04-04 22:14:59 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801726394071,,,,,,,,
+#3776,,pending,,fulfilled,2026-04-05 21:33:56 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 23:04:45 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Mizanul -,"Road 18 House 29 Block-B, Banani","Road 18 House 29 Block-B, Banani",,,Dhaka,-,,BD,+88001711353027,Mizanul -,"Road 18 House 29 Block-B, Banani","Road 18 House 29 Block-B, Banani",,,Dhaka,-,,BD,+88001711353027,,"First name: Mizanul
+Phone number: 01711353027
+Address: Road 18 House 29 Block-B, Banani
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145220743
+UTM term: 120240855145100743
+IP address: 118.179.179.209",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7393616462069,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711353027,,,,,#3776.1,,,#3776.1
+#3777,,pending,,fulfilled,2026-04-05 21:33:56 +0500,yes,BDT,1805.00,100.00,0.00,1905.00,UPSELL DISCOUNT,845.00,Fast Shipping,2026-04-04 23:33:14 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,fulfilled,Nasir -,"Riad 16 house232, dohs mohakhali","Riad 16 house232, dohs mohakhali",,,Dhaka,-,,BD,+88001309306118,Nasir -,"Riad 16 house232, dohs mohakhali","Riad 16 house232, dohs mohakhali",,,Dhaka,-,,BD,+88001309306118,,"First name: Nasir
+Phone number: 01309306118
+Address: Riad 16 house232, dohs mohakhali
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120235916079620743
+UTM content: 120235916124900743
+UTM term: 120235916124770743
+IP address: 114.130.98.131",,Cash on Delivery (COD),"",0.00,Passion Mart,1905.00,,,,7393679671541,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801309306118,,,,,#3777.1,,,#3777.1
+#3777,,,,,,,,,,,,,,,2026-04-04 23:33:14 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801309306118,,,,,,,,
+#3778,,pending,,fulfilled,2026-04-05 21:33:57 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-04 23:50:41 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,MD ALIM UDDIN,"29/4-A,SHAHJALAL NURUNNAHAR BUILDING,ROHMANIA HOTEL GOLI, MIDDLE PAIKPARA, MIRPUR-1, DHAKA-1216","29/4-A,SHAHJALAL NURUNNAHAR BUILDING,ROHMANIA HOTEL GOLI, MIDDLE PAIKPARA, MIRPUR-1, DHAKA-1216",,,DHAKA,-,,BD,+88001798511159,MD ALIM UDDIN,"29/4-A,SHAHJALAL NURUNNAHAR BUILDING,ROHMANIA HOTEL GOLI, MIDDLE PAIKPARA, MIRPUR-1, DHAKA-1216","29/4-A,SHAHJALAL NURUNNAHAR BUILDING,ROHMANIA HOTEL GOLI, MIDDLE PAIKPARA, MIRPUR-1, DHAKA-1216",,,DHAKA,-,,BD,+88001798511159,,"First name: MD ALIM UDDIN
+Phone number: 01798511159
+Address: 29/4-A,SHAHJALAL NURUNNAHAR BUILDING,ROHMANIA HOTEL GOLI, MIDDLE PAIKPARA, MIRPUR-1, DHAKA-1216
+City: DHAKA
+Subscribe to stay updated with new products and offers!: on
+IP address: 37.111.215.170",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7393718993141,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801798511159,,,,,#3778.1,,,#3778.1
+#3779,,pending,,fulfilled,2026-04-05 21:33:57 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 00:04:59 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Mehnaz Tabassum,"House 692,Road:2, Block:H, Bashundhara r/a","House 692,Road:2, Block:H, Bashundhara r/a",,,Dhaka,-,,BD,+88001535492478,Mehnaz Tabassum,"House 692,Road:2, Block:H, Bashundhara r/a","House 692,Road:2, Block:H, Bashundhara r/a",,,Dhaka,-,,BD,+88001535492478,,"First name: Mehnaz Tabassum
+Phone number: 01535492478
+Address: House 692,Road:2, Block:H, Bashundhara r/a
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244605020743
+UTM content: 120240244661040743
+UTM term: 120240244660990743
+IP address: 103.49.114.200",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7393750515957,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801535492478,,,,,#3779.1,,,#3779.1
+#3780,,pending,,fulfilled,2026-04-05 21:33:58 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 00:31:59 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Farmina -,House 21 road 10/b block H banani,House 21 road 10/b block H banani,,,Dhaka,-,,BD,+8801713276462,Farmina -,House 21 road 10/b block H banani,House 21 road 10/b block H banani,,,Dhaka,-,,BD,+8801713276462,,"First name: Farmina
+Phone number: 1713276462
+Address: House 21 road 10/b block H banani
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244605020743
+UTM content: 120240244661040743
+UTM term: 120240244660990743
+IP address: 123.200.14.226",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7393807270133,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801713276462,,,,,#3780.1,,,#3780.1
+#3781,,voided,,unfulfilled,,yes,BDT,1300.00,50.00,0.00,1350.00,"",0.00,Standard Shipping,2026-04-05 02:29:01 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,pending,Rubel -,Kushtia,Kushtia,,,Mirpurkushtia,-,,BD,+88001715249112,Rubel -,Kushtia,Kushtia,,,Mirpurkushtia,-,,BD,+88001715249112,,"First name: Rubel
+Phone number: 01715249112
+Address: Kushtia
+City: Mirpurkushtia
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240660527530743
+UTM content: 120240660527740743
+UTM term: 120240660527730743
+IP address: 203.190.14.173",2026-04-05 11:28:25 +0500,Cash on Delivery (COD),"",0.00,Passion Mart,1350.00,,,,7394047557877,"checked - 6 April, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801715249112,,,,,#3781.1,,,#3781.1 + #3781.2
+#3782,,voided,,unfulfilled,,no,BDT,1805.00,50.00,0.00,1855.00,UPSELL DISCOUNT,845.00,Standard Shipping,2026-04-05 06:18:44 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,pending,Fauzia -,House 29 road 36 gulshan 2,House 29 road 36 gulshan 2,,,Dhaka,-,,BD,+88001720699049,Fauzia -,House 29 road 36 gulshan 2,House 29 road 36 gulshan 2,,,Dhaka,-,,BD,+88001720699049,,"First name: Fauzia
+Phone number: 01720699049
+Address: House 29 road 36 gulshan 2
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120237002023340743
+UTM content: 120237002023410743
+UTM term: 120237002023400743
+IP address: 37.111.194.59",2026-04-07 10:47:33 +0500,Cash on Delivery (COD),"",0.00,Passion Mart,1855.00,,,,7394374123765,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801720699049,,,,,#3782.1,,,#3782.1 + #3782.2
+#3782,,,,,,,,,,,,,,,2026-04-05 06:18:44 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,pending,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801720699049,,,,,,,,
+#3783,,pending,,fulfilled,2026-04-05 21:33:58 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 07:42:13 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Md muid,56/1S west panthopoth,56/1S west panthopoth,,,Dhaka,-,,BD,+88001981565555,Md muid,56/1S west panthopoth,56/1S west panthopoth,,,Dhaka,-,,BD,+88001981565555,,"First name: Md muid
+Phone number: 01981565555
+Address: 56/1S west panthopoth
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240662065380743
+UTM content: 120240663730230743
+UTM term: 120240663730130743
+IP address: 103.115.156.18",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7394463121653,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801981565555,,,,,#3783.1,,,#3783.1
+#3784,,pending,,fulfilled,2026-04-05 21:33:59 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 10:12:03 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Irum -,House 7D ( NEG) Road 83 Gulshan 2,House 7D ( NEG) Road 83 Gulshan 2,,,Dhaka,-,,BD,+8801713062937,Irum -,House 7D ( NEG) Road 83 Gulshan 2,House 7D ( NEG) Road 83 Gulshan 2,,,Dhaka,-,,BD,+8801713062937,,"First name: Irum
+Phone number: 1713062937
+Address: House 7D ( NEG) Road 83 Gulshan 2
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240660527530743
+UTM content: 120240660527740743
+UTM term: 120240660527730743
+IP address: 37.111.194.204",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7394777366773,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801713062937,,,,,#3784.1,,,#3784.1
+#3785,,pending,,fulfilled,2026-04-05 21:34:00 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 10:45:34 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Tanvir Hossain,"105/3-6, Anwara Garden, Tejkunipara, Block A, Flat 4A","105/3-6, Anwara Garden, Tejkunipara, Block A, Flat 4A",,,Dhaka,-,,BD,+88001675110479,Tanvir Hossain,"105/3-6, Anwara Garden, Tejkunipara, Block A, Flat 4A","105/3-6, Anwara Garden, Tejkunipara, Block A, Flat 4A",,,Dhaka,-,,BD,+88001675110479,,"First name: Tanvir Hossain
+Phone number: 01675110479
+Address: 105/3-6, Anwara Garden, Tejkunipara, Block A, Flat 4A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240660527530743
+UTM content: 120240660543920743
+UTM term: 120240660543890743
+IP address: 150.228.135.104",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7394829631733,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801675110479,,,,,#3785.1,,,#3785.1
+#3786,,pending,,fulfilled,2026-04-05 21:34:00 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 11:30:37 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Giash -,"2 no gate Masjid gali , Badsha towe 1st Floor","2 no gate Masjid gali , Badsha towe 1st Floor",,,Chittagong,-,,BD,+8801760229312,Giash -,"2 no gate Masjid gali , Badsha towe 1st Floor","2 no gate Masjid gali , Badsha towe 1st Floor",,,Chittagong,-,,BD,+8801760229312,,"First name: Giash
+Phone number: 1760229312
+Address: 2 no gate Masjid gali , Badsha towe 1st Floor
+City: Chittagong
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240660527530743
+UTM content: 120240660543950743
+UTM term: 120240660543910743
+IP address: 202.65.173.67",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7394866659573,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801760229312,,,,,#3786.1,,,#3786.1
+#3787,,pending,,fulfilled,2026-04-06 16:09:14 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 12:00:01 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Abida -,"23/3/3 Sky view Salam plaza, Dhupkhola Bazar, Gandaria, Dhaka","23/3/3 Sky view Salam plaza, Dhupkhola Bazar, Gandaria, Dhaka",,,Dhaka,-,,BD,+88001881886669,Abida -,"23/3/3 Sky view Salam plaza, Dhupkhola Bazar, Gandaria, Dhaka","23/3/3 Sky view Salam plaza, Dhupkhola Bazar, Gandaria, Dhaka",,,Dhaka,-,,BD,+88001881886669,,"First name: Abida
+Phone number: 01881886669
+Address: 23/3/3 Sky view Salam plaza, Dhupkhola Bazar, Gandaria, Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240660527530743
+UTM content: 120240660543940743
+UTM term: 120240660543880743
+IP address: 42.0.7.70",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7394886222069,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801881886669,,,,,#3787.1,,,#3787.1
+#3788,,pending,,fulfilled,2026-04-06 16:09:15 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 12:10:12 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Obaidur rakib,"Barapukuria coal mine, Parbatipur, Dinajpur","Barapukuria coal mine, Parbatipur, Dinajpur",,,Parbatipu,-,,BD,+88001736132493,Obaidur rakib,"Barapukuria coal mine, Parbatipur, Dinajpur","Barapukuria coal mine, Parbatipur, Dinajpur",,,Parbatipu,-,,BD,+88001736132493,,"First name: Obaidur rakib
+Phone number: 01736132493
+Address: Barapukuria coal mine, Parbatipur, Dinajpur
+City: Parbatipu
+Subscribe to stay updated with new products and offers!: off
+IP address: 37.111.227.126",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7394903752949,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801736132493,,,,,#3788.1,,,#3788.1
+#3789,,pending,,fulfilled,2026-04-06 16:09:15 +0500,no,BDT,1805.00,50.00,0.00,1855.00,UPSELL DISCOUNT,845.00,Standard Shipping,2026-04-05 12:26:38 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,fulfilled,Md saifulislam,Saifulislam764028@gmail.com,Saifulislam764028@gmail.com,,,খুলনা সদর সোনাডাঙ্গা হোটেল এশিয়া,-,,BD,+88001540000819,Md saifulislam,Saifulislam764028@gmail.com,Saifulislam764028@gmail.com,,,খুলনা সদর সোনাডাঙ্গা হোটেল এশিয়া,-,,BD,+88001540000819,,"First name: Md saifulislam
+Phone number: 01540000819
+Address: Saifulislam764028@gmail.com
+City: খুলনা সদর সোনাডাঙ্গা হোটেল এশিয়া
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240660527530743
+UTM content: 120240660527740743
+UTM term: 120240660527730743
+IP address: 36.255.83.147",,Cash on Delivery (COD),"",0.00,Passion Mart,1855.00,,,,7394937209077,"Confirmed, Dispatch only 1× skin tag patch, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801540000819,,,,,#3789.1,,,#3789.1
+#3789,,,,,,,,,,,,,,,2026-04-05 12:26:38 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801540000819,,,,,,,,
+#3790,,pending,,fulfilled,2026-04-06 16:09:16 +0500,no,BDT,1350.00,100.00,0.00,1450.00,"",0.00,Fast Shipping,2026-04-05 13:32:51 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,"ডা,রাজু -",কাটিরহাট হাটাজারি চট্টগ্রাম,কাটিরহাট হাটাজারি চট্টগ্রাম,,,চট্টগ্রাম,-,,BD,+88001868382227,"ডা,রাজু -",কাটিরহাট হাটাজারি চট্টগ্রাম,কাটিরহাট হাটাজারি চট্টগ্রাম,,,চট্টগ্রাম,-,,BD,+88001868382227,,"First name: ডা,রাজু
+Phone number: 01868382227
+Address: কাটিরহাট হাটাজারি চট্টগ্রাম
+City: চট্টগ্রাম
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240662065380743
+UTM content: 120240663730240743
+UTM term: 120240663730160743
+IP address: 103.161.153.159",,Cash on Delivery (COD),"",0.00,My Store,1450.00,,,,7395000713461,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801868382227,,,,,#3790.1,,,#3790.1
+#3791,,pending,,fulfilled,2026-04-06 16:09:17 +0500,no,BDT,1350.00,100.00,0.00,1450.00,"",0.00,Fast Shipping,2026-04-05 16:24:29 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Sarwar Jahan,"Sector 7, road 18, plot 12, flat a6","Sector 7, road 18, plot 12, flat a6",,,Dhaka,-,,BD,+88001715011208,Sarwar Jahan,"Sector 7, road 18, plot 12, flat a6","Sector 7, road 18, plot 12, flat a6",,,Dhaka,-,,BD,+88001715011208,,"First name: Sarwar Jahan
+Phone number: 01715011208
+Address: Sector 7, road 18, plot 12, flat a6
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244605020743
+UTM content: 120240244661040743
+UTM term: 120240244660990743
+IP address: 103.112.54.112",,Cash on Delivery (COD),"",0.00,My Store,1450.00,,,,7395259089141,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801715011208,,,,,#3791.1,,,#3791.1
+#3792,,pending,,fulfilled,2026-04-06 16:09:17 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 16:26:07 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Noman -,Flat C-3 House 2/1 Road No. 28 Dhanmondi,Flat C-3 House 2/1 Road No. 28 Dhanmondi,,,Dhaka,-,,BD,+88001716055555,Noman -,Flat C-3 House 2/1 Road No. 28 Dhanmondi,Flat C-3 House 2/1 Road No. 28 Dhanmondi,,,Dhaka,-,,BD,+88001716055555,,"First name: Noman
+Phone number: 01716055555
+Address: Flat C-3 House 2/1 Road No. 28 Dhanmondi
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240662065380743
+UTM content: 120240663730240743
+UTM term: 120240663730160743
+IP address: 103.205.69.39",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7395260563701,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801716055555,,,,,#3792.1,,,#3792.1
+#3793,,pending,,fulfilled,2026-04-06 16:09:18 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 17:14:13 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Enjamul Haque,"Gulshan 1, road 14 house 7","Gulshan 1, road 14 house 7",,,Dhaka,-,,BD,+88001741817263,Enjamul Haque,"Gulshan 1, road 14 house 7","Gulshan 1, road 14 house 7",,,Dhaka,-,,BD,+88001741817263,,"First name: Enjamul Haque
+Phone number: 01741817263
+Address: Gulshan 1, road 14 house 7
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 203.83.169.114",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7395300376821,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801741817263,,,,,#3793.1,,,#3793.1
+#3794,,pending,,fulfilled,2026-04-06 16:09:18 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Custom,2026-04-05 17:21:31 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Safa Ahmed,"Robel Enterprise
+shop no-572
+lift-4
+floor-5
+motaleb plaza market","Robel Enterprise
+shop no-572
+lift-4
+floor-5
+motaleb plaza market",,,Dhaka,,,BD,,Safa Ahmed,"Robel Enterprise
+shop no-572
+lift-4
+floor-5
+motaleb plaza market","Robel Enterprise
+shop no-572
+lift-4
+floor-5
+motaleb plaza market",,,Dhaka,,,BD,,,"",,"","",0.00,My Store,1400.00,MUSTAQEEM ALI,,,7395305718005,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,+8801712130022,,,,,,Due on receipt,,
+#3795,,pending,,fulfilled,2026-04-06 16:09:19 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 17:25:04 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Ena -,আল আমিন জুয়েলার্স কাঠগড়,আল আমিন জুয়েলার্স কাঠগড়,,,চট্টগ্রাম,-,,BD,+88001815510736,Ena -,আল আমিন জুয়েলার্স কাঠগড়,আল আমিন জুয়েলার্স কাঠগড়,,,চট্টগ্রাম,-,,BD,+88001815510736,,"First name: Ena
+Phone number: 01815510736
+Address: আল আমিন জুয়েলার্স কাঠগড়
+City: চট্টগ্রাম
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240662065380743
+UTM content: 120240663730240743
+UTM term: 120240663730160743
+IP address: 101.2.167.39",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7395308896501,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801815510736,,,,,#3795.1,,,#3795.1
+#3796,,pending,,fulfilled,2026-04-06 16:09:19 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-05 19:19:04 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Saiduzzaman -,1212 Cha-54/1 North Badda Dhaka,1212 Cha-54/1 North Badda Dhaka,,,Dhaka,-,,BD,+88001777757200,Saiduzzaman -,1212 Cha-54/1 North Badda Dhaka,1212 Cha-54/1 North Badda Dhaka,,,Dhaka,-,,BD,+88001777757200,,"First name: Saiduzzaman
+Phone number: 01777757200
+Address: 1212 Cha-54/1 North Badda Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145210743
+UTM term: 120240855145190743
+IP address: 160.250.8.88",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7395426894069,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801777757200,,,,,#3796.1,,,#3796.1
+#3797,,pending,,fulfilled,2026-04-06 16:09:20 +0500,yes,BDT,1805.00,50.00,0.00,1855.00,UPSELL DISCOUNT,845.00,Standard Shipping,2026-04-05 19:33:06 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,fulfilled,Jhumur -,Dakshinkhan airport noddapara bazaar,Dakshinkhan airport noddapara bazaar,,,Dhaka,-,,BD,+88001811999285,Jhumur -,Dakshinkhan airport noddapara bazaar,Dakshinkhan airport noddapara bazaar,,,Dhaka,-,,BD,+88001811999285,,"First name: Jhumur
+Phone number: 01811999285
+Address: Dakshinkhan airport noddapara bazaar
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145250743
+UTM term: 120240855145150743
+IP address: 103.189.176.14",,Cash on Delivery (COD),"",0.00,Passion Mart,1855.00,,,,7395441803509,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801811999285,,,,,#3797.1,,,#3797.1
+#3797,,,,,,,,,,,,,,,2026-04-05 19:33:06 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801811999285,,,,,,,,
+#3798,,voided,,unfulfilled,,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 03:31:15 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,pending,Testing -,Testing,Testing,,,Testing,-,,BD,+88001752525252,Testing -,Testing,Testing,,,Testing,-,,BD,+88001752525252,,"First name: Testing
+Phone number: 01752525252
+Address: Testing
+City: Testing
+Subscribe to stay updated with new products and offers!: off
+IP address: 202.47.40.219",2026-04-06 03:32:31 +0500,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396107976949,"checked - 6 April, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801752525252,,,,,#3798.1,,,#3798.1 + #3798.2
+#3799,,pending,,fulfilled,2026-04-06 16:09:21 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 05:43:31 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Safkat Chowdhury,"House 43, Road 7, Cosmopolitan RA, Panchlaish","House 43, Road 7, Cosmopolitan RA, Panchlaish",,,Chittagong,-,,BD,+88001732642391,Safkat Chowdhury,"House 43, Road 7, Cosmopolitan RA, Panchlaish","House 43, Road 7, Cosmopolitan RA, Panchlaish",,,Chittagong,-,,BD,+88001732642391,,"First name: Safkat Chowdhury
+Phone number: 01732642391
+Address: House 43, Road 7, Cosmopolitan RA, Panchlaish
+City: Chittagong
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244605020743
+UTM content: 120240244661040743
+UTM term: 120240244660990743
+IP address: 103.101.54.133",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396264837365,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801732642391,,,,,#3799.1,,,#3799.1
+#3800,,pending,,fulfilled,2026-04-06 16:09:21 +0500,no,BDT,1350.00,100.00,0.00,1450.00,"",0.00,Fast Shipping,2026-04-06 07:01:49 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Mazidur -,"47 Shiddeswari Road, Neptune Heights, Flat-703","47 Shiddeswari Road, Neptune Heights, Flat-703",,,Dhaka,-,,BD,+88001703104998,Mazidur -,"47 Shiddeswari Road, Neptune Heights, Flat-703","47 Shiddeswari Road, Neptune Heights, Flat-703",,,Dhaka,-,,BD,+88001703104998,,"First name: Mazidur
+Phone number: 01703104998
+Address: 47 Shiddeswari Road, Neptune Heights, Flat-703
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244605020743
+UTM content: 120240244661040743
+UTM term: 120240244660990743
+IP address: 27.147.168.222",,Cash on Delivery (COD),"",0.00,My Store,1450.00,,,,7396357669109,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801703104998,,,,,#3800.1,,,#3800.1
+#3801,,pending,,fulfilled,2026-04-06 16:09:22 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 07:56:17 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Rabby -,Block-i road-3 house-77 business point building bashundhara R A,Block-i road-3 house-77 business point building bashundhara R A,,,Dhaka,-,,BD,+88001304095483,Rabby -,Block-i road-3 house-77 business point building bashundhara R A,Block-i road-3 house-77 business point building bashundhara R A,,,Dhaka,-,,BD,+88001304095483,,"First name: Rabby
+Phone number: 01304095483
+Address: Block-i road-3 house-77 business point building bashundhara R A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120239511921230743
+UTM content: 120239512003910743
+UTM term: 120239512003890743
+IP address: 103.156.166.22",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396418683125,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801304095483,,,,,#3801.1,,,#3801.1
+#3802,,pending,,fulfilled,2026-04-06 16:09:22 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 08:38:56 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Kawsar -,"20, West End Street, North Circular Road , Kalabagan","20, West End Street, North Circular Road , Kalabagan",,,Dhaka,-,,BD,+88001711730548,Kawsar -,"20, West End Street, North Circular Road , Kalabagan","20, West End Street, North Circular Road , Kalabagan",,,Dhaka,-,,BD,+88001711730548,,"First name: Kawsar
+Phone number: 01711730548
+Address: 20, West End Street, North Circular Road , Kalabagan
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145210743
+UTM term: 120240855145190743
+IP address: 103.144.201.5",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396462067957,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711730548,,,,,#3802.1,,,#3802.1
+#3803,,pending,,fulfilled,2026-04-06 16:09:23 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 09:01:18 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Azad -,"H 988, R 23, B k, Basundhara R/A","H 988, R 23, B k, Basundhara R/A",,,Dhaka,-,,BD,+88001711534172,Azad -,"H 988, R 23, B k, Basundhara R/A","H 988, R 23, B k, Basundhara R/A",,,Dhaka,-,,BD,+88001711534172,,"First name: Azad
+Phone number: 01711534172
+Address: H 988, R 23, B k, Basundhara R/A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145240743
+UTM term: 120240855145120743
+IP address: 27.147.156.82",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396484677877,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711534172,,,,,#3803.1,,,#3803.1
+#3804,,pending,,fulfilled,2026-04-06 16:09:23 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 09:57:14 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Sultan -,Baridara - Embassy Road - Saudi Embassy,Baridara - Embassy Road - Saudi Embassy,,,Dhaka,-,,BD,+88001612911749,Sultan -,Baridara - Embassy Road - Saudi Embassy,Baridara - Embassy Road - Saudi Embassy,,,Dhaka,-,,BD,+88001612911749,,"First name: Sultan
+Phone number: 01612911749
+Address: Baridara - Embassy Road - Saudi Embassy
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM content: Facebook_UA
+IP address: 203.83.184.114",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396682891509,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801612911749,,,,,#3804.1,,,#3804.1
+#3805,,pending,,fulfilled,2026-04-06 16:09:24 +0500,no,BDT,1350.00,100.00,0.00,1450.00,"",0.00,Fast Shipping,2026-04-06 11:45:10 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Moynul hossain,Icd gate komolapor,Icd gate komolapor,,,Motijheel,-,,BD,+88001819010039,Moynul hossain,Icd gate komolapor,Icd gate komolapor,,,Motijheel,-,,BD,+88001819010039,,"First name: Moynul hossain
+Phone number: 01819010039
+Address: Icd gate komolapor
+City: Motijheel
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244605020743
+UTM content: 120240244661000743
+UTM term: 120240244660880743
+IP address: 103.158.158.230",,Cash on Delivery (COD),"",0.00,My Store,1450.00,,,,7396871078133,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801819010039,,,,,#3805.1,,,#3805.1
+#3806,,pending,,fulfilled,2026-04-06 16:09:25 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 12:17:24 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Rifat Sharmin,"H#87,R#4,Block-B,Apt-A7,Banani, Dhaka-1213","H#87,R#4,Block-B,Apt-A7,Banani, Dhaka-1213",,,Dhaka,-,,BD,+8801711705548,Rifat Sharmin,"H#87,R#4,Block-B,Apt-A7,Banani, Dhaka-1213","H#87,R#4,Block-B,Apt-A7,Banani, Dhaka-1213",,,Dhaka,-,,BD,+8801711705548,,"First name: Rifat Sharmin
+Phone number: 1711705548
+Address: H#87,R#4,Block-B,Apt-A7,Banani, Dhaka-1213
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240662065380743
+UTM content: 120240663730240743
+UTM term: 120240663730160743
+IP address: 113.11.21.248",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396938514677,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711705548,,,,,#3806.1,,,#3806.1
+#3807,,pending,,fulfilled,2026-04-07 22:36:04 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 12:58:16 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Zahid Ahsan,"H#47,Rd#07,Block#G,Flat#C-1,Banani,Dhaka1213","H#47,Rd#07,Block#G,Flat#C-1,Banani,Dhaka1213",,,Dhaka,-,,BD,+88001716381624,Zahid Ahsan,"H#47,Rd#07,Block#G,Flat#C-1,Banani,Dhaka1213","H#47,Rd#07,Block#G,Flat#C-1,Banani,Dhaka1213",,,Dhaka,-,,BD,+88001716381624,,"First name: Zahid Ahsan
+Phone number: 01716381624
+Address: H#47,Rd#07,Block#G,Flat#C-1,Banani,Dhaka1213
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.120.202.9",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7396965384437,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801716381624,,,,,#3807.1,,,#3807.1
+#3808,,pending,,fulfilled,2026-04-07 22:36:04 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 14:09:55 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Mita Rahman,HO 65 ROAD 8 Block B Bashundhara RA,HO 65 ROAD 8 Block B Bashundhara RA,,,DHAKA,-,,BD,+88001755642186,Mita Rahman,HO 65 ROAD 8 Block B Bashundhara RA,HO 65 ROAD 8 Block B Bashundhara RA,,,DHAKA,-,,BD,+88001755642186,,"First name: Mita Rahman
+Phone number: 01755642186
+Address: HO 65 ROAD 8 Block B Bashundhara RA
+City: DHAKA
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240244489000743
+UTM content: 120240244489660743
+UTM term: 120240244489710743
+IP address: 119.30.41.91",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7397041799413,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801755642186,,,,,#3808.1,,,#3808.1
+#3809,,voided,,unfulfilled,,yes,BDT,1805.00,50.00,0.00,1855.00,UPSELL DISCOUNT,845.00,Standard Shipping,2026-04-06 14:54:06 +0500,1,Clinical Beauty Filler - buy 1,1300.00,,,true,true,pending,রিপন -,বালুর পাড় খিলগাঁও ঢাকা,বালুর পাড় খিলগাঁও ঢাকা,,,ঢাকা,-,,BD,+88001715285311,রিপন -,বালুর পাড় খিলগাঁও ঢাকা,বালুর পাড় খিলগাঁও ঢাকা,,,ঢাকা,-,,BD,+88001715285311,,"First name: রিপন
+Phone number: 01715285311
+Address: বালুর পাড় খিলগাঁও ঢাকা
+City: ঢাকা
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145240743
+UTM term: 120240855145120743
+IP address: 103.51.53.154",2026-04-07 10:47:02 +0500,Cash on Delivery (COD),"",0.00,Passion Mart,1855.00,,,,7397069390069,"Checked - 7 April, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801715285311,,,,,#3809.1,,,#3809.1 + #3809.2
+#3809,,,,,,,,,,,,,,,2026-04-06 14:54:06 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,"","",true,true,pending,,,,,,,,,,,,,,,,,,,,,,,,,,,My Store,,,,,,,,,0.00,,,,,,,,,,,+8801715285311,,,,,,,,
+#3810,,pending,,fulfilled,2026-04-07 22:36:05 +0500,no,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 17:04:32 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Dr Afrin,"129, new circuit house road,Rokeya Parijat, baharchoraCoral reef opposite side of courtCoxsbajar sadar, Lift5(c)","129, new circuit house road,Rokeya Parijat, baharchoraCoral reef opposite side of courtCoxsbajar sadar, Lift5(c)",,,"Cox's Bazar sadar, Baharchhora",-,,BD,+88001768046078,Dr Afrin,"129, new circuit house road,Rokeya Parijat, baharchoraCoral reef opposite side of courtCoxsbajar sadar, Lift5(c)","129, new circuit house road,Rokeya Parijat, baharchoraCoral reef opposite side of courtCoxsbajar sadar, Lift5(c)",,,"Cox's Bazar sadar, Baharchhora",-,,BD,+88001768046078,,"First name: Dr Afrin
+Phone number: 01768046078
+Address: 129, new circuit house road,Rokeya Parijat, baharchoraCoral reef opposite side of courtCoxsbajar sadar, Lift5(c)
+City: Cox's Bazar sadar, Baharchhora
+Subscribe to stay updated with new products and offers!: off
+IP address: 182.48.93.44",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7397312921845,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801768046078,,,,,#3810.1,,,#3810.1
+#3811,,pending,,fulfilled,2026-04-07 22:36:06 +0500,yes,BDT,1350.00,50.00,0.00,1400.00,"",0.00,Standard Shipping,2026-04-06 19:29:56 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Darpon -,"House315,road ,10,Block ,,Bosundhora r/R/A","House315,road ,10,Block ,,Bosundhora r/R/A",,,Dhaka,-,,BD,+88001720212125,Darpon -,"House315,road ,10,Block ,,Bosundhora r/R/A","House315,road ,10,Block ,,Bosundhora r/R/A",,,Dhaka,-,,BD,+88001720212125,,"First name: Darpon
+Phone number: 01720212125
+Address: House315,road ,10,Block ,,Bosundhora r/R/A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240855144650743
+UTM content: 120240855145160743
+UTM term: 120240855145090743
+IP address: 37.111.194.4",,Cash on Delivery (COD),"",0.00,My Store,1400.00,,,,7397482496245,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801720212125,,,,,#3811.1,,,#3811.1
+#3812,,pending,,fulfilled,2026-04-07 22:36:06 +0500,no,BDT,1350.00,100.00,0.00,1450.00,"",0.00,Fast Shipping,2026-04-06 20:21:46 +0500,1,Derma Smooth Skin Tag Removal Patch - 72 Patches - Buy 1,1350.00,,,true,true,fulfilled,Mohammad Nurul Amin,"Summer Holiday, Apt B-1, House 08, Road 118/121, Gulshan 1, Dhaka 1212","Summer Holiday, Apt B-1, House 08, Road 118/121, Gulshan 1, Dhaka 1212",,,"Gulshan 1,Dhaka",-,,BD,+88001711784337,Mohammad Nurul Amin,"Summer Holiday, Apt B-1, House 08, Road 118/121, Gulshan 1, Dhaka 1212","Summer Holiday, Apt B-1, House 08, Road 118/121, Gulshan 1, Dhaka 1212",,,"Gulshan 1,Dhaka",-,,BD,+88001711784337,,"First name: Mohammad Nurul Amin
+Phone number: 01711784337
+Address: Summer Holiday, Apt B-1, House 08, Road 118/121, Gulshan 1, Dhaka 1212
+City: Gulshan 1,Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240662065380743
+UTM content: 120240663730230743
+UTM term: 120240663730130743
+IP address: 163.53.180.204",,Cash on Delivery (COD),"",0.00,My Store,1450.00,,,,7397560287477,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711784337,,,,,#3812.1,,,#3812.1

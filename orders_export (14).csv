@@ -1,0 +1,321 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#1111,,pending,,fulfilled,2026-03-04 16:04:23 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-04 04:16:23 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Dr Rubel,"Seba hospital,Salna bzr,Gazipur city","Seba hospital,Salna bzr,Gazipur city",,,Gazipur,-,,BD,+8801894801331,Dr Rubel,"Seba hospital,Salna bzr,Gazipur city","Seba hospital,Salna bzr,Gazipur city",,,Gazipur,-,,BD,+8801894801331,,"First name: Dr Rubel
+Phone number: 1894801331
+Address: Seba hospital,Salna bzr,Gazipur city
+City: Gazipur
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.231.230.116",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7069506830497,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801894801331,,,,,#1111.1,,,#1111.1
+#1112,,pending,,fulfilled,2026-03-04 16:04:24 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-04 05:26:01 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Rumanthe -,"Road 7,House 7 , Gulshan 1","Road 7,House 7 , Gulshan 1",,,Dhaka,-,,BD,+8801708450001,Rumanthe -,"Road 7,House 7 , Gulshan 1","Road 7,House 7 , Gulshan 1",,,Dhaka,-,,BD,+8801708450001,,"First name: Rumanthe
+Phone number: 1708450001
+Address: Road 7,House 7 , Gulshan 1
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.116.165.245",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7069581738145,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801708450001,,,,,#1112.1,,,#1112.1
+#1113,,voided,,unfulfilled,,yes,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-04 06:11:35 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Nurul -,১৩৮৩/৮/১৫ এ নতুন বাগ নূর টাওয়ারের পাশে বিল্ডিং খিলগাঁও ঢাকা,১৩৮৩/৮/১৫ এ নতুন বাগ নূর টাওয়ারের পাশে বিল্ডিং খিলগাঁও ঢাকা,,,Dhaka,-,,BD,+88001315568689,Nurul -,১৩৮৩/৮/১৫ এ নতুন বাগ নূর টাওয়ারের পাশে বিল্ডিং খিলগাঁও ঢাকা,১৩৮৩/৮/১৫ এ নতুন বাগ নূর টাওয়ারের পাশে বিল্ডিং খিলগাঁও ঢাকা,,,Dhaka,-,,BD,+88001315568689,,"First name: Nurul
+Phone number: 01315568689
+Address: ১৩৮৩/৮/১৫ এ নতুন বাগ নূর টাওয়ারের পাশে বিল্ডিং খিলগাঁও ঢাকা
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.77.100.1",2026-03-27 21:33:46 +0500,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7069628039329,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801315568689,,,,,#1113.1,,,#1113.1 + #1113.2
+#1114,,pending,,fulfilled,2026-03-05 18:08:15 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-04 12:06:48 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Omar -,1044 East Monipur Mirpur-2 Dhaka,1044 East Monipur Mirpur-2 Dhaka,,,Dhaka,-,,BD,+88001636147067,Omar -,1044 East Monipur Mirpur-2 Dhaka,1044 East Monipur Mirpur-2 Dhaka,,,Dhaka,-,,BD,+88001636147067,,"First name: Omar
+Phone number: 01636147067
+Address: 1044 East Monipur Mirpur-2 Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 165.101.133.136",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7069982425249,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801636147067,,,,,#1114.1,,,#1114.1
+#1115,,pending,,fulfilled,2026-03-05 18:08:15 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-04 19:59:15 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Mridul -,10 rajuk avenue Dhaka 1000 Motijheel,10 rajuk avenue Dhaka 1000 Motijheel,,,Dhaka,-,,BD,+88001670666603,Mridul -,10 rajuk avenue Dhaka 1000 Motijheel,10 rajuk avenue Dhaka 1000 Motijheel,,,Dhaka,-,,BD,+88001670666603,,"First name: Mridul
+Phone number: 01670666603
+Address: 10 rajuk avenue Dhaka 1000 Motijheel
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.78.226.18",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7070509072545,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801670666603,,,,,#1115.1,,,#1115.1
+#1116,,voided,,unfulfilled,,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-04 21:48:06 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Babli -,"Uttata,s7,r2,h13","Uttata,s7,r2,h13",,,Dhaka,-,,BD,+88001833778365,Babli -,"Uttata,s7,r2,h13","Uttata,s7,r2,h13",,,Dhaka,-,,BD,+88001833778365,,"First name: Babli
+Phone number: 01833778365
+Address: Uttata,s7,r2,h13
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 58.145.190.228",2026-03-08 10:40:07 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7070645223585,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801833778365,,,,,#1116.1,,,#1116.1 + #1116.2
+#1117,,pending,,fulfilled,2026-03-05 18:08:15 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-04 22:07:49 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Mr.Zabed -,S. S. Corporation. 2047/48. Asadgonj. Opposite side of Asadgonj Jamey Moshjid.,S. S. Corporation. 2047/48. Asadgonj. Opposite side of Asadgonj Jamey Moshjid.,,,Chittagong,-,,BD,+8801729272927,Mr.Zabed -,S. S. Corporation. 2047/48. Asadgonj. Opposite side of Asadgonj Jamey Moshjid.,S. S. Corporation. 2047/48. Asadgonj. Opposite side of Asadgonj Jamey Moshjid.,,,Chittagong,-,,BD,+8801729272927,,"First name: Mr.Zabed
+Phone number: 1729272927
+Address: S. S. Corporation. 2047/48. Asadgonj. Opposite side of Asadgonj Jamey Moshjid.
+City: Chittagong
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.78.226.50",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7070671339681,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801729272927,,,,,#1117.1,,,#1117.1
+#1118,,voided,,unfulfilled,,yes,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-05 02:46:40 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,onik -,Beanibazar sylhet ( koshba ),Beanibazar sylhet ( koshba ),,,Beanibazar,-,,BD,+88001844292263,onik -,Beanibazar sylhet ( koshba ),Beanibazar sylhet ( koshba ),,,Beanibazar,-,,BD,+88001844292263,,"First name: onik
+Phone number: 01844292263
+Address: Beanibazar sylhet ( koshba )
+City: Beanibazar
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.244.141.220",2026-03-09 09:30:52 +0500,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7070970380449,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801844292263,,,,,#1118.1,,,#1118.1 + #1118.2
+#1119,,voided,,unfulfilled,,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-05 03:27:39 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Omar -,1044 East Monipur Mirpur-2 Dhaka,1044 East Monipur Mirpur-2 Dhaka,,,Dhaka,-,,BD,+88001636147067,Omar -,1044 East Monipur Mirpur-2 Dhaka,1044 East Monipur Mirpur-2 Dhaka,,,Dhaka,-,,BD,+88001636147067,,"First name: Omar
+Phone number: 01636147067
+Address: 1044 East Monipur Mirpur-2 Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 165.101.133.136",2026-03-05 10:50:36 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7071010586785,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801636147067,,,,,#1119.1,,,#1119.1 + #1119.2
+#1120,,pending,,fulfilled,2026-03-05 18:08:16 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-05 09:13:23 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Jahidul -,শিল্পি পাড়া বালুর মাঠ শাহামুখদুম থানার পিছনে রাজশাহী শহর,শিল্পি পাড়া বালুর মাঠ শাহামুখদুম থানার পিছনে রাজশাহী শহর,,,Rajshahi,-,,BD,+88001303199422,Jahidul -,শিল্পি পাড়া বালুর মাঠ শাহামুখদুম থানার পিছনে রাজশাহী শহর,শিল্পি পাড়া বালুর মাঠ শাহামুখদুম থানার পিছনে রাজশাহী শহর,,,Rajshahi,-,,BD,+88001303199422,,"First name: Jahidul
+Phone number: 01303199422
+Address: শিল্পি পাড়া বালুর মাঠ শাহামুখদুম থানার পিছনে রাজশাহী শহর
+City: Rajshahi
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 37.111.243.100",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7071357436065,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801303199422,,,,,#1120.1,,,#1120.1
+#1121,,pending,,fulfilled,2026-03-07 12:45:35 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-05 19:17:06 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Bashar -,C/91 bagan bilash,C/91 bagan bilash,,,"Shekhertek 06, Shamoly Housing Mohammadpur",-,,BD,+8801313475534,Bashar -,C/91 bagan bilash,C/91 bagan bilash,,,"Shekhertek 06, Shamoly Housing Mohammadpur",-,,BD,+8801313475534,,"First name: Bashar
+Phone number: 1313475534
+Address: C/91 bagan bilash
+City: Shekhertek 06, Shamoly Housing Mohammadpur
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.94.216.35",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7071968526497,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801313475534,,,,,#1121.1,,,#1121.1
+#1122,,pending,,fulfilled,2026-03-07 12:45:35 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-05 22:57:39 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Monjur mukul,"Gulshan-1,road-140,house-2,flat-A/2.","Gulshan-1,road-140,house-2,flat-A/2.",,,Dhaka.,-,,BD,+88001713400082,Monjur mukul,"Gulshan-1,road-140,house-2,flat-A/2.","Gulshan-1,road-140,house-2,flat-A/2.",,,Dhaka.,-,,BD,+88001713400082,,"First name: Monjur mukul
+Phone number: 01713400082
+Address: Gulshan-1,road-140,house-2,flat-A/2.
+City: Dhaka.
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.87.248.234",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7072265666721,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801713400082,,,,,#1122.1,,,#1122.1
+#1123,,pending,,fulfilled,2026-03-07 12:45:36 +0500,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 02:26:18 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Faruk -,5 no kasem nagar Khulna city,5 no kasem nagar Khulna city,,,khulna,-,,BD,+88001300346939,Faruk -,5 no kasem nagar Khulna city,5 no kasem nagar Khulna city,,,khulna,-,,BD,+88001300346939,,"First name: Faruk
+Phone number: 01300346939
+Address: 5 no kasem nagar Khulna city
+City: khulna
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.107.161.41",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7072516931745,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801300346939,,,,,#1123.1,,,#1123.1
+#1124,,voided,,unfulfilled,,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 03:14:45 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Arif sarker,"uttar hizaltaly,Kaliakair Gazipur rashid chairman ar bari","uttar hizaltaly,Kaliakair Gazipur rashid chairman ar bari",,,Gazipur,-,,BD,+88001819118168,Arif sarker,"uttar hizaltaly,Kaliakair Gazipur rashid chairman ar bari","uttar hizaltaly,Kaliakair Gazipur rashid chairman ar bari",,,Gazipur,-,,BD,+88001819118168,,"First name: Arif sarker
+Phone number: 01819118168
+Address: uttar hizaltaly,Kaliakair Gazipur rashid chairman ar bari
+City: Gazipur
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.129.210.43",2026-03-09 09:31:24 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7072573489313,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801819118168,,,,,#1124.1,,,#1124.1 + #1124.2
+#1125,,pending,,fulfilled,2026-03-07 12:45:36 +0500,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 04:30:19 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Gufran -,"20no surma super shop, Amborkhana, Sylhet.","20no surma super shop, Amborkhana, Sylhet.",,,Sylhet,-,,BD,+88001711985918,Gufran -,"20no surma super shop, Amborkhana, Sylhet.","20no surma super shop, Amborkhana, Sylhet.",,,Sylhet,-,,BD,+88001711985918,,"First name: Gufran
+Phone number: 01711985918
+Address: 20no surma super shop, Amborkhana, Sylhet.
+City: Sylhet
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 59.152.111.140",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7072652460193,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711985918,,,,,#1125.1,,,#1125.1
+#1126,,voided,,unfulfilled,,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 07:41:09 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Abul Kalam Azad,"ABC heritage, Jashimuddin, Sector-3 , Uttara","ABC heritage, Jashimuddin, Sector-3 , Uttara",,,Dhaka,-,,BD,+88001724609550,Abul Kalam Azad,"ABC heritage, Jashimuddin, Sector-3 , Uttara","ABC heritage, Jashimuddin, Sector-3 , Uttara",,,Dhaka,-,,BD,+88001724609550,,"First name: Abul Kalam Azad
+Phone number: 01724609550
+Address: ABC heritage, Jashimuddin, Sector-3 , Uttara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 36.50.250.162",2026-03-09 09:31:58 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7072891273377,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801724609550,,,,,#1126.1,,,#1126.1 + #1126.2
+#1127,,pending,,fulfilled,2026-03-07 12:45:37 +0500,yes,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-06 10:59:05 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Salahuddin -,"Spring Empire, Flat A-8, 1/15, Block B, Mohammadpur, Dhaka-1207","Spring Empire, Flat A-8, 1/15, Block B, Mohammadpur, Dhaka-1207",,,Dhaka,-,,BD,+88001819292138,Salahuddin -,"Spring Empire, Flat A-8, 1/15, Block B, Mohammadpur, Dhaka-1207","Spring Empire, Flat A-8, 1/15, Block B, Mohammadpur, Dhaka-1207",,,Dhaka,-,,BD,+88001819292138,,"First name: Salahuddin
+Phone number: 01819292138
+Address: Spring Empire, Flat A-8, 1/15, Block B, Mohammadpur, Dhaka-1207
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 202.134.14.156",,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7073094402209,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801819292138,,,,,#1127.1,,,#1127.1
+#1128,,voided,,unfulfilled,,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 11:39:17 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Engr Toshik-Uz-Zaman,Tejga,Tejga,,,Dhaka,-,,BD,+88001711056771,Engr Toshik-Uz-Zaman,Tejga,Tejga,,,Dhaka,-,,BD,+88001711056771,,"First name: Engr Toshik-Uz-Zaman
+Phone number: 01711056771
+Address: Tejga
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 202.134.14.135",2026-03-09 09:40:56 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7073124778145,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801711056771,,,,,#1128.1,,,#1128.1 + #1128.2
+#1129,,pending,,fulfilled,2026-03-09 22:26:55 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 13:32:45 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Tosive Mahmud,"Station Officer's Quarter, Rajendrapur Cantonment","Station Officer's Quarter, Rajendrapur Cantonment",,,Gazipur,-,,BD,+88001733341590,Tosive Mahmud,"Station Officer's Quarter, Rajendrapur Cantonment","Station Officer's Quarter, Rajendrapur Cantonment",,,Gazipur,-,,BD,+88001733341590,,"First name: Tosive Mahmud
+Phone number: 01733341590
+Address: Station Officer's Quarter, Rajendrapur Cantonment
+City: Gazipur
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.197.49.103",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7073200210081,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801733341590,,,,,#1129.1,,,#1129.1
+#1130,,pending,,fulfilled,2026-03-07 12:45:37 +0500,no,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-06 16:58:28 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Emon -,"Rajabari Bazar Sreepur Road, Kapasia, Gazipur","Rajabari Bazar Sreepur Road, Kapasia, Gazipur",,,Gazipur,-,,BD,+88001636342448,Emon -,"Rajabari Bazar Sreepur Road, Kapasia, Gazipur","Rajabari Bazar Sreepur Road, Kapasia, Gazipur",,,Gazipur,-,,BD,+88001636342448,,"First name: Emon
+Phone number: 01636342448
+Address: Rajabari Bazar Sreepur Road, Kapasia, Gazipur
+City: Gazipur
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 118.179.17.224",,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7073430995105,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801636342448,,,,,#1130.1,,,#1130.1
+#1131,,pending,,fulfilled,2026-03-07 12:45:38 +0500,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 18:53:06 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Mahfuj -,"House-18,road-5,block-e,mirpur-6","House-18,road-5,block-e,mirpur-6",,,Dhaka,-,,BD,+88001671402011,Mahfuj -,"House-18,road-5,block-e,mirpur-6","House-18,road-5,block-e,mirpur-6",,,Dhaka,-,,BD,+88001671402011,,"First name: Mahfuj
+Phone number: 01671402011
+Address: House-18,road-5,block-e,mirpur-6
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.58.92.98",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7073535557793,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801671402011,,,,,#1131.1,,,#1131.1
+#1132,,pending,,fulfilled,2026-03-07 12:45:38 +0500,no,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-06 20:51:15 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Nazib Chowdhury,"Flat-203, Building-09, 24/A, Japan Garden City, Ring Road, Mohammadpur, Dhaka-1207","Flat-203, Building-09, 24/A, Japan Garden City, Ring Road, Mohammadpur, Dhaka-1207",,,Dhaka,-,,BD,+8801871006708,Nazib Chowdhury,"Flat-203, Building-09, 24/A, Japan Garden City, Ring Road, Mohammadpur, Dhaka-1207","Flat-203, Building-09, 24/A, Japan Garden City, Ring Road, Mohammadpur, Dhaka-1207",,,Dhaka,-,,BD,+8801871006708,,"First name: Nazib Chowdhury
+Phone number: 1871006708
+Address: Flat-203, Building-09, 24/A, Japan Garden City, Ring Road, Mohammadpur, Dhaka-1207
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 202.134.10.139",,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7073667186849,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801871006708,,,,,#1132.1,,,#1132.1
+#1133,,pending,,fulfilled,2026-03-07 12:45:39 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-06 21:05:05 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,saadia Anam,Paikar para thonthonia bogura shodor bogura,Paikar para thonthonia bogura shodor bogura,,,Bogra,-,,BD,+88001722287209,saadia Anam,Paikar para thonthonia bogura shodor bogura,Paikar para thonthonia bogura shodor bogura,,,Bogra,-,,BD,+88001722287209,,"First name: saadia Anam
+Phone number: 01722287209
+Address: Paikar para thonthonia bogura shodor bogura
+City: Bogra
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 37.111.225.205",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7073684029601,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801722287209,,,,,#1133.1,,,#1133.1
+#1134,,pending,,fulfilled,2026-03-07 12:45:39 +0500,no,BDT,4500.00,50.00,0.00,4550.00,"",0.00,Standard shipping,2026-03-06 23:16:15 +0500,3,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Prakash -,"Plot 4, SAM Tower, Road 22, Gulshan 1","Plot 4, SAM Tower, Road 22, Gulshan 1",,,Dhaka,-,,BD,+88001711506179,Prakash -,"Plot 4, SAM Tower, Road 22, Gulshan 1","Plot 4, SAM Tower, Road 22, Gulshan 1",,,Dhaka,-,,BD,+88001711506179,,"First name: Prakash
+Phone number: 01711506179
+Address: Plot 4, SAM Tower, Road 22, Gulshan 1
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 182.163.105.125",,Cash on Delivery (COD),"",0.00,Flash New,4550.00,,,,7073852522657,"Confirmed, Discount 20% 3650 TK, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711506179,,,,,#1134.1,,,#1134.1
+#1135,,pending,,fulfilled,2026-03-08 21:32:37 +0500,yes,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-07 00:37:43 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,S. Mustafa Alam,"Road #27, House # 70, CDA Residential Area, Agrabad,","Road #27, House # 70, CDA Residential Area, Agrabad,",,,Chattogram,-,,BD,+88001715297654,S. Mustafa Alam,"Road #27, House # 70, CDA Residential Area, Agrabad,","Road #27, House # 70, CDA Residential Area, Agrabad,",,,Chattogram,-,,BD,+88001715297654,,"First name: S. Mustafa Alam
+Phone number: 01715297654
+Address: Road #27, House # 70, CDA Residential Area, Agrabad,
+City: Chattogram
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 123.200.30.86",,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7073940668577,"10% Discount 1395 TK, Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801715297654,,,,,#1135.1,,,#1135.1
+#1136,,pending,,fulfilled,2026-03-07 12:45:39 +0500,yes,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-07 01:01:07 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Milon -,General Hospital Rd,General Hospital Rd,,,Kurigram,-,,BD,+88001329756250,Milon -,General Hospital Rd,General Hospital Rd,,,Kurigram,-,,BD,+88001329756250,,"First name: Milon
+Phone number: 01329756250
+Address: General Hospital Rd
+City: Kurigram
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.76.154.8",,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7073966719137,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801329756250,,,,,#1136.1,,,#1136.1
+#1137,,voided,,unfulfilled,,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-07 09:39:12 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Dr.Bijali -,"Rajdhani hospital,Vaticashor,Mymensingh sadar","Rajdhani hospital,Vaticashor,Mymensingh sadar",,,Mymensingh,-,,BD,+88001756004666,Dr.Bijali -,"Rajdhani hospital,Vaticashor,Mymensingh sadar","Rajdhani hospital,Vaticashor,Mymensingh sadar",,,Mymensingh,-,,BD,+88001756004666,,"First name: Dr.Bijali
+Phone number: 01756004666
+Address: Rajdhani hospital,Vaticashor,Mymensingh sadar
+City: Mymensingh
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 37.111.221.130",2026-03-09 09:44:04 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7074541797537,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801756004666,,,,,#1137.1,,,#1137.1 + #1137.2
+#1138,,pending,,fulfilled,2026-03-08 21:32:37 +0500,no,BDT,3000.00,50.00,0.00,3050.00,Custom discount,600.00,standard,2026-03-07 10:00:08 +0500,1,Mini Flash Towel - Buy 3 (20% OFF),3600.00,4500.00,,true,true,fulfilled,Md Rashed Hossain,"United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.","United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.",,,Chattogram,,,BD,+8801817774748,Md Rashed Hossain,"United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.","United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.",,,Chattogram,,,BD,+8801817774748,,"",,"","",0.00,Flash New,3050.00,online staff,,,7074559459489,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,,Due on receipt,,
+#1139,,pending,,fulfilled,2026-03-08 21:32:38 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-07 11:50:04 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Suman -,Plot 10 road 12 sector 6 uttara,Plot 10 road 12 sector 6 uttara,,,Dhaka,-,,BD,+88001777759786,Suman -,Plot 10 road 12 sector 6 uttara,Plot 10 road 12 sector 6 uttara,,,Dhaka,-,,BD,+88001777759786,,"First name: Suman
+Phone number: 01777759786
+Address: Plot 10 road 12 sector 6 uttara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.197.153.126",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7074658451617,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801777759786,,,,,#1139.1,,,#1139.1
+#1140,,pending,,fulfilled,2026-03-08 21:32:38 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-07 13:04:44 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Md. Mahmudur Rahman,"B4, T3, FLAT-0804, Bijoy Rakeen City, Mipur-15","B4, T3, FLAT-0804, Bijoy Rakeen City, Mipur-15",,,Dhaka,-,,BD,+8801611587838,Md. Mahmudur Rahman,"B4, T3, FLAT-0804, Bijoy Rakeen City, Mipur-15","B4, T3, FLAT-0804, Bijoy Rakeen City, Mipur-15",,,Dhaka,-,,BD,+8801611587838,,"First name: Md. Mahmudur Rahman
+Phone number: 1611587838
+Address: B4, T3, FLAT-0804, Bijoy Rakeen City, Mipur-15
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.199.169.254",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7074717958305,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801611587838,,,,,#1140.1,,,#1140.1
+#1141,,pending,,fulfilled,2026-03-08 21:32:39 +0500,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-07 14:49:33 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Ariyan -,Kb bricks kanaipur Faridpur,Kb bricks kanaipur Faridpur,,,Faridpur,-,,BD,+88001613585258,Ariyan -,Kb bricks kanaipur Faridpur,Kb bricks kanaipur Faridpur,,,Faridpur,-,,BD,+88001613585258,,"First name: Ariyan
+Phone number: 01613585258
+Address: Kb bricks kanaipur Faridpur
+City: Faridpur
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.78.254.183",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7074891235489,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801613585258,,,,,#1141.1,,,#1141.1
+#1142,,pending,,fulfilled,2026-03-08 21:32:39 +0500,no,BDT,3000.00,50.00,0.00,3050.00,"",0.00,Standard shipping,2026-03-07 23:53:53 +0500,2,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Kazi Sohel,"Akij housing society beside of akij foundation school, dhorengartek, turag, uttara, dhaka","Akij housing society beside of akij foundation school, dhorengartek, turag, uttara, dhaka",,,Dhaka,-,,BD,+88001708122456,Kazi Sohel,"Akij housing society beside of akij foundation school, dhorengartek, turag, uttara, dhaka","Akij housing society beside of akij foundation school, dhorengartek, turag, uttara, dhaka",,,Dhaka,-,,BD,+88001708122456,,"First name: Kazi Sohel
+Phone number: 01708122456
+Address: Akij housing society beside of akij foundation school, dhorengartek, turag, uttara, dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 37.111.213.125",,Cash on Delivery (COD),"",0.00,Flash New,3050.00,,,,7075857301665,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801708122456,,,,,#1142.1,,,#1142.1
+#1143,,pending,,fulfilled,2026-03-08 21:32:40 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-08 04:19:27 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Musa zaman,"279,elephant road pubali bank er golli","279,elephant road pubali bank er golli",,,Dhaka,-,,BD,+88001674993587,Musa zaman,"279,elephant road pubali bank er golli","279,elephant road pubali bank er golli",,,Dhaka,-,,BD,+88001674993587,,"First name: Musa zaman
+Phone number: 01674993587
+Address: 279,elephant road pubali bank er golli
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 137.59.155.132",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7076230725793,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801674993587,,,,,#1143.1,,,#1143.1
+#1144,,pending,,fulfilled,2026-03-09 22:26:55 +0500,yes,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-08 11:33:55 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Sk farihin,"House-231/1, block-f, uttar chayabithi road Gazipur Sadar 1700","House-231/1, block-f, uttar chayabithi road Gazipur Sadar 1700",,,Gazipur,-,,BD,+8801712954031,Sk farihin,"House-231/1, block-f, uttar chayabithi road Gazipur Sadar 1700","House-231/1, block-f, uttar chayabithi road Gazipur Sadar 1700",,,Gazipur,-,,BD,+8801712954031,,"First name: Sk farihin
+Phone number: 1712954031
+Address: House-231/1, block-f, uttar chayabithi road Gazipur Sadar 1700
+City: Gazipur
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.164.87.2",,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7076706779297,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801712954031,,,,,#1144.1,,,#1144.1
+#1145,,pending,,fulfilled,2026-03-09 22:26:56 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-08 19:58:33 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,রাফিউল ইসলাম,upazila Agriculture office,upazila Agriculture office,,,Gurudaspur Natore,-,,BD,+88001737117373,রাফিউল ইসলাম,upazila Agriculture office,upazila Agriculture office,,,Gurudaspur Natore,-,,BD,+88001737117373,,"First name: রাফিউল ইসলাম
+Phone number: 01737117373
+Address: upazila Agriculture office
+City: Gurudaspur Natore
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.167.17.218",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7077251383457,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801737117373,,,,,#1145.1,,,#1145.1
+#1146,,pending,,fulfilled,2026-03-11 17:50:28 +0500,yes,BDT,3000.00,50.00,0.00,3050.00,"",0.00,Standard shipping,2026-03-09 02:09:19 +0500,2,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,আবিদুর রহমান,"Bashundhara Block A, Road no11, House no 283, Bagan Bilash, Flat B2","Bashundhara Block A, Road no11, House no 283, Bagan Bilash, Flat B2",,,ঢাকা,-,,BD,+88001837839927,আবিদুর রহমান,"Bashundhara Block A, Road no11, House no 283, Bagan Bilash, Flat B2","Bashundhara Block A, Road no11, House no 283, Bagan Bilash, Flat B2",,,ঢাকা,-,,BD,+88001837839927,,"First name: আবিদুর রহমান
+Phone number: 01837839927
+Address: Bashundhara Block A, Road no11, House no 283, Bagan Bilash, Flat B2
+City: ঢাকা
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 118.179.72.209",,Cash on Delivery (COD),"",0.00,Flash New,3050.00,,,,7077752275105,"10% Discount 2750 Tk, Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801837839927,,,,,#1146.1,,,#1146.1
+#1147,,voided,,unfulfilled,,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-09 04:28:57 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Mamun -,Maradia,Maradia,,,Dhak,-,,BD,+88001973577173,Mamun -,Maradia,Maradia,,,Dhak,-,,BD,+88001973577173,,"First name: Mamun
+Phone number: 01973577173
+Address: Maradia
+City: Dhak
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.58.73.136",2026-03-09 09:37:54 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7077900058785,"check 9-March, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801973577173,,,,,#1147.1,,,#1147.1 + #1147.2
+#1148,,pending,,fulfilled,2026-03-09 22:26:57 +0500,no,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-03-09 05:10:03 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Mortuza -,"Assort South Castle, House 209/D, Road 08, Block C, Bashundhara R/a, Vatara, Dhaka","Assort South Castle, House 209/D, Road 08, Block C, Bashundhara R/a, Vatara, Dhaka",,,Dhaka,-,,BD,+8801713313171,Mortuza -,"Assort South Castle, House 209/D, Road 08, Block C, Bashundhara R/a, Vatara, Dhaka","Assort South Castle, House 209/D, Road 08, Block C, Bashundhara R/a, Vatara, Dhaka",,,Dhaka,-,,BD,+8801713313171,,"First name: Mortuza
+Phone number: 1713313171
+Address: Assort South Castle, House 209/D, Road 08, Block C, Bashundhara R/a, Vatara, Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.112.52.131",,Cash on Delivery (COD),"",0.00,Flash New,1600.00,,,,7077945901217,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801713313171,,,,,#1148.1,,,#1148.1
+#1149,,voided,,unfulfilled,,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-09 13:12:29 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Shawhidur -,"Agrabad, Chittagong","Agrabad, Chittagong",,,Chattogram,-,,BD,+88001914897014,Shawhidur -,"Agrabad, Chittagong","Agrabad, Chittagong",,,Chattogram,-,,BD,+88001914897014,,"First name: Shawhidur
+Phone number: 01914897014
+Address: Agrabad, Chittagong
+City: Chattogram
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 103.127.222.162",2026-03-27 21:34:28 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7078348882081,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801914897014,,,,,#1149.1,,,#1149.1 + #1149.2
+#1150,,pending,,fulfilled,2026-03-10 17:58:20 +0500,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-09 15:37:52 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Anzer -,"S-3,R-20A,H-03 Uttara dakha","S-3,R-20A,H-03 Uttara dakha",,,Dhaka,-,,BD,+88001878864848,Anzer -,"S-3,R-20A,H-03 Uttara dakha","S-3,R-20A,H-03 Uttara dakha",,,Dhaka,-,,BD,+88001878864848,,"First name: Anzer
+Phone number: 01878864848
+Address: S-3,R-20A,H-03 Uttara dakha
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+rsi_currency_rate: 1.0
+IP address: 103.86.196.109",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7078537003169,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801878864848,,,,,#1150.1,,,#1150.1
+#1151,,pending,,fulfilled,2026-03-10 17:58:21 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-09 15:59:06 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Moin Hossain,House 4 Road 4 Sector 5 Uttara,House 4 Road 4 Sector 5 Uttara,,,Dhaka,-,,BD,+88001711506919,Moin Hossain,House 4 Road 4 Sector 5 Uttara,House 4 Road 4 Sector 5 Uttara,,,Dhaka,-,,BD,+88001711506919,,"First name: Moin Hossain
+Phone number: 01711506919
+Address: House 4 Road 4 Sector 5 Uttara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+rsi_currency_rate: 1.0
+IP address: 37.111.200.167",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7078553157793,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711506919,,,,,#1151.1,,,#1151.1
+#1152,,pending,,fulfilled,2026-03-12 18:30:28 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-10 15:37:13 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Abdul Azim,"Swamibagh Lane, House No - 71/A,B & C Surimpa Bilash.","Swamibagh Lane, House No - 71/A,B & C Surimpa Bilash.",,,Dhaka,-,,BD,+88001521790047,Abdul Azim,"Swamibagh Lane, House No - 71/A,B & C Surimpa Bilash.","Swamibagh Lane, House No - 71/A,B & C Surimpa Bilash.",,,Dhaka,-,,BD,+88001521790047,,"First name: Abdul Azim
+Phone number: 01521790047
+Address: Swamibagh Lane, House No - 71/A,B & C Surimpa Bilash.
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.29.124.19",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7080011694241,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801521790047,,,,,#1152.1,,,#1152.1
+#1153,,pending,,fulfilled,2026-03-25 21:22:27 +0500,yes,BDT,4500.00,50.00,0.00,4550.00,"",0.00,Standard shipping,2026-03-16 16:26:37 +0500,3,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Abdul Kaiyum Fakir,"Renata PLC,  bypass more, Mymensingh","Renata PLC,  bypass more, Mymensingh",,,Mymensingh,-,,BD,+88001819558739,Abdul Kaiyum Fakir,"Renata PLC,  bypass more, Mymensingh","Renata PLC,  bypass more, Mymensingh",,,Mymensingh,-,,BD,+88001819558739,,"First name: Abdul Kaiyum Fakir
+Phone number: 01819558739
+Address: Renata PLC,  bypass more, Mymensingh
+City: Mymensingh
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.87.251.247",,Cash on Delivery (COD),"",0.00,Flash New,4550.00,,,,7089841864865,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801819558739,,,,,#1153.1,,,#1153.1
+#1154,,voided,,unfulfilled,,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-22 12:39:15 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Himel -,"1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,","1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,",,,Chittagong,-,,BD,+8801716725734,Himel -,"1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,","1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,",,,Chittagong,-,,BD,+8801716725734,,"First name: Himel
+Phone number: 1716725734
+Address: 1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,
+City: Chittagong
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.132.185.215",2026-03-25 09:17:52 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7100335161505,"Checked - 25 March, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801716725734,,,,,#1154.1,,,#1154.1 + #1154.2
+#1155,,pending,,fulfilled,2026-03-25 21:22:27 +0500,yes,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-03-22 12:40:08 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Md. -,"1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,","1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,",,,Chittagong,-,,BD,+8801716725734,Md. -,"1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,","1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,",,,Chittagong,-,,BD,+8801716725734,,"First name: Md.
+Phone number: 1716725734
+Address: 1029,sufia Monjil Zakir Hossain Road East Nasirabad Chittagong ,
+City: Chittagong
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.132.185.215",,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7100335620257,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801716725734,,,,,#1155.1,,,#1155.1
+#1156,,pending,,fulfilled,2026-03-27 18:53:02 +0500,no,BDT,2700.00,50.00,0.00,2750.00,"",0.00,standard,2026-03-27 00:00:46 +0500,1,Mini Flash Towel - Buy 2 (10% OFF),2700.00,3000.00,,true,true,fulfilled,Tasfin Klieder,"tower House -10 Road-12 Sector-6 Uttara, Dhaka","tower House -10 Road-12 Sector-6 Uttara, Dhaka",,,"",,,BD,+8801619496165,Tasfin Klieder,"tower House -10 Road-12 Sector-6 Uttara, Dhaka","tower House -10 Road-12 Sector-6 Uttara, Dhaka",,,"",,,BD,+8801619496165,,"",,"","",0.00,Flash New,2750.00,online staff,,,7107215392929,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,,Due on receipt,,
+#1157,,paid,,fulfilled,2026-03-27 18:53:03 +0500,no,BDT,0.00,0.00,0.00,0.00,Custom discount,1500.00,"",2026-03-27 00:15:27 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Md Rashed Hossain,"United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.","United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.",,,Chattogram,,,BD,+8801817774748,Md Rashed Hossain,"United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.","United Commercial Bank PLC Sadarghat Branch, 49,Habib City Tower , Sadarghat Road , Chattogram.",,,Chattogram,,,BD,+8801817774748,,"",,"","",0.00,Flash New,0.00,online staff,,,7107229745313,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,,,,
+#1158,neumenjohnvon@gmail.com,pending,,fulfilled,2026-03-29 22:10:24 +0500,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,standard,2026-03-28 21:09:26 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Shifat,"house-18/19 , road-05, block-dha, section-12, Mirpur","house-18/19 , road-05, block-dha, section-12, Mirpur",,,Dhaka,'1216,,BD,+8801712578815,Shifat,"house-18/19 , road-05, block-dha, section-12, Mirpur","house-18/19 , road-05, block-dha, section-12, Mirpur",,,Dhaka,'1216,,BD,+8801712578815,,"",,"","",0.00,Flash New,1550.00,online staff,,,7110231949473,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,,Due on receipt,,
+#1159,,pending,,fulfilled,2026-04-05 21:28:37 +0500,yes,BDT,3000.00,50.00,0.00,3050.00,"",0.00,Standard shipping,2026-04-04 18:10:52 +0500,2,Mini Flash Towel - Buy 1,1500.00,,,true,true,fulfilled,Minhaz -,"Bangladesh Navy headquarter,gulshan gate,Road no 65,near gulshan society mosque,gulshan","Bangladesh Navy headquarter,gulshan gate,Road no 65,near gulshan society mosque,gulshan",,,Dhaka,-,,BD,+88001769762811,Minhaz -,"Bangladesh Navy headquarter,gulshan gate,Road no 65,near gulshan society mosque,gulshan","Bangladesh Navy headquarter,gulshan gate,Road no 65,near gulshan society mosque,gulshan",,,Dhaka,-,,BD,+88001769762811,,"First name: Minhaz
+Phone number: 01769762811
+Address: Bangladesh Navy headquarter,gulshan gate,Road no 65,near gulshan society mosque,gulshan
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+IP address: 123.253.147.130",,Cash on Delivery (COD),"",0.00,Flash New,3050.00,,,,7123182682273,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801769762811,,,,,#1159.1,,,#1159.1
+#1160,,voided,,unfulfilled,,no,BDT,1500.00,50.00,0.00,1550.00,"",0.00,Standard shipping,2026-04-06 10:48:01 +0500,1,Mini Flash Towel - Buy 1,1500.00,,,true,true,pending,Minhaz -,"Bangladesh Navy Headquarter,Gulshan gate, Road no:65,Gulshan","Bangladesh Navy Headquarter,Gulshan gate, Road no:65,Gulshan",,,Dhaka,-,,BD,+88001769762811,Minhaz -,"Bangladesh Navy Headquarter,Gulshan gate, Road no:65,Gulshan","Bangladesh Navy Headquarter,Gulshan gate, Road no:65,Gulshan",,,Dhaka,-,,BD,+88001769762811,,"First name: Minhaz
+Phone number: 01769762811
+Address: Bangladesh Navy Headquarter,Gulshan gate, Road no:65,Gulshan
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 37.111.200.180",2026-04-06 16:06:29 +0500,Cash on Delivery (COD),"",0.00,Flash New,1550.00,,,,7127230972065,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801769762811,,,,,#1160.1,,,#1160.1 + #1160.2

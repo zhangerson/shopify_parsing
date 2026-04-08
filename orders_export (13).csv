@@ -1,0 +1,409 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#1556,,pending,,fulfilled,2026-03-26 19:02:41 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-25 21:56:45 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Abu -,Dohazari raj mahal club,Dohazari raj mahal club,,,Chottogram,-,,BD,+88001344827999,Abu -,Dohazari raj mahal club,Dohazari raj mahal club,,,Chottogram,-,,BD,+88001344827999,,"First name: Abu
+Phone number: 01344827999
+Address: Dohazari raj mahal club
+City: Chottogram
+Subscribe to stay updated with new products and offers!: off
+IP address: 2401:1900:2061:613b:8cb7:f3cc:6f75:ab2e",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6912903020790,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801344827999,,,,,#1556.1,,,#1556.1
+#1557,,pending,,fulfilled,2026-03-26 19:02:42 +0500,yes,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-25 22:14:22 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,শাহরিয়ার ইমন,Mirpur 6,Mirpur 6,,,Dhaka,-,,BD,+8801305280850,শাহরিয়ার ইমন,Mirpur 6,Mirpur 6,,,Dhaka,-,,BD,+8801305280850,,"First name: শাহরিয়ার ইমন
+Phone number: 1305280850
+Address: Mirpur 6
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+IP address: 202.40.186.54",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6912931168502,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801305280850,,,,,#1557.1,,,#1557.1
+#1558,,pending,,fulfilled,2026-03-26 19:02:42 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-26 08:15:14 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,MD AL IMRAN,"FLAT-D12, BUILDING -03, SHOPNO NAGAR RESIDENTIAL AREA, SHAGUFTA MOR, MIRPUR DOHS ROAD, MIRPUR 9, DHAKA.  (OPPOSITE OF PALLABI THANA NEW)","FLAT-D12, BUILDING -03, SHOPNO NAGAR RESIDENTIAL AREA, SHAGUFTA MOR, MIRPUR DOHS ROAD, MIRPUR 9, DHAKA.  (OPPOSITE OF PALLABI THANA NEW)",,,Dhaka,-,,BD,+88001727775757,MD AL IMRAN,"FLAT-D12, BUILDING -03, SHOPNO NAGAR RESIDENTIAL AREA, SHAGUFTA MOR, MIRPUR DOHS ROAD, MIRPUR 9, DHAKA.  (OPPOSITE OF PALLABI THANA NEW)","FLAT-D12, BUILDING -03, SHOPNO NAGAR RESIDENTIAL AREA, SHAGUFTA MOR, MIRPUR DOHS ROAD, MIRPUR 9, DHAKA.  (OPPOSITE OF PALLABI THANA NEW)",,,Dhaka,-,,BD,+88001727775757,,"First name: MD AL IMRAN
+Phone number: 01727775757
+Address: FLAT-D12, BUILDING -03, SHOPNO NAGAR RESIDENTIAL AREA, SHAGUFTA MOR, MIRPUR DOHS ROAD, MIRPUR 9, DHAKA.  (OPPOSITE OF PALLABI THANA NEW)
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.54.41.205",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6913657274614,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801727775757,,,,,#1558.1,,,#1558.1
+#1559,,pending,,fulfilled,2026-03-26 19:02:43 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-26 11:30:21 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,morshedul -,Fflat 4ab Awal manzil nanua deghi east,Fflat 4ab Awal manzil nanua deghi east,,,Comilla,-,,BD,+88001901303216,morshedul -,Fflat 4ab Awal manzil nanua deghi east,Fflat 4ab Awal manzil nanua deghi east,,,Comilla,-,,BD,+88001901303216,,"First name: morshedul
+Phone number: 01901303216
+Address: Fflat 4ab Awal manzil nanua deghi east
+City: Comilla
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.120.200.225",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6913829372150,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801901303216,,,,,#1559.1,,,#1559.1
+#1560,,pending,,fulfilled,2026-03-26 19:02:44 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-26 11:46:44 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Tahir Mohammed Asif,251 New Circular Road Malibagh,251 New Circular Road Malibagh,,,Dhaka,-,,BD,+88001715751503,Tahir Mohammed Asif,251 New Circular Road Malibagh,251 New Circular Road Malibagh,,,Dhaka,-,,BD,+88001715751503,,"First name: Tahir Mohammed Asif
+Phone number: 01715751503
+Address: 251 New Circular Road Malibagh
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.85.243.56",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6913840873718,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801715751503,,,,,#1560.1,,,#1560.1
+#1561,,pending,,fulfilled,2026-03-28 19:11:04 +0500,yes,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-26 16:14:58 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Mirza -,"House-08,Avenue-02,Block-A, Section-11,Mirpur,Dhaka1216","House-08,Avenue-02,Block-A, Section-11,Mirpur,Dhaka1216",,,Dhaka,-,,BD,+88001736353543,Mirza -,"House-08,Avenue-02,Block-A, Section-11,Mirpur,Dhaka1216","House-08,Avenue-02,Block-A, Section-11,Mirpur,Dhaka1216",,,Dhaka,-,,BD,+88001736353543,,"First name: Mirza
+Phone number: 01736353543
+Address: House-08,Avenue-02,Block-A, Section-11,Mirpur,Dhaka1216
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+IP address: 27.147.220.5",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6914068087030,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801736353543,,,,,#1561.1,,,#1561.1
+#1562,,pending,,fulfilled,2026-03-28 19:11:04 +0500,yes,BDT,1700.00,100.00,0.00,1800.00,"",0.00,Fast Shipping,2026-03-26 16:23:48 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Shahidul Islam,"Muktobangla shopping complex, Mirpur-1, Dhaka-1216","Muktobangla shopping complex, Mirpur-1, Dhaka-1216",,,Dhaka,-,,BD,+88001711731040,Shahidul Islam,"Muktobangla shopping complex, Mirpur-1, Dhaka-1216","Muktobangla shopping complex, Mirpur-1, Dhaka-1216",,,Dhaka,-,,BD,+88001711731040,,"First name: Shahidul Islam
+Phone number: 01711731040
+Address: Muktobangla shopping complex, Mirpur-1, Dhaka-1216
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+IP address: 2404:1c40:1c7:687e:ccc9:dd9:fbd7:1b37",,Cash on Delivery (COD),"",0.00,Wash & Water,1800.00,,,,6914075853046,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711731040,,,,,#1562.1,,,#1562.1
+#1563,,pending,,fulfilled,2026-03-28 19:11:05 +0500,no,BDT,1700.00,100.00,0.00,1800.00,"",0.00,Fast Shipping,2026-03-26 21:56:15 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Lt Cdr Samiul Huq,"BNS ISSA KHAN, BANDARTILA","BNS ISSA KHAN, BANDARTILA",,,Chattogram,-,,BD,+8801716534686,Lt Cdr Samiul Huq,"BNS ISSA KHAN, BANDARTILA","BNS ISSA KHAN, BANDARTILA",,,Chattogram,-,,BD,+8801716534686,,"First name: Lt Cdr Samiul Huq
+Phone number: 1716534686
+Address: BNS ISSA KHAN, BANDARTILA
+City: Chattogram
+Subscribe to stay updated with new products and offers!: off
+IP address: 202.51.187.176",,Cash on Delivery (COD),"",0.00,Wash & Water,1800.00,,,,6914652569846,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801716534686,,,,,#1563.1,,,#1563.1
+#1564,,pending,,fulfilled,2026-03-28 19:11:06 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-26 21:57:59 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Ahmed Rabbi,"House 7, Road no.2 Gulshan 1 Flat 10A","House 7, Road no.2 Gulshan 1 Flat 10A",,,Dhaka,-,,BD,+88001762523618,Ahmed Rabbi,"House 7, Road no.2 Gulshan 1 Flat 10A","House 7, Road no.2 Gulshan 1 Flat 10A",,,Dhaka,-,,BD,+88001762523618,,"First name: Ahmed Rabbi
+Phone number: 01762523618
+Address: House 7, Road no.2 Gulshan 1 Flat 10A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.25.248.75",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6914656895222,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801762523618,,,,,#1564.1,,,#1564.1
+#1565,,pending,,fulfilled,2026-03-28 19:11:07 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-26 22:25:30 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Mahmud -,"House 454, south kafrul, dhaka cantonment, dhaka-1206","House 454, south kafrul, dhaka cantonment, dhaka-1206",,,Dhaka,-,,BD,+88001728192887,Mahmud -,"House 454, south kafrul, dhaka cantonment, dhaka-1206","House 454, south kafrul, dhaka cantonment, dhaka-1206",,,Dhaka,-,,BD,+88001728192887,,"First name: Mahmud
+Phone number: 01728192887
+Address: House 454, south kafrul, dhaka cantonment, dhaka-1206
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.78.226.146",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6914734326006,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801728192887,,,,,#1565.1,,,#1565.1
+#1566,,pending,,fulfilled,2026-03-28 19:11:08 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-27 00:16:20 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,abdullah -,"3/1,3/2 bijoy Nagar flat no I-2 Dhaka","3/1,3/2 bijoy Nagar flat no I-2 Dhaka",,,Dhaka,-,,BD,+88001711529134,abdullah -,"3/1,3/2 bijoy Nagar flat no I-2 Dhaka","3/1,3/2 bijoy Nagar flat no I-2 Dhaka",,,Dhaka,-,,BD,+88001711529134,,"First name: abdullah
+Phone number: 01711529134
+Address: 3/1,3/2 bijoy Nagar flat no I-2 Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 157.10.244.122",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6914955608310,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711529134,,,,,#1566.1,,,#1566.1
+#1567,,pending,,fulfilled,2026-03-28 19:11:09 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-27 04:57:53 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,IRFANUL HUQ,"House 263, Shafiat Road, Block C, Bashundhara R/A","House 263, Shafiat Road, Block C, Bashundhara R/A",,,Dhaka,-,,BD,+88001610002451,IRFANUL HUQ,"House 263, Shafiat Road, Block C, Bashundhara R/A","House 263, Shafiat Road, Block C, Bashundhara R/A",,,Dhaka,-,,BD,+88001610002451,,"First name: IRFANUL HUQ
+Phone number: 01610002451
+Address: House 263, Shafiat Road, Block C, Bashundhara R/A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.231.176.250",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6915313303798,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801610002451,,,,,#1567.1,,,#1567.1
+#1568,,pending,,fulfilled,2026-03-28 19:11:10 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-27 21:23:50 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Omar sharif,"1. Chandi charan bose strert wari,Dhaka 1203","1. Chandi charan bose strert wari,Dhaka 1203",,,Dhaka,-,,BD,+88001886006596,Omar sharif,"1. Chandi charan bose strert wari,Dhaka 1203","1. Chandi charan bose strert wari,Dhaka 1203",,,Dhaka,-,,BD,+88001886006596,,"First name: Omar sharif
+Phone number: 01886006596
+Address: 1. Chandi charan bose strert wari,Dhaka 1203
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.112.53.241",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6916471750902,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801886006596,,,,,#1568.1,,,#1568.1
+#1569,,pending,,fulfilled,2026-03-28 19:11:11 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-27 22:32:21 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Faisal -,"Agrabad , Goshaildanga, Aziz miar godown , Haji amju mia manjil , 957/A.","Agrabad , Goshaildanga, Aziz miar godown , Haji amju mia manjil , 957/A.",,,Chittagong,-,,BD,+88001867421311,Faisal -,"Agrabad , Goshaildanga, Aziz miar godown , Haji amju mia manjil , 957/A.","Agrabad , Goshaildanga, Aziz miar godown , Haji amju mia manjil , 957/A.",,,Chittagong,-,,BD,+88001867421311,,"First name: Faisal
+Phone number: 01867421311
+Address: Agrabad , Goshaildanga, Aziz miar godown , Haji amju mia manjil , 957/A.
+City: Chittagong
+Subscribe to stay updated with new products and offers!: off
+IP address: 2404:1c40:443:fb79:f9d7:b2c4:1d0d:31a5",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6916604166390,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801867421311,,,,,#1569.1,,,#1569.1
+#1570,,pending,,fulfilled,2026-03-28 19:11:12 +0500,no,BDT,1700.00,100.00,0.00,1800.00,"",0.00,Fast Shipping,2026-03-27 22:36:11 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Sadril Ahmed,"(Razzak tower D-45) paglabari 4 rastar mor, siddhirganj","(Razzak tower D-45) paglabari 4 rastar mor, siddhirganj",,,Narayanganj,-,,BD,+88001926050170,Sadril Ahmed,"(Razzak tower D-45) paglabari 4 rastar mor, siddhirganj","(Razzak tower D-45) paglabari 4 rastar mor, siddhirganj",,,Narayanganj,-,,BD,+88001926050170,,"First name: Sadril Ahmed
+Phone number: 01926050170
+Address: (Razzak tower D-45) paglabari 4 rastar mor, siddhirganj
+City: Narayanganj
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.190.132.31",,Cash on Delivery (COD),"",0.00,Wash & Water,1800.00,,,,6916609802486,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801926050170,,,,,#1570.1,,,#1570.1
+#1571,,pending,,fulfilled,2026-03-28 19:11:13 +0500,yes,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-28 00:39:06 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Shahidul Islam,"Muktobangla Shopping Complex, Mirpur-1,Dhaka-1216","Muktobangla Shopping Complex, Mirpur-1,Dhaka-1216",,,Dhaka,-,,BD,+88001711731040,Shahidul Islam,"Muktobangla Shopping Complex, Mirpur-1,Dhaka-1216","Muktobangla Shopping Complex, Mirpur-1,Dhaka-1216",,,Dhaka,-,,BD,+88001711731040,,"First name: Shahidul Islam
+Phone number: 01711731040
+Address: Muktobangla Shopping Complex, Mirpur-1,Dhaka-1216
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.129.33.183",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6916815585526,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711731040,,,,,#1571.1,,,#1571.1
+#1572,,pending,,fulfilled,2026-03-28 19:11:13 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-28 00:51:07 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Sujan -,সুমন-সুজন কোচিং,সুমন-সুজন কোচিং,,,ঠাকুরগাঁও,-,,BD,+88001738433349,Sujan -,সুমন-সুজন কোচিং,সুমন-সুজন কোচিং,,,ঠাকুরগাঁও,-,,BD,+88001738433349,,"First name: Sujan
+Phone number: 01738433349
+Address: সুমন-সুজন কোচিং
+City: ঠাকুরগাঁও
+Subscribe to stay updated with new products and offers!: off
+IP address: 37.111.226.32",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6916833476854,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801738433349,,,,,#1572.1,,,#1572.1
+#1573,,pending,,fulfilled,2026-03-28 19:11:14 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-28 10:00:49 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Maruf -,"Gouripur, Daudkandi, Cumilla","Gouripur, Daudkandi, Cumilla",,,Gouripur,-,,BD,+88001951883316,Maruf -,"Gouripur, Daudkandi, Cumilla","Gouripur, Daudkandi, Cumilla",,,Gouripur,-,,BD,+88001951883316,,"First name: Maruf
+Phone number: 01951883316
+Address: Gouripur, Daudkandi, Cumilla
+City: Gouripur
+Subscribe to stay updated with new products and offers!: off
+IP address: 203.76.223.93",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6917506728182,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801951883316,,,,,#1573.1,,,#1573.1
+#1574,,pending,,fulfilled,2026-03-29 22:17:38 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-28 14:21:36 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Dipu -,"133, Sharif Momtaj House, Londoni Road, Subid Bazar, Sylhet","133, Sharif Momtaj House, Londoni Road, Subid Bazar, Sylhet",,,Sylhet,-,,BD,+8801675985485,Dipu -,"133, Sharif Momtaj House, Londoni Road, Subid Bazar, Sylhet","133, Sharif Momtaj House, Londoni Road, Subid Bazar, Sylhet",,,Sylhet,-,,BD,+8801675985485,,"First name: Dipu
+Phone number: 1675985485
+Address: 133, Sharif Momtaj House, Londoni Road, Subid Bazar, Sylhet
+City: Sylhet
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.176.237.215",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6917739512054,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801675985485,,,,,#1574.1,,,#1574.1
+#1575,,pending,,fulfilled,2026-03-29 22:17:38 +0500,no,BDT,1700.00,100.00,0.00,1800.00,"",0.00,Standard Shipping 2-4 Days Steadfast,2026-03-28 21:11:36 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Habibur Rahman,"Khan Zaman Tower (5th Floor), Holding No - 684/617, Jhautola 3500","Khan Zaman Tower (5th Floor), Holding No - 684/617, Jhautola 3500",,,Comilla,,,BD,+8801706909724,Habibur Rahman,"Khan Zaman Tower (5th Floor), Holding No - 684/617, Jhautola 3500","Khan Zaman Tower (5th Floor), Holding No - 684/617, Jhautola 3500",,,Comilla,,,BD,+8801706909724,,"",,"","",0.00,Wash & Water,1800.00,online staff,,,6918213042422,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,,Due on receipt,,
+#1576,,pending,,fulfilled,2026-03-29 22:17:39 +0500,no,BDT,1700.00,100.00,0.00,1800.00,"",0.00,Fast Shipping,2026-03-28 22:21:15 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,জিহাদ -,কুমিল্লা চকবাজার কাপড়িয়া পট্টি,কুমিল্লা চকবাজার কাপড়িয়া পট্টি,,,কুমিল্লা চকবাজার মদিনা বাস ইস্টেশন,-,,BD,+88001945134078,জিহাদ -,কুমিল্লা চকবাজার কাপড়িয়া পট্টি,কুমিল্লা চকবাজার কাপড়িয়া পট্টি,,,কুমিল্লা চকবাজার মদিনা বাস ইস্টেশন,-,,BD,+88001945134078,,"First name: জিহাদ
+Phone number: 01945134078
+Address: কুমিল্লা চকবাজার কাপড়িয়া পট্টি
+City: কুমিল্লা চকবাজার মদিনা বাস ইস্টেশন
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.205.36.169",,Cash on Delivery (COD),"",0.00,Wash & Water,1800.00,,,,6918341624054,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801945134078,,,,,#1576.1,,,#1576.1
+#1577,,pending,,fulfilled,2026-03-29 22:17:40 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-29 09:35:05 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Dr. Rubel,"House:17, Road:06, Sector:03, Uttara","House:17, Road:06, Sector:03, Uttara",,,Dhaka,-,,BD,+88001911384858,Dr. Rubel,"House:17, Road:06, Sector:03, Uttara","House:17, Road:06, Sector:03, Uttara",,,Dhaka,-,,BD,+88001911384858,,"First name: Dr. Rubel
+Phone number: 01911384858
+Address: House:17, Road:06, Sector:03, Uttara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.151.40.235",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6919285539062,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801911384858,,,,,#1577.1,,,#1577.1
+#1578,,pending,,fulfilled,2026-03-29 22:17:40 +0500,yes,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-29 09:49:06 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Hridoy -,Nagarpur,Nagarpur,,,Tangail,-,,BD,+88001643077223,Hridoy -,Nagarpur,Nagarpur,,,Tangail,-,,BD,+88001643077223,,"First name: Hridoy
+Phone number: 01643077223
+Address: Nagarpur
+City: Tangail
+Subscribe to stay updated with new products and offers!: on
+IP address: 2404:1c40:480:e6c1:9890:15ff:fe6e:47e2",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6919297728758,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801643077223,,,,,#1578.1,,,#1578.1
+#1579,,pending,,fulfilled,2026-03-30 22:26:21 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-29 17:25:06 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Sanmugathevan -,"Comilla epz,","Comilla epz,",,,Comilla,-,,BD,+8801730306390,Sanmugathevan -,"Comilla epz,","Comilla epz,",,,Comilla,-,,BD,+8801730306390,,"First name: Sanmugathevan
+Phone number: 1730306390
+Address: Comilla epz,
+City: Comilla
+Subscribe to stay updated with new products and offers!: off
+IP address: 116.206.58.238",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6919693697270,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801730306390,,,,,#1579.1,,,#1579.1
+#1580,,pending,,fulfilled,2026-03-30 22:26:21 +0500,yes,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-30 08:39:03 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Firoz -,"Adarsha school, N. Ganj","Adarsha school, N. Ganj",,,"Narayangonj Sadar, N.gonj",-,,BD,+88001914228891,Firoz -,"Adarsha school, N. Ganj","Adarsha school, N. Ganj",,,"Narayangonj Sadar, N.gonj",-,,BD,+88001914228891,,"First name: Firoz
+Phone number: 01914228891
+Address: Adarsha school, N. Ganj
+City: Narayangonj Sadar, N.gonj
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.138.123.245",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6920846835958,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801914228891,,,,,#1580.1,,,#1580.1
+#1581,,pending,,fulfilled,2026-03-31 17:08:48 +0500,yes,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-30 12:54:11 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,mehedi -,khagrachari Ramgarh 4440,khagrachari Ramgarh 4440,,,Khagrachhari,-,,BD,+8801828926693,mehedi -,khagrachari Ramgarh 4440,khagrachari Ramgarh 4440,,,Khagrachhari,-,,BD,+8801828926693,,"First name: mehedi
+Phone number: 1828926693
+Address: khagrachari Ramgarh 4440
+City: Khagrachhari
+Subscribe to stay updated with new products and offers!: on
+IP address: 43.246.200.249",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6921066184950,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801828926693,,,,,#1581.1,,,#1581.1
+#1582,,pending,,fulfilled,2026-03-31 17:08:49 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-03-30 20:19:36 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Nusrat -,b-32 mahanagar project west rampura,b-32 mahanagar project west rampura,,,Dhaka,-,,BD,+88001989060445,Nusrat -,b-32 mahanagar project west rampura,b-32 mahanagar project west rampura,,,Dhaka,-,,BD,+88001989060445,,"First name: Nusrat
+Phone number: 01989060445
+Address: b-32 mahanagar project west rampura
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: ig
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754680687
+UTM term: 120241423754760687
+IP address: 103.140.83.94",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6921483583734,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801989060445,,,,,#1582.1,,,#1582.1
+#1583,,pending,,fulfilled,2026-03-31 17:08:50 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-03-30 22:39:08 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Anando -,Green Rd 168/8 moghoul heritage,Green Rd 168/8 moghoul heritage,,,Dhaka,-,,BD,+88001345979361,Anando -,Green Rd 168/8 moghoul heritage,Green Rd 168/8 moghoul heritage,,,Dhaka,-,,BD,+88001345979361,,"First name: Anando
+Phone number: 01345979361
+Address: Green Rd 168/8 moghoul heritage
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: ig
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754680687
+UTM term: 120241423754760687
+IP address: 103.133.78.18",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6921684353270,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801345979361,,,,,#1583.1,,,#1583.1
+#1584,,pending,,fulfilled,2026-03-31 17:08:51 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-03-31 03:13:18 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Rayhan -,উপজেলা ভূমি অফিস আলফাডাঙ্গা ফরিদপুর,উপজেলা ভূমি অফিস আলফাডাঙ্গা ফরিদপুর,,,"Alfadanga, Faridpur",-,,BD,+88001721962812,Rayhan -,উপজেলা ভূমি অফিস আলফাডাঙ্গা ফরিদপুর,উপজেলা ভূমি অফিস আলফাডাঙ্গা ফরিদপুর,,,"Alfadanga, Faridpur",-,,BD,+88001721962812,,"First name: Rayhan
+Phone number: 01721962812
+Address: উপজেলা ভূমি অফিস আলফাডাঙ্গা ফরিদপুর
+City: Alfadanga, Faridpur
+Subscribe to stay updated with new products and offers!: off
+UTM source: fb
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754790687
+UTM term: 120241423754650687
+IP address: 2400:c600:3582:421c:1:0:a9ed:94f4",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6922033463542,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801721962812,,,,,#1584.1,,,#1584.1
+#1585,,pending,,fulfilled,2026-03-31 17:08:51 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-03-31 11:21:49 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Chowdhury Md Ghalib,"P-19, Kuddus Nibash, Nurjahan Road, Mohammadpur, Dhaka, Bangladesh","P-19, Kuddus Nibash, Nurjahan Road, Mohammadpur, Dhaka, Bangladesh",,,Dhaka,-,,BD,+88001716994697,Chowdhury Md Ghalib,"P-19, Kuddus Nibash, Nurjahan Road, Mohammadpur, Dhaka, Bangladesh","P-19, Kuddus Nibash, Nurjahan Road, Mohammadpur, Dhaka, Bangladesh",,,Dhaka,-,,BD,+88001716994697,,"First name: Chowdhury Md Ghalib
+Phone number: 01716994697
+Address: P-19, Kuddus Nibash, Nurjahan Road, Mohammadpur, Dhaka, Bangladesh
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM medium: paid
+UTM campaign: 120240638061970687
+UTM content: 120240638172090687
+UTM term: 120240638172050687
+IP address: 202.51.176.91",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6922674110710,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801716994697,,,,,#1585.1,,,#1585.1
+#1586,,pending,,fulfilled,2026-04-01 18:51:45 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-03-31 14:35:20 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Maruf -,Rangpur jummapara 5400 maura porty,Rangpur jummapara 5400 maura porty,,,Poccim Jummapara Maura Porty Mondir,-,,BD,+88001637761771,Maruf -,Rangpur jummapara 5400 maura porty,Rangpur jummapara 5400 maura porty,,,Poccim Jummapara Maura Porty Mondir,-,,BD,+88001637761771,,"First name: Maruf
+Phone number: 01637761771
+Address: Rangpur jummapara 5400 maura porty
+City: Poccim Jummapara Maura Porty Mondir
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754820687
+UTM term: 120241423754780687
+IP address: 203.31.169.65",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6922828251382,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801637761771,,,,,#1586.1,,,#1586.1
+#1587,,pending,,fulfilled,2026-04-01 18:51:46 +0500,no,BDT,1700.00,100.00,0.00,1800.00,"",0.00,Fast Shipping,2026-03-31 15:20:12 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Hossain Sabbib,"6A,BTI ANIQA BUILDING, ROSE VALLEY R/A,KHULSHI","6A,BTI ANIQA BUILDING, ROSE VALLEY R/A,KHULSHI",,,Chittagong,-,,BD,+88001856009898,Hossain Sabbib,"6A,BTI ANIQA BUILDING, ROSE VALLEY R/A,KHULSHI","6A,BTI ANIQA BUILDING, ROSE VALLEY R/A,KHULSHI",,,Chittagong,-,,BD,+88001856009898,,"First name: Hossain Sabbib
+Phone number: 01856009898
+Address: 6A,BTI ANIQA BUILDING, ROSE VALLEY R/A,KHULSHI
+City: Chittagong
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240638061970687
+UTM content: 120240638171990687
+UTM term: 120240638172080687
+IP address: 58.145.190.204",,Cash on Delivery (COD),"",0.00,Wash & Water,1800.00,,,,6922862526710,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801856009898,,,,,#1587.1,,,#1587.1
+#1588,,pending,,fulfilled,2026-04-01 18:51:47 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-03-31 16:28:31 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Humaira -,"Rd 8, Hs 8, J block Baridhara","Rd 8, Hs 8, J block Baridhara",,,Dhaka,-,,BD,+8801729090570,Humaira -,"Rd 8, Hs 8, J block Baridhara","Rd 8, Hs 8, J block Baridhara",,,Dhaka,-,,BD,+8801729090570,,"First name: Humaira
+Phone number: 1729090570
+Address: Rd 8, Hs 8, J block Baridhara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754820687
+UTM term: 120241423754780687
+IP address: 37.111.194.71",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6922920067318,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801729090570,,,,,#1588.1,,,#1588.1
+#1589,,pending,,fulfilled,2026-04-01 18:51:47 +0500,no,BDT,1540.00,50.00,0.00,1590.00,UPSELL DISCOUNT,2310.00,Standard Shipping,2026-03-31 18:26:21 +0500,1,Shisha To Go - Portable Car Hookah - buy 1,3850.00,,,true,true,fulfilled,fida -,rayer bazar nimtola,rayer bazar nimtola,,,dhaka,-,,BD,+88001302542237,fida -,rayer bazar nimtola,rayer bazar nimtola,,,dhaka,-,,BD,+88001302542237,,"First name: fida
+Phone number: 01302542237
+Address: rayer bazar nimtola
+City: dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754790687
+UTM term: 120241423754650687
+IP address: 103.218.26.192",,Cash on Delivery (COD),"",0.00,YAHYA,1590.00,,,,6923037442294,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801302542237,,,,,#1589.1,,,#1589.1
+#1590,,pending,,fulfilled,2026-04-01 18:51:48 +0500,no,BDT,1500.00,100.00,0.00,1600.00,"",0.00,Fast Shipping,2026-04-01 09:02:04 +0500,1,Instant Ice Cream Maker Tray with Scraper - buy 1,1500.00,,,true,true,fulfilled,Abu Sufian Toha,"Flat 107, Fairy Homes, 7 Poribagh, Shahbagh, Dhaka 1000","Flat 107, Fairy Homes, 7 Poribagh, Shahbagh, Dhaka 1000",,,Dhaka,-,,BD,+88001303719200,Abu Sufian Toha,"Flat 107, Fairy Homes, 7 Poribagh, Shahbagh, Dhaka 1000","Flat 107, Fairy Homes, 7 Poribagh, Shahbagh, Dhaka 1000",,,Dhaka,-,,BD,+88001303719200,,"First name: Abu Sufian Toha
+Phone number: 01303719200
+Address: Flat 107, Fairy Homes, 7 Poribagh, Shahbagh, Dhaka 1000
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240449978050687
+UTM content: 120240449978120687
+UTM term: 120240449978100687
+IP address: 103.119.102.178",,Cash on Delivery (COD),"",0.00,MagicRolls,1600.00,,,,6924169969910,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801303719200,,,,,#1590.1,,,#1590.1
+#1591,,pending,,fulfilled,2026-04-02 16:56:59 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-04-01 13:41:33 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Arafat Hossain,"Arafat Auto, Thana Road, Joypurhat Sadar, Joypurhat.","Arafat Auto, Thana Road, Joypurhat Sadar, Joypurhat.",,,Joypurhat,-,,BD,+88001737607010,Arafat Hossain,"Arafat Auto, Thana Road, Joypurhat Sadar, Joypurhat.","Arafat Auto, Thana Road, Joypurhat Sadar, Joypurhat.",,,Joypurhat,-,,BD,+88001737607010,,"First name: Arafat Hossain
+Phone number: 01737607010
+Address: Arafat Auto, Thana Road, Joypurhat Sadar, Joypurhat.
+City: Joypurhat
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240638061970687
+UTM content: 120240638171990687
+UTM term: 120240638172080687
+IP address: 37.111.224.61",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6924430180598,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801737607010,,,,,#1591.1,,,#1591.1
+#1592,,pending,,fulfilled,2026-04-02 16:57:00 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-04-01 19:32:20 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Thushara -,F7A H52 R08 Sec 03,F7A H52 R08 Sec 03,,,Uttara,-,,BD,+88001799983525,Thushara -,F7A H52 R08 Sec 03,F7A H52 R08 Sec 03,,,Uttara,-,,BD,+88001799983525,,"First name: Thushara
+Phone number: 01799983525
+Address: F7A H52 R08 Sec 03
+City: Uttara
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754820687
+UTM term: 120241423754780687
+IP address: 31.94.16.163",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6924796199158,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801799983525,,,,,#1592.1,,,#1592.1
+#1593,,pending,,fulfilled,2026-04-02 16:57:00 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-04-01 22:26:40 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,MD Kazi Tahmid,"MIST OFFICERS MESS , mirpur cantonment","MIST OFFICERS MESS , mirpur cantonment",,,Dhaka,-,,BD,+88001511141414,MD Kazi Tahmid,"MIST OFFICERS MESS , mirpur cantonment","MIST OFFICERS MESS , mirpur cantonment",,,Dhaka,-,,BD,+88001511141414,,"First name: MD Kazi Tahmid
+Phone number: 01511141414
+Address: MIST OFFICERS MESS , mirpur cantonment
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 182.252.68.156",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6925060735222,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801511141414,,,,,#1593.1,,,#1593.1
+#1594,,pending,,fulfilled,2026-04-04 20:41:38 +0500,yes,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-04-02 16:25:27 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Maruf -,"Rangpur  sodor 5400,, poccim jummapara maura porti mondir","Rangpur  sodor 5400,, poccim jummapara maura porti mondir",,,Rangpur,-,,BD,+88001770873082,Maruf -,"Rangpur  sodor 5400,, poccim jummapara maura porti mondir","Rangpur  sodor 5400,, poccim jummapara maura porti mondir",,,Rangpur,-,,BD,+88001770873082,,"First name: Maruf
+Phone number: 01770873082
+Address: Rangpur  sodor 5400,, poccim jummapara maura porti mondir
+City: Rangpur
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754820687
+UTM term: 120241423754780687
+IP address: 103.25.248.93",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6926243037430,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801770873082,,,,,#1594.1,,,#1594.1
+#1595,,pending,,fulfilled,2026-04-04 20:41:38 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-04-03 21:42:22 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Tarikul -,"House 24, Road 06, Block D, Niketon Housing, Gulshan 1","House 24, Road 06, Block D, Niketon Housing, Gulshan 1",,,Dhaka,-,,BD,+8801817184608,Tarikul -,"House 24, Road 06, Block D, Niketon Housing, Gulshan 1","House 24, Road 06, Block D, Niketon Housing, Gulshan 1",,,Dhaka,-,,BD,+8801817184608,,"First name: Tarikul
+Phone number: 1817184608
+Address: House 24, Road 06, Block D, Niketon Housing, Gulshan 1
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240638061970687
+UTM content: 120240638172090687
+UTM term: 120240638172050687
+IP address: 2404:1c40:c7:3cf1:3d67:4755:ddf0:bf58",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6928389275894,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801817184608,,,,,#1595.1,,,#1595.1
+#1596,,pending,,fulfilled,2026-04-05 21:35:42 +0500,no,BDT,3145.00,50.00,0.00,3195.00,"",0.00,Standard Shipping,2026-04-04 11:26:31 +0500,1,Portable Water Flosser - Buy 2 to get 15% OFF,3145.00,,,true,true,fulfilled,Afia -,Flat Y4 house 35 road 11 sector 4 Uttara,Flat Y4 house 35 road 11 sector 4 Uttara,,,Dhaka,-,,BD,+8801779852184,Afia -,Flat Y4 house 35 road 11 sector 4 Uttara,Flat Y4 house 35 road 11 sector 4 Uttara,,,Dhaka,-,,BD,+8801779852184,,"First name: Afia
+Phone number: 8801779852184
+Address: Flat Y4 house 35 road 11 sector 4 Uttara
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM content: Facebook_UA
+IP address: 103.101.199.94",,Cash on Delivery (COD),"",0.00,AquaSmile,3195.00,,,,6929482416374,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801779852184,,,,,#1596.1,,,#1596.1
+#1597,,pending,,fulfilled,2026-04-05 21:35:43 +0500,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-04-04 13:21:22 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,fulfilled,Omar Faruk,"Tilagor,sylhet sadar","Tilagor,sylhet sadar",,,Sylhet,-,,BD,+88001711700582,Omar Faruk,"Tilagor,sylhet sadar","Tilagor,sylhet sadar",,,Sylhet,-,,BD,+88001711700582,,"First name: Omar Faruk
+Phone number: 01711700582
+Address: Tilagor,sylhet sadar
+City: Sylhet
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240638061970687
+UTM content: 120240638171990687
+UTM term: 120240638172080687
+IP address: 103.176.2.84",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6929596317942,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711700582,,,,,#1597.1,,,#1597.1
+#1598,,pending,,fulfilled,2026-04-05 21:35:43 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-04-05 10:48:41 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Habib -,"Ferdous saheb er basa, madrasha goli, 250 bed, boyra, Khulna","Ferdous saheb er basa, madrasha goli, 250 bed, boyra, Khulna",,,Khulna,-,,BD,+88001907791921,Habib -,"Ferdous saheb er basa, madrasha goli, 250 bed, boyra, Khulna","Ferdous saheb er basa, madrasha goli, 250 bed, boyra, Khulna",,,Khulna,-,,BD,+88001907791921,,"First name: Habib
+Phone number: 01907791921
+Address: Ferdous saheb er basa, madrasha goli, 250 bed, boyra, Khulna
+City: Khulna
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754770687
+UTM term: 120241423754670687
+IP address: 103.150.6.21",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6931305201910,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801907791921,,,,,#1598.1,,,#1598.1
+#1599,,pending,,fulfilled,2026-04-06 16:13:20 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-04-05 14:33:42 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Asif Jahangir Arko,"Asset-Meadowlark, 55/K-1, Apt- A3, West Dhanmondi 9/A","Asset-Meadowlark, 55/K-1, Apt- A3, West Dhanmondi 9/A",,,Dhaka,-,,BD,+8801717403809,Asif Jahangir Arko,"Asset-Meadowlark, 55/K-1, Apt- A3, West Dhanmondi 9/A","Asset-Meadowlark, 55/K-1, Apt- A3, West Dhanmondi 9/A",,,Dhaka,-,,BD,+8801717403809,,"First name: Asif Jahangir Arko
+Phone number: 1717403809
+Address: Asset-Meadowlark, 55/K-1, Apt- A3, West Dhanmondi 9/A
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754750687
+UTM term: 120241423754700687
+IP address: 165.101.133.209",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6931496468726,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801717403809,,,,,#1599.1,,,#1599.1
+#1600,,pending,,fulfilled,2026-04-06 16:13:21 +0500,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-04-06 01:06:58 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,fulfilled,Kashfia -,Uttara sector,Uttara sector,,,Dhaka,-,,BD,+88001626798075,Kashfia -,Uttara sector,Uttara sector,,,Dhaka,-,,BD,+88001626798075,,"First name: Kashfia
+Phone number: 01626798075
+Address: Uttara sector
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120241423499310687
+UTM content: 120241423754820687
+UTM term: 120241423754780687
+IP address: 119.148.103.132",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6932258226422,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801626798075,,,,,#1600.1,,,#1600.1
+#1601,,pending,,fulfilled,2026-04-07 22:39:58 +0500,no,BDT,3240.00,50.00,0.00,3290.00,UPSELL DISCOUNT,2310.00,Standard Shipping,2026-04-07 09:38:42 +0500,1,Shisha To Go - Portable Car Hookah - buy 1,3850.00,,,true,true,fulfilled,Aminul -,Shibgonn Gofargoan mymensingh,Shibgonn Gofargoan mymensingh,,,Mymensingh,-,,BD,+88001730947293,Aminul -,Shibgonn Gofargoan mymensingh,Shibgonn Gofargoan mymensingh,,,Mymensingh,-,,BD,+88001730947293,,"First name: Aminul
+Phone number: 01730947293
+Address: Shibgonn Gofargoan mymensingh
+City: Mymensingh
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120242157839140687
+UTM content: 120242157857310687
+UTM term: 120242157857280687
+IP address: 103.173.173.14",,Cash on Delivery (COD),"",0.00,YAHYA,3290.00,,,,6942506123510,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801730947293,,,,,#1601.1,,,#1601.1
+#1601,,,,,,,,,,,,,,,2026-04-07 09:38:42 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,"","",true,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,,,,,,Wash & Water,,,,,,,,,0.00,,,,,,,,,,,+8801730947293,,,,,,,,
+#1602,,pending,,unfulfilled,,no,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-04-07 19:06:39 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,pending,abdul halim,"Meghna Bank Ltd., 190, Water Works Road, Chawkbazar.","Meghna Bank Ltd., 190, Water Works Road, Chawkbazar.",,,Dhaka,-,,BD,+8801613289467,abdul halim,"Meghna Bank Ltd., 190, Water Works Road, Chawkbazar.","Meghna Bank Ltd., 190, Water Works Road, Chawkbazar.",,,Dhaka,-,,BD,+8801613289467,,"First name: abdul halim
+Phone number: 1613289467
+Address: Meghna Bank Ltd., 190, Water Works Road, Chawkbazar.
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120242153015270687
+UTM content: 120242153015680687
+UTM term: 120242153015620687
+IP address: 103.149.1.73",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6951382745334,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801613289467,,,,,#1602.1,,,#1602.1
+#1603,,pending,,unfulfilled,,no,BDT,1850.00,100.00,0.00,1950.00,"",0.00,Fast Shipping,2026-04-07 19:34:06 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,pending,sheak asraf uddin emon,kotowali road Tatibazar dhaka 1100,kotowali road Tatibazar dhaka 1100,,,Dhaka,-,,BD,+88001886549131,sheak asraf uddin emon,kotowali road Tatibazar dhaka 1100,kotowali road Tatibazar dhaka 1100,,,Dhaka,-,,BD,+88001886549131,,"First name: sheak asraf uddin emon
+Phone number: 01886549131
+Address: kotowali road Tatibazar dhaka 1100
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120242153015270687
+UTM content: 120242153015630687
+UTM term: 120242153015590687
+IP address: 203.76.222.210",,Cash on Delivery (COD),"",0.00,AquaSmile,1950.00,,,,6951830094070,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801886549131,,,,,#1603.1,,,#1603.1
+#1604,,pending,,unfulfilled,,yes,BDT,1850.00,50.00,0.00,1900.00,"",0.00,Standard Shipping,2026-04-07 21:05:01 +0500,1,Portable Water Flosser - Buy 1,1850.00,,,true,true,pending,Nayeema -,25/5 road 29 Pallabi Mirpur-12,25/5 road 29 Pallabi Mirpur-12,,,Dhaka,-,,BD,+8801726127921,Nayeema -,25/5 road 29 Pallabi Mirpur-12,25/5 road 29 Pallabi Mirpur-12,,,Dhaka,-,,BD,+8801726127921,,"First name: Nayeema
+Phone number: 1726127921
+Address: 25/5 road 29 Pallabi Mirpur-12
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120242156860780687
+UTM content: 120242156879700687
+UTM term: 120242156879770687
+IP address: 103.143.183.228",,Cash on Delivery (COD),"",0.00,AquaSmile,1900.00,,,,6953313861878,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801726127921,,,,,#1604.1,,,#1604.1
+#1605,,pending,,unfulfilled,,no,BDT,1700.00,50.00,0.00,1750.00,"",0.00,Standard Shipping,2026-04-07 21:13:12 +0500,1,High-Pressure Foam Car Wash - Buy 1,1700.00,,,true,true,pending,মো প্রিন্স,পটুয়াখালী গলাচিপা,পটুয়াখালী গলাচিপা,,,বরিশাল,-,,BD,+88001713822251,মো প্রিন্স,পটুয়াখালী গলাচিপা,পটুয়াখালী গলাচিপা,,,বরিশাল,-,,BD,+88001713822251,,"First name: মো প্রিন্স
+Phone number: 01713822251
+Address: পটুয়াখালী গলাচিপা
+City: বরিশাল
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120242157839140687
+UTM content: 120242157857320687
+UTM term: 120242157857340687
+IP address: 37.111.242.230",,Cash on Delivery (COD),"",0.00,Wash & Water,1750.00,,,,6953447915766,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801713822251,,,,,#1605.1,,,#1605.1

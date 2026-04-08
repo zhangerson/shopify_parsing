@@ -1,0 +1,400 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#GN4275,,pending,,fulfilled,2026-04-01 18:44:20 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 08:33:02 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,খোরশেদ -,কাজির হাট সাব রেজিস্ট্রি অফিস ভূজপুর চট্টগ্রাম,কাজির হাট সাব রেজিস্ট্রি অফিস ভূজপুর চট্টগ্রাম,,,চট্টগ্রাম,-,,BD,+88001811988131,খোরশেদ -,কাজির হাট সাব রেজিস্ট্রি অফিস ভূজপুর চট্টগ্রাম,কাজির হাট সাব রেজিস্ট্রি অফিস ভূজপুর চট্টগ্রাম,,,চট্টগ্রাম,-,,BD,+88001811988131,,"First name: খোরশেদ
+Phone number: 01811988131
+Address: কাজির হাট সাব রেজিস্ট্রি অফিস ভূজপুর চট্টগ্রাম
+City: চট্টগ্রাম
+Subscribe to stay updated with new products and offers!: off
+IP address: 58.145.190.36",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7373908607272,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801811988131,,,,,#GN4275.1,,,#GN4275.1
+#GN4276,,voided,,unfulfilled,,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 09:07:32 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,pending,Rahat -,"uttar mirerchor,biswanath","uttar mirerchor,biswanath",,,sylhet,-,,BD,+88001306877229,Rahat -,"uttar mirerchor,biswanath","uttar mirerchor,biswanath",,,sylhet,-,,BD,+88001306877229,,"First name: Rahat
+Phone number: 01306877229
+Address: uttar mirerchor,biswanath
+City: sylhet
+Subscribe to stay updated with new products and offers!: on
+IP address: 182.48.71.43",2026-03-31 11:34:37 +0500,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7373936853288,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801306877229,,,,,#GN4276.1,,,#GN4276.1 + #GN4276.2
+#GN4277,,voided,,unfulfilled,,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 09:08:37 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,pending,Rahat -,"uttar mirer chor ,bisawanath","uttar mirer chor ,bisawanath",,,sylhet,-,,BD,+88001306877229,Rahat -,"uttar mirer chor ,bisawanath","uttar mirer chor ,bisawanath",,,sylhet,-,,BD,+88001306877229,,"First name: Rahat
+Phone number: 01306877229
+Address: uttar mirer chor ,bisawanath
+City: sylhet
+Subscribe to stay updated with new products and offers!: off
+IP address: 182.48.71.43",2026-03-31 11:34:38 +0500,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7373938295080,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801306877229,,,,,#GN4277.1,,,#GN4277.1 + #GN4277.2
+#GN4278,,voided,,unfulfilled,,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 09:10:18 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,pending,Rahat -,uttar mirer char  biswanath,uttar mirer char  biswanath,,,sylhet,-,,BD,+88001306877229,Rahat -,uttar mirer char  biswanath,uttar mirer char  biswanath,,,sylhet,-,,BD,+88001306877229,,"First name: Rahat
+Phone number: 01306877229
+Address: uttar mirer char  biswanath
+City: sylhet
+Subscribe to stay updated with new products and offers!: off
+IP address: 182.48.71.43",2026-03-31 11:34:40 +0500,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7373940097320,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801306877229,,,,,#GN4278.1,,,#GN4278.1 + #GN4278.2
+#GN4279,,voided,,unfulfilled,,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 09:39:30 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,pending,rahat -,uttar mirerchor biswanath,uttar mirerchor biswanath,,,sylhet,-,,BD,+8801306877229,rahat -,uttar mirerchor biswanath,uttar mirerchor biswanath,,,sylhet,-,,BD,+8801306877229,,"First name: rahat
+Phone number: 1306877229
+Address: uttar mirerchor biswanath
+City: sylhet
+Subscribe to stay updated with new products and offers!: off
+IP address: 182.48.71.43",2026-03-31 11:34:41 +0500,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7373970309416,"1st attempt, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801306877229,,,,,#GN4279.1,,,#GN4279.1 + #GN4279.2
+#GN4280,,pending,,fulfilled,2026-03-31 11:34:56 +0500,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Free shipping,2026-03-30 09:45:19 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,true,fulfilled,Md Shahidul Islam,"Kushol Center 9th floor, Plot 29, Sector 3, Uttara, Dhaka","Kushol Center 9th floor, Plot 29, Sector 3, Uttara, Dhaka",,,Dhaka,-,,BD,+88001755552127,Md Shahidul Islam,"Kushol Center 9th floor, Plot 29, Sector 3, Uttara, Dhaka","Kushol Center 9th floor, Plot 29, Sector 3, Uttara, Dhaka",,,Dhaka,-,,BD,+88001755552127,,"First name: Md Shahidul Islam
+Phone number: 01755552127
+Address: Kushol Center 9th floor, Plot 29, Sector 3, Uttara, Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 37.111.200.87",,Cash on Delivery (COD),"",0.00,Veloura,1525.00,,,,7373975290152,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801755552127,,,,,#GN4280.1,,,#GN4280.1
+#GN4281,,pending,,fulfilled,2026-03-31 11:34:57 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 10:39:13 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Akter Hossain,Urmee guest house,Urmee guest house,,,Coxs Bazar,-,,BD,+8801817273499,Akter Hossain,Urmee guest house,Urmee guest house,,,Coxs Bazar,-,,BD,+8801817273499,,"First name: Akter Hossain
+Phone number: 1817273499
+Address: Urmee guest house
+City: Coxs Bazar
+Subscribe to stay updated with new products and offers!: on
+IP address: 101.2.161.170",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374026047784,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801817273499,,,,,#GN4281.1,,,#GN4281.1
+#GN4282,,pending,,fulfilled,2026-03-31 11:34:57 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 11:44:14 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Debashish -,Hatrampur bochagonj dinajpur,Hatrampur bochagonj dinajpur,,,Dinajpur,-,,BD,+88001761637304,Debashish -,Hatrampur bochagonj dinajpur,Hatrampur bochagonj dinajpur,,,Dinajpur,-,,BD,+88001761637304,,"First name: Debashish
+Phone number: 01761637304
+Address: Hatrampur bochagonj dinajpur
+City: Dinajpur
+Subscribe to stay updated with new products and offers!: on
+IP address: 37.111.230.123",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374077231400,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801761637304,,,,,#GN4282.1,,,#GN4282.1
+#GN4283,,voided,,unfulfilled,,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 11:47:37 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,pending,Miskat holding,House no-a6 road no-1 block-a chandga r/a chittagong miskat house.,House no-a6 road no-1 block-a chandga r/a chittagong miskat house.,,,Chittagong,-,,BD,+88001819371677,Miskat holding,House no-a6 road no-1 block-a chandga r/a chittagong miskat house.,House no-a6 road no-1 block-a chandga r/a chittagong miskat house.,,,Chittagong,-,,BD,+88001819371677,,"First name: Miskat holding
+Phone number: 01819371677
+Address: House no-a6 road no-1 block-a chandga r/a chittagong miskat house.
+City: Chittagong
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.133.203.243",2026-03-31 11:35:16 +0500,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374079918376,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801819371677,,,,,#GN4283.1,,,#GN4283.1 + #GN4283.2
+#GN4284,,pending,,fulfilled,2026-03-31 16:58:08 +0500,no,BDT,2200.00,0.00,0.00,2200.00,"",0.00,Free shipping,2026-03-30 12:10:28 +0500,1,Leak Repair Waterproof Spray - Buy 2  (10% OFF),2200.00,,LEAK2,true,true,fulfilled,Nayon -,Miskat house house no-A 6 road no-1 block no-A  chandgha r/a 6 to,Miskat house house no-A 6 road no-1 block no-A  chandgha r/a 6 to,,,ChittGong. B,-,,BD,+88001819371677,Nayon -,Miskat house house no-A 6 road no-1 block no-A  chandgha r/a 6 to,Miskat house house no-A 6 road no-1 block no-A  chandgha r/a 6 to,,,ChittGong. B,-,,BD,+88001819371677,,"First name: Nayon
+Phone number: 01819371677
+Address: Miskat house house no-A 6 road no-1 block no-A  chandgha r/a 6 to
+City: ChittGong. B
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.133.203.243",,Cash on Delivery (COD),"",0.00,Veloura,2200.00,,,,7374098301224,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801819371677,,,,,#GN4284.1,,,#GN4284.1
+#GN4285,,pending,,fulfilled,2026-03-31 16:58:09 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 13:00:28 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Akber Shahin,"House #3,Road#1,Bl#F,Banasree,Rampura,Dhaka.","House #3,Road#1,Bl#F,Banasree,Rampura,Dhaka.",,,Dhaka,-,,BD,+88001701789011,Akber Shahin,"House #3,Road#1,Bl#F,Banasree,Rampura,Dhaka.","House #3,Road#1,Bl#F,Banasree,Rampura,Dhaka.",,,Dhaka,-,,BD,+88001701789011,,"First name: Akber Shahin
+Phone number: 01701789011
+Address: House #3,Road#1,Bl#F,Banasree,Rampura,Dhaka.
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 114.130.156.239",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374139326760,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801701789011,,,,,#GN4285.1,,,#GN4285.1
+#GN4286,,pending,,fulfilled,2026-03-31 16:58:10 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 13:06:04 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Sanjib -,Barguna sador,Barguna sador,,,Barguna,-,,BD,+88001711351503,Sanjib -,Barguna sador,Barguna sador,,,Barguna,-,,BD,+88001711351503,,"First name: Sanjib
+Phone number: 01711351503
+Address: Barguna sador
+City: Barguna
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.197.249.142",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374146732328,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711351503,,,,,#GN4286.1,,,#GN4286.1
+#GN4287,,pending,,fulfilled,2026-03-31 16:58:10 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 13:08:26 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Md.Manjur -,"Faridgonj, Sekdi,tapader bari","Faridgonj, Sekdi,tapader bari",,,Chandpur,-,,BD,+88001303670609,Md.Manjur -,"Faridgonj, Sekdi,tapader bari","Faridgonj, Sekdi,tapader bari",,,Chandpur,-,,BD,+88001303670609,,"First name: Md.Manjur
+Phone number: 01303670609
+Address: Faridgonj, Sekdi,tapader bari
+City: Chandpur
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.109.57.106",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374148698408,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801303670609,,,,,#GN4287.1,,,#GN4287.1
+#GN4288,,pending,,fulfilled,2026-03-31 16:58:11 +0500,yes,BDT,2940.00,0.00,0.00,2940.00,"",0.00,Free shipping,2026-03-30 13:08:37 +0500,1,Leak Repair Waterproof Spray - Buy 3 (20% OFF),2940.00,,LEAK3,true,true,fulfilled,Babu -,"Zanzam, Foyslake","Zanzam, Foyslake",,,Chittagong,-,,BD,+88001787889236,Babu -,"Zanzam, Foyslake","Zanzam, Foyslake",,,Chittagong,-,,BD,+88001787889236,,"First name: Babu
+Phone number: 01787889236
+Address: Zanzam, Foyslake
+City: Chittagong
+Subscribe to stay updated with new products and offers!: on
+IP address: 114.130.168.7",,Cash on Delivery (COD),"",0.00,Veloura,2940.00,,,,7374148829480,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801787889236,,,,,#GN4288.1,,,#GN4288.1
+#GN4289,,pending,,fulfilled,2026-03-31 16:58:12 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 13:31:35 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Ms ROKON pharmacy,"Chowgacha, Jessore, Khulna","Chowgacha, Jessore, Khulna",,,Chowgacha,-,,BD,+88001716142378,Ms ROKON pharmacy,"Chowgacha, Jessore, Khulna","Chowgacha, Jessore, Khulna",,,Chowgacha,-,,BD,+88001716142378,,"First name: Ms ROKON pharmacy
+Phone number: 01716142378
+Address: Chowgacha, Jessore, Khulna
+City: Chowgacha
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.48.160.16",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374167081256,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801716142378,,,,,#GN4289.1,,,#GN4289.1
+#GN4290,,pending,,fulfilled,2026-03-31 16:58:12 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 13:50:34 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Golam Mortuza,"House #427, Block-C, Khilgaon","House #427, Block-C, Khilgaon",,,Dhaka,-,,BD,+88001711983863,Golam Mortuza,"House #427, Block-C, Khilgaon","House #427, Block-C, Khilgaon",,,Dhaka,-,,BD,+88001711983863,,"First name: Golam Mortuza
+Phone number: 01711983863
+Address: House #427, Block-C, Khilgaon
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+IP address: 37.111.194.123",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374182252840,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711983863,,,,,#GN4290.1,,,#GN4290.1
+#GN4291,,pending,,fulfilled,2026-03-31 16:58:13 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 14:01:20 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,রুবেল আহমেদ,মোকাম বাজার থানা রাজনগর,মোকাম বাজার থানা রাজনগর,,,সিলেট মৌলভী বাজার জেলা,-,,BD,+88001339900740,রুবেল আহমেদ,মোকাম বাজার থানা রাজনগর,মোকাম বাজার থানা রাজনগর,,,সিলেট মৌলভী বাজার জেলা,-,,BD,+88001339900740,,"First name: রুবেল আহমেদ
+Phone number: 01339900740
+Address: মোকাম বাজার থানা রাজনগর
+City: সিলেট মৌলভী বাজার জেলা
+Subscribe to stay updated with new products and offers!: on
+IP address: 37.111.218.227",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374190870824,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801339900740,,,,,#GN4291.1,,,#GN4291.1
+#GN4292,,pending,,fulfilled,2026-03-31 16:58:14 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 14:18:57 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Shekh -,"Sonali Bank,Saifur Rahman Road","Sonali Bank,Saifur Rahman Road",,,Moulvibazar,-,,BD,+88001766355710,Shekh -,"Sonali Bank,Saifur Rahman Road","Sonali Bank,Saifur Rahman Road",,,Moulvibazar,-,,BD,+88001766355710,,"First name: Shekh
+Phone number: 01766355710
+Address: Sonali Bank,Saifur Rahman Road
+City: Moulvibazar
+Subscribe to stay updated with new products and offers!: off
+IP address: 27.147.186.159",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374204731688,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801766355710,,,,,#GN4292.1,,,#GN4292.1
+#GN4293,,pending,,fulfilled,2026-03-31 16:58:14 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 15:11:04 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,IQBAL HOSSAIN,Bata Kandi bazaar,Bata Kandi bazaar,,,"PS,Titas,Di, Camilla",-,,BD,+88001738237057,IQBAL HOSSAIN,Bata Kandi bazaar,Bata Kandi bazaar,,,"PS,Titas,Di, Camilla",-,,BD,+88001738237057,,"First name: IQBAL HOSSAIN
+Phone number: 01738237057
+Address: Bata Kandi bazaar
+City: PS,Titas,Di, Camilla
+Subscribe to stay updated with new products and offers!: off
+IP address: 58.145.187.214",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374248149288,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801738237057,,,,,#GN4293.1,,,#GN4293.1
+#GN4294,,pending,,fulfilled,2026-03-31 16:58:15 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 15:55:35 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,আবদুল খালেক।,"Kala Toli, Coxs Bazar.","Kala Toli, Coxs Bazar.",,,Coxs Bazar.,-,,BD,+88001815359495,আবদুল খালেক।,"Kala Toli, Coxs Bazar.","Kala Toli, Coxs Bazar.",,,Coxs Bazar.,-,,BD,+88001815359495,,"First name: আবদুল খালেক।
+Phone number: 01815359495
+Address: Kala Toli, Coxs Bazar.
+City: Coxs Bazar.
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.111.225.203",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374284030248,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801815359495,,,,,#GN4294.1,,,#GN4294.1
+#GN4295,,pending,,fulfilled,2026-03-31 16:58:16 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 16:09:48 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Syed Jahangir Kabir,"Village: Panchuria,UZ: Lohagara, Narail","Village: Panchuria,UZ: Lohagara, Narail",,,Narail,-,,BD,+88001718891995,Syed Jahangir Kabir,"Village: Panchuria,UZ: Lohagara, Narail","Village: Panchuria,UZ: Lohagara, Narail",,,Narail,-,,BD,+88001718891995,,"First name: Syed Jahangir Kabir
+Phone number: 01718891995
+Address: Village: Panchuria,UZ: Lohagara, Narail
+City: Narail
+Subscribe to stay updated with new products and offers!: on
+IP address: 103.218.136.4",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374296777000,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801718891995,,,,,#GN4295.1,,,#GN4295.1
+#GN4296,,pending,,fulfilled,2026-03-31 16:58:16 +0500,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Free shipping,2026-03-30 16:14:15 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,true,fulfilled,Sandro Sarkar,"66/C, Aalok, Noakhali Goli, West Rajabazar, Indira Road, Dhaka","66/C, Aalok, Noakhali Goli, West Rajabazar, Indira Road, Dhaka",,,Dhaka,-,,BD,+88001787166544,Sandro Sarkar,"66/C, Aalok, Noakhali Goli, West Rajabazar, Indira Road, Dhaka","66/C, Aalok, Noakhali Goli, West Rajabazar, Indira Road, Dhaka",,,Dhaka,-,,BD,+88001787166544,,"First name: Sandro Sarkar
+Phone number: 01787166544
+Address: 66/C, Aalok, Noakhali Goli, West Rajabazar, Indira Road, Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 37.111.200.252",,Cash on Delivery (COD),"",0.00,Veloura,1525.00,,,,7374300152104,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801787166544,,,,,#GN4296.1,,,#GN4296.1
+#GN4297,,pending,,fulfilled,2026-03-31 16:58:17 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 17:11:10 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Rasel ahmad,Chilaura rosulpur.jogonnathpur.sunamgonj,Chilaura rosulpur.jogonnathpur.sunamgonj,,,Sylhet,-,,BD,+88001712701116,Rasel ahmad,Chilaura rosulpur.jogonnathpur.sunamgonj,Chilaura rosulpur.jogonnathpur.sunamgonj,,,Sylhet,-,,BD,+88001712701116,,"First name: Rasel ahmad
+Phone number: 01712701116
+Address: Chilaura rosulpur.jogonnathpur.sunamgonj
+City: Sylhet
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732310485
+UTM term: 120240223732490485
+IP address: 182.48.76.33",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374348976424,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801712701116,,,,,#GN4297.1,,,#GN4297.1
+#GN4298,,pending,,fulfilled,2026-03-31 16:58:18 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 17:42:16 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Shanto -,Chok bazar Dhaka,Chok bazar Dhaka,,,Dhaka,-,,BD,+88001816865676,Shanto -,Chok bazar Dhaka,Chok bazar Dhaka,,,Dhaka,-,,BD,+88001816865676,,"First name: Shanto
+Phone number: 01816865676
+Address: Chok bazar Dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732300485
+UTM term: 120240223732510485
+IP address: 144.79.210.246",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374376927528,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801816865676,,,,,#GN4298.1,,,#GN4298.1
+#GN4299,,pending,,fulfilled,2026-03-31 16:58:18 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 17:50:11 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,মোঃ জসিম মোড়ল,Naria Bazar Rd,Naria Bazar Rd,,,শরিয়তপুর,-,,BD,+88001718201333,মোঃ জসিম মোড়ল,Naria Bazar Rd,Naria Bazar Rd,,,শরিয়তপুর,-,,BD,+88001718201333,,"First name: মোঃ জসিম মোড়ল
+Phone number: 01718201333
+Address: Naria Bazar Rd
+City: শরিয়তপুর
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732290485
+UTM term: 120240223732480485
+IP address: 37.111.243.156",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374384693544,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801718201333,,,,,#GN4299.1,,,#GN4299.1
+#GN4300,,pending,,fulfilled,2026-03-31 16:58:19 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 18:56:09 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Monsur.alam. -,Chottoa.gram.bahadder.hat.bari.para.Chingong.,Chottoa.gram.bahadder.hat.bari.para.Chingong.,,,Chottoa.gram.,-,,BD,+88001714489601,Monsur.alam. -,Chottoa.gram.bahadder.hat.bari.para.Chingong.,Chottoa.gram.bahadder.hat.bari.para.Chingong.,,,Chottoa.gram.,-,,BD,+88001714489601,,"First name: Monsur.alam.
+Phone number: 01714489601
+Address: Chottoa.gram.bahadder.hat.bari.para.Chingong.
+City: Chottoa.gram.
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732280485
+UTM term: 120240223732470485
+IP address: 103.70.170.48",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374451999016,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801714489601,,,,,#GN4300.1,,,#GN4300.1
+#GN4301,,pending,,fulfilled,2026-03-31 16:58:20 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 19:28:39 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Habib -,"Vill.:- koa,( North side of Upazila nirbachon office), Upazila:- Kachua, Dist:- Chandpur.","Vill.:- koa,( North side of Upazila nirbachon office), Upazila:- Kachua, Dist:- Chandpur.",,,Kachua,-,,BD,+88001819166051,Habib -,"Vill.:- koa,( North side of Upazila nirbachon office), Upazila:- Kachua, Dist:- Chandpur.","Vill.:- koa,( North side of Upazila nirbachon office), Upazila:- Kachua, Dist:- Chandpur.",,,Kachua,-,,BD,+88001819166051,,"First name: Habib
+Phone number: 01819166051
+Address: Vill.:- koa,( North side of Upazila nirbachon office), Upazila:- Kachua, Dist:- Chandpur.
+City: Kachua
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732350485
+UTM term: 120240223732540485
+IP address: 43.246.202.14",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374492336424,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801819166051,,,,,#GN4301.1,,,#GN4301.1
+#GN4302,,pending,,fulfilled,2026-03-31 16:58:21 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 19:38:44 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Kefayet -,chandpur,chandpur,,,Chandpur,-,,BD,+88001815318054,Kefayet -,chandpur,chandpur,,,Chandpur,-,,BD,+88001815318054,,"First name: Kefayet
+Phone number: 01815318054
+Address: chandpur
+City: Chandpur
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732280485
+UTM term: 120240223732470485
+IP address: 43.246.202.157",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374505378088,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801815318054,,,,,#GN4302.1,,,#GN4302.1
+#GN4303,,pending,,fulfilled,2026-03-31 16:58:21 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 20:00:32 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Md Alinur,সুনামগঞ্জ মল্লিকপুর,সুনামগঞ্জ মল্লিকপুর,,,সিলেট,-,,BD,+88001762196294,Md Alinur,সুনামগঞ্জ মল্লিকপুর,সুনামগঞ্জ মল্লিকপুর,,,সিলেট,-,,BD,+88001762196294,,"First name: Md Alinur
+Phone number: 01762196294
+Address: সুনামগঞ্জ মল্লিকপুর
+City: সিলেট
+Subscribe to stay updated with new products and offers!: on
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732310485
+UTM term: 120240223732490485
+IP address: 37.111.218.3",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374531854632,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801762196294,,,,,#GN4303.1,,,#GN4303.1
+#GN4304,,pending,,fulfilled,2026-03-31 16:58:22 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 20:38:38 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,আলমগীর হোসেন,House 21 Road 21 Block K,House 21 Road 21 Block K,,,ঢাকা বনানী,-,,BD,+8801680754560,আলমগীর হোসেন,House 21 Road 21 Block K,House 21 Road 21 Block K,,,ঢাকা বনানী,-,,BD,+8801680754560,,"First name: আলমগীর হোসেন
+Phone number: 1680754560
+Address: House 21 Road 21 Block K
+City: ঢাকা বনানী
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732430485
+UTM term: 120240223732550485
+IP address: 202.134.11.246",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374586380584,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801680754560,,,,,#GN4304.1,,,#GN4304.1
+#GN4305,,pending,,fulfilled,2026-03-31 16:58:22 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 20:44:48 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Rahat -,"uttar mirerchor ,biswanath sylhet","uttar mirerchor ,biswanath sylhet",,,Sylhet,-,,BD,+88001306877229,Rahat -,"uttar mirerchor ,biswanath sylhet","uttar mirerchor ,biswanath sylhet",,,Sylhet,-,,BD,+88001306877229,,"First name: Rahat
+Phone number: 01306877229
+Address: uttar mirerchor ,biswanath sylhet
+City: Sylhet
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732390485
+UTM term: 120240223732560485
+IP address: 182.48.71.43",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374594310440,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801306877229,,,,,#GN4305.1,,,#GN4305.1
+#GN4306,,voided,,unfulfilled,,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 21:05:52 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,pending,Md mozammel hoque,Miskat house plot a6 road no-1 block-a chandgaon R/Achittagong,Miskat house plot a6 road no-1 block-a chandgaon R/Achittagong,,,Chittagong,-,,BD,+88001819371677,Md mozammel hoque,Miskat house plot a6 road no-1 block-a chandgaon R/Achittagong,Miskat house plot a6 road no-1 block-a chandgaon R/Achittagong,,,Chittagong,-,,BD,+88001819371677,,"First name: Md mozammel hoque
+Phone number: 01819371677
+Address: Miskat house plot a6 road no-1 block-a chandgaon R/Achittagong
+City: Chittagong
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732350485
+UTM term: 120240223732540485
+IP address: 103.133.203.251",2026-03-31 11:35:17 +0500,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374625341736,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801819371677,,,,,#GN4306.1,,,#GN4306.1 + #GN4306.2
+#GN4307,,pending,,fulfilled,2026-03-31 16:58:23 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 21:57:34 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,মোঃ শাওন মাহমুদ,"মুনসিদপুর, দাশুড়িয়া, ঈশ্বরদী, পাবনা।","মুনসিদপুর, দাশুড়িয়া, ঈশ্বরদী, পাবনা।",,,"পাবনা, ঈশ্বরদী",-,,BD,+88001704828823,মোঃ শাওন মাহমুদ,"মুনসিদপুর, দাশুড়িয়া, ঈশ্বরদী, পাবনা।","মুনসিদপুর, দাশুড়িয়া, ঈশ্বরদী, পাবনা।",,,"পাবনা, ঈশ্বরদী",-,,BD,+88001704828823,,"First name: মোঃ শাওন মাহমুদ
+Phone number: 01704828823
+Address: মুনসিদপুর, দাশুড়িয়া, ঈশ্বরদী, পাবনা।
+City: পাবনা, ঈশ্বরদী
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732370485
+UTM term: 120240223732590485
+IP address: 103.118.77.154",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374693728552,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801704828823,,,,,#GN4307.1,,,#GN4307.1
+#GN4308,,pending,,fulfilled,2026-03-31 16:58:24 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 21:59:48 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Nayem -,"বাজনাব, শিবপুর, নরসিংদী","বাজনাব, শিবপুর, নরসিংদী",,,নরসিংদী,-,,BD,+88001728958885,Nayem -,"বাজনাব, শিবপুর, নরসিংদী","বাজনাব, শিবপুর, নরসিংদী",,,নরসিংদী,-,,BD,+88001728958885,,"First name: Nayem
+Phone number: 01728958885
+Address: বাজনাব, শিবপুর, নরসিংদী
+City: নরসিংদী
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732420485
+UTM term: 120240223732580485
+IP address: 42.0.6.147",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374697365800,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801728958885,,,,,#GN4308.1,,,#GN4308.1
+#GN4309,,pending,,fulfilled,2026-03-31 16:58:24 +0500,yes,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-30 22:01:22 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,রাহুল দাশ,"সাতক্ষীরা, তালা,  খেশরা,","সাতক্ষীরা, তালা,  খেশরা,",,,সাতক্ষীরা,-,,BD,+88001319660951,রাহুল দাশ,"সাতক্ষীরা, তালা,  খেশরা,","সাতক্ষীরা, তালা,  খেশরা,",,,সাতক্ষীরা,-,,BD,+88001319660951,,"First name: রাহুল দাশ
+Phone number: 01319660951
+Address: সাতক্ষীরা, তালা,  খেশরা,
+City: সাতক্ষীরা
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732300485
+UTM term: 120240223732510485
+IP address: 37.111.245.81",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374700183848,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801319660951,,,,,#GN4309.1,,,#GN4309.1
+#GN4310,,pending,,fulfilled,2026-03-31 16:58:25 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-31 00:00:51 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Saidur -,পাকুন্ডা সোনারগাঁও নারায়ণগঞ্জ,পাকুন্ডা সোনারগাঁও নারায়ণগঞ্জ,,,Narayanganj,-,,BD,+88001823182162,Saidur -,পাকুন্ডা সোনারগাঁও নারায়ণগঞ্জ,পাকুন্ডা সোনারগাঁও নারায়ণগঞ্জ,,,Narayanganj,-,,BD,+88001823182162,,"First name: Saidur
+Phone number: 01823182162
+Address: পাকুন্ডা সোনারগাঁও নারায়ণগঞ্জ
+City: Narayanganj
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732310485
+UTM term: 120240223732490485
+IP address: 103.179.154.96",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374859764008,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801823182162,,,,,#GN4310.1,,,#GN4310.1
+#GN4311,,pending,,fulfilled,2026-03-31 16:58:26 +0500,no,BDT,1225.00,0.00,0.00,1225.00,"",0.00,Free shipping,2026-03-31 01:24:14 +0500,1,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,শফিক -,Shop no #288 kaptan bazar complex 1st floor,Shop no #288 kaptan bazar complex 1st floor,,,In Dhaka City,-,,BD,+88001924099109,শফিক -,Shop no #288 kaptan bazar complex 1st floor,Shop no #288 kaptan bazar complex 1st floor,,,In Dhaka City,-,,BD,+88001924099109,,"First name: শফিক
+Phone number: 01924099109
+Address: Shop no #288 kaptan bazar complex 1st floor
+City: In Dhaka City
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732290485
+UTM term: 120240223732480485
+IP address: 59.152.2.157",,Cash on Delivery (COD),"",0.00,Veloura,1225.00,,,,7374955479336,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801924099109,,,,,#GN4311.1,,,#GN4311.1
+#GN4312,,pending,,fulfilled,2026-03-31 16:58:26 +0500,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Free shipping,2026-03-31 10:59:26 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,true,fulfilled,S J Soheli,"House: 41, road 9, block M, banasree,  dhaka","House: 41, road 9, block M, banasree,  dhaka",,,Dhaka,-,,BD,+8801754429533,S J Soheli,"House: 41, road 9, block M, banasree,  dhaka","House: 41, road 9, block M, banasree,  dhaka",,,Dhaka,-,,BD,+8801754429533,,"First name: S J Soheli
+Phone number: 1754429533
+Address: House: 41, road 9, block M, banasree,  dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.89.241.14",,Cash on Delivery (COD),"",0.00,Veloura,1525.00,,,,7375502016808,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801754429533,,,,,#GN4312.1,,,#GN4312.1
+#GN4313,,pending,,fulfilled,2026-04-01 18:44:21 +0500,yes,BDT,2450.00,0.00,0.00,2450.00,"",0.00,Free shipping,2026-03-31 12:14:13 +0500,2,Leak Repair Waterproof Spray - Buy 1,1225.00,,LEAK1,true,true,fulfilled,Rakib -,সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ,সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ,,,সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ,-,,BD,+8801763727171,Rakib -,সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ,সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ,,,সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ,-,,BD,+8801763727171,,"First name: Rakib
+Phone number: 1763727171
+Address: সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ
+City: সাইনবোর্ড বাস স্ট্যান্ড ত্রিশাল ময়মনসিংহ
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240223732090485
+UTM content: 120240223732310485
+UTM term: 120240223732490485
+IP address: 37.111.212.194",,Cash on Delivery (COD),"",0.00,Veloura,2450.00,,,,7375563555112,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801763727171,,,,,#GN4313.1,,,#GN4313.1
+#GN4314,,pending,,fulfilled,2026-04-01 18:44:22 +0500,no,BDT,1350.00,0.00,0.00,1350.00,"",0.00,Free shipping,2026-03-31 12:25:58 +0500,1,"Toplux Moringa Capsules 1200mg - Pure Moringa Powder for Immune, Gut health 90 Capsules",1350.00,,,true,true,fulfilled,Shaheena -,House no 8a road no 28dhanmondi ph,House no 8a road no 28dhanmondi ph,,,Dhaka,-,,BD,+88001711864400,Shaheena -,House no 8a road no 28dhanmondi ph,House no 8a road no 28dhanmondi ph,,,Dhaka,-,,BD,+88001711864400,,"First name: Shaheena
+Phone number: 01711864400
+Address: House no 8a road no 28dhanmondi ph
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240260115540485
+UTM content: 120240260251540485
+UTM term: 120240260251550485
+IP address: 103.72.212.212",,Cash on Delivery (COD),"",0.00,gravien,1350.00,,,,7375572861224,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801711864400,,,,,#GN4314.1,,,#GN4314.1
+#GN4315,,pending,,fulfilled,2026-04-02 16:44:43 +0500,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Standard,2026-04-01 13:35:24 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,false,fulfilled,meem,"CDA-29,Bepari para Bangladesh Bank  Colony, Orange gate opposite,Thana : Double Mooring,Chittagong.","CDA-29,Bepari para Bangladesh Bank  Colony, Orange gate opposite,Thana : Double Mooring,Chittagong.",,,"",,,BD,+8801326757882,meem,"CDA-29,Bepari para Bangladesh Bank  Colony, Orange gate opposite,Thana : Double Mooring,Chittagong.","CDA-29,Bepari para Bangladesh Bank  Colony, Orange gate opposite,Thana : Double Mooring,Chittagong.",,,"",,,BD,+8801326757882,,"",,"","",0.00,Veloura,1525.00,online staff,,,7377310482728,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,,Due on receipt,,
+#GN4316,,pending,,fulfilled,2026-04-02 16:44:44 +0500,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Standard,2026-04-01 13:41:42 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,false,fulfilled,Sharmily,"Flat A5, House No. 38, Road No 3, Dhanmondi, Dhaka. Sharaqa Fifa","Flat A5, House No. 38, Road No 3, Dhanmondi, Dhaka. Sharaqa Fifa",,,"",,,BD,+8801739045699,Sharmily,"Flat A5, House No. 38, Road No 3, Dhanmondi, Dhaka. Sharaqa Fifa","Flat A5, House No. 38, Road No 3, Dhanmondi, Dhaka. Sharaqa Fifa",,,"",,,BD,+8801739045699,,"",,"","",0.00,Veloura,1525.00,online staff,,,7377315922216,Confirmed,Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,,Due on receipt,,
+#GN4317,,pending,,fulfilled,2026-04-02 16:44:45 +0500,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Free shipping,2026-04-02 03:07:19 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,true,fulfilled,Tania -,"Chowdhury Bari,  Dhamsur,  Bhaluka upazila,   Mymensingh, Bangladesh.","Chowdhury Bari,  Dhamsur,  Bhaluka upazila,   Mymensingh, Bangladesh.",,,"Bhaluka, Mymensingh.",-,,BD,+88001852503687,Tania -,"Chowdhury Bari,  Dhamsur,  Bhaluka upazila,   Mymensingh, Bangladesh.","Chowdhury Bari,  Dhamsur,  Bhaluka upazila,   Mymensingh, Bangladesh.",,,"Bhaluka, Mymensingh.",-,,BD,+88001852503687,,"First name: Tania
+Phone number: 01852503687
+Address: Chowdhury Bari,  Dhamsur,  Bhaluka upazila,   Mymensingh, Bangladesh.
+City: Bhaluka, Mymensingh.
+Subscribe to stay updated with new products and offers!: off
+IP address: 103.173.173.9",,Cash on Delivery (COD),"",0.00,Veloura,1525.00,,,,7378357682472,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801852503687,,,,,#GN4317.1,,,#GN4317.1
+#GN4318,,pending,,fulfilled,2026-04-04 20:42:01 +0500,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Free shipping,2026-04-03 15:02:36 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,true,fulfilled,Dr Rehnuma Seheli,"House no 153..flat no B1,  next to baitus sakina jame mosjid,  west rajabazar,  dhaka","House no 153..flat no B1,  next to baitus sakina jame mosjid,  west rajabazar,  dhaka",,,Dhaka,-,,BD,+88001775855330,Dr Rehnuma Seheli,"House no 153..flat no B1,  next to baitus sakina jame mosjid,  west rajabazar,  dhaka","House no 153..flat no B1,  next to baitus sakina jame mosjid,  west rajabazar,  dhaka",,,Dhaka,-,,BD,+88001775855330,,"First name: Dr Rehnuma Seheli
+Phone number: 01775855330
+Address: House no 153..flat no B1,  next to baitus sakina jame mosjid,  west rajabazar,  dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 37.111.207.26",,Cash on Delivery (COD),"",0.00,Veloura,1525.00,,,,7380735000872,"Confirmed, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801775855330,,,,,#GN4318.1,,,#GN4318.1
+#GN4319,,pending,,unfulfilled,,yes,BDT,1325.00,0.00,0.00,1325.00,"",0.00,Free shipping,2026-04-04 03:09:19 +0500,1,Biotin Hair Gummies,1325.00,,,true,true,pending,Zahra Jamil,House 4. Gulshan. Apt: C-1. Road 104. Dhaka 1212.,House 4. Gulshan. Apt: C-1. Road 104. Dhaka 1212.,,,Dhaka,-,,BD,+8801726094658,Zahra Jamil,House 4. Gulshan. Apt: C-1. Road 104. Dhaka 1212.,House 4. Gulshan. Apt: C-1. Road 104. Dhaka 1212.,,,Dhaka,-,,BD,+8801726094658,,"First name: Zahra Jamil
+Phone number: 1726094658
+Address: House 4. Gulshan. Apt: C-1. Road 104. Dhaka 1212.
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240463977620485
+UTM content: 120240463977610485
+UTM term: 120240463977600485
+IP address: 103.116.164.228",,Cash on Delivery (COD),"",0.00,gravien,1325.00,,,,7381736489256,"New product, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801726094658,,,,,#GN4319.1,,,#GN4319.1
+#GN4320,,pending,,unfulfilled,,no,BDT,2650.00,0.00,0.00,2650.00,"",0.00,Free shipping,2026-04-04 14:37:29 +0500,2,Biotin Hair Gummies,1325.00,,,true,true,pending,Tanjila -,"house-186, road-10, block-B, pallabi, mirpur-12, dhaka","house-186, road-10, block-B, pallabi, mirpur-12, dhaka",,,Dhaka,-,,BD,+88001781866974,Tanjila -,"house-186, road-10, block-B, pallabi, mirpur-12, dhaka","house-186, road-10, block-B, pallabi, mirpur-12, dhaka",,,Dhaka,-,,BD,+88001781866974,,"First name: Tanjila
+Phone number: 01781866974
+Address: house-186, road-10, block-B, pallabi, mirpur-12, dhaka
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240463977620485
+UTM content: 120240464030340485
+UTM term: 120240464030320485
+IP address: 37.111.194.154",,Cash on Delivery (COD),"",0.00,gravien,2650.00,,,,7382522560808,"New product, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801781866974,,,,,#GN4320.1,,,#GN4320.1
+#GN4321,,pending,,unfulfilled,,yes,BDT,1325.00,0.00,0.00,1325.00,"",0.00,Free shipping,2026-04-05 14:10:29 +0500,1,Biotin Hair Gummies,1325.00,,,true,true,pending,Jannatul Misty,"Nur Masjid Road, Gobindapur, House 62. Near panir pump. Jatrabari","Nur Masjid Road, Gobindapur, House 62. Near panir pump. Jatrabari",,,Dhaka,-,,BD,+88001872680307,Jannatul Misty,"Nur Masjid Road, Gobindapur, House 62. Near panir pump. Jatrabari","Nur Masjid Road, Gobindapur, House 62. Near panir pump. Jatrabari",,,Dhaka,-,,BD,+88001872680307,,"First name: Jannatul Misty
+Phone number: 01872680307
+Address: Nur Masjid Road, Gobindapur, House 62. Near panir pump. Jatrabari
+City: Dhaka
+Subscribe to stay updated with new products and offers!: on
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240463977620485
+UTM content: 120240464030270485
+UTM term: 120240464030310485
+IP address: 103.138.191.44",,Cash on Delivery (COD),"",0.00,gravien,1325.00,,,,7384132649256,"New product, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801872680307,,,,,#GN4321.1,,,#GN4321.1
+#GN4322,,pending,,unfulfilled,,no,BDT,1325.00,0.00,0.00,1325.00,"",0.00,Free shipping,2026-04-06 10:17:13 +0500,1,Biotin Hair Gummies,1325.00,,,true,true,pending,লোকমান -,ঢাকা ক্যান্টনমেন্ট বালুঘাট বাজার,ঢাকা ক্যান্টনমেন্ট বালুঘাট বাজার,,,Https://www.facebook.com/share/r/1hgsuu6xr1/,-,,BD,+88001600937153,লোকমান -,ঢাকা ক্যান্টনমেন্ট বালুঘাট বাজার,ঢাকা ক্যান্টনমেন্ট বালুঘাট বাজার,,,Https://www.facebook.com/share/r/1hgsuu6xr1/,-,,BD,+88001600937153,,"First name: লোকমান
+Phone number: 01600937153
+Address: ঢাকা ক্যান্টনমেন্ট বালুঘাট বাজার
+City: Https://www.facebook.com/share/r/1hgsuu6xr1/
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240463977620485
+UTM content: 120240464030330485
+UTM term: 120240464030280485
+IP address: 103.127.5.144",,Cash on Delivery (COD),"",0.00,gravien,1325.00,,,,7385414598952,"New product, releasit_cod_form",Low,5690175,0.00,,,,,,,,,,,+8801600937153,,,,,#GN4322.1,,,#GN4322.1
+#GN4323,,pending,,unfulfilled,,no,BDT,1275.00,0.00,0.00,1275.00,"",0.00,Free shipping,2026-04-07 14:43:06 +0500,1,Dr. Melaxin Peel Shot Exfoliating Black Rice Ampoule,1275.00,,,true,true,pending,Irin -,"House 86,flat-3a,central road, (lift r 3 )","House 86,flat-3a,central road, (lift r 3 )",,,Dhaka,-,,BD,+88001725325541,Irin -,"House 86,flat-3a,central road, (lift r 3 )","House 86,flat-3a,central road, (lift r 3 )",,,Dhaka,-,,BD,+88001725325541,,"First name: Irin
+Phone number: 01725325541
+Address: House 86,flat-3a,central road, (lift r 3 )
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+UTM source: facebook
+UTM medium: paid
+UTM campaign: 120240564783270485
+UTM content: 120240564850660485
+UTM term: 120240564850640485
+IP address: 116.204.151.84",,Cash on Delivery (COD),"",0.00,gravien,1275.00,,,,7387355218216,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801725325541,,,,,#GN4323.1,,,#GN4323.1
+#GN4324,,pending,,unfulfilled,,no,BDT,1525.00,0.00,0.00,1525.00,"",0.00,Free shipping,2026-04-07 15:42:46 +0500,1,"Magnesium Complex Supplement 8 Elemental 1000mg - Magnesium Glycinate, Citrate, Malate, Taurate, Chelated for Easy Absorption for Bones, Muscle, Recovery, Energy, Vegan Non-GMO - 1 Month Supply - 1 Bottle",1525.00,,12MAG1MON,true,true,pending,rezwana -,Elephant road,Elephant road,,,Dhaka,-,,BD,+8801819455775,rezwana -,Elephant road,Elephant road,,,Dhaka,-,,BD,+8801819455775,,"First name: rezwana
+Phone number: 1819455775
+Address: Elephant road
+City: Dhaka
+Subscribe to stay updated with new products and offers!: off
+IP address: 182.163.107.41",,Cash on Delivery (COD),"",0.00,Veloura,1525.00,,,,7387408761128,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+8801819455775,,,,,#GN4324.1,,,#GN4324.1
