@@ -12,7 +12,7 @@ class ShopifyParser:
         self.credentials = "credentials.json"
 
         self.gc_sheet = "1F9JwYgSKO0wY9qPPMuJNsiX2eCz4inUIljOKK45I0A8"
-        self.gc_input = "orders_export (9).csv"
+        self.gc_input = "gc.csv"
         self.run_gc = True
 
         self.fleximart_sheet = "1XuLCEPS3F7fiz3UtDWgUF6pUOq4BmNFrUhdMXHNu_Uw"
@@ -278,7 +278,7 @@ class ShopifyParser:
                     continue
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
-                    self.output_data[product_name][i] = "{:.0f}".format(total)
+                    self.output_data[product_name][marker] = "{:.0f}".format(total)
             else:
 
                 # extract data from masterfile
@@ -357,9 +357,9 @@ class ShopifyParser:
             
             # handle checkboxes separately
             if(self.output_data["Hair Revival Duo"][i] == "1"):
-                sheet.update_acell("P/L!AA{}".format(start_row + i), True)
+                sheet.update_acell("AA{}".format(start_row + i), True)
             if(self.output_data["Hair Volume Duo"][i] == "1"):
-                sheet.update_acell("P/L!AB{}".format(start_row + i), True)
+                sheet.update_acell("AB{}".format(start_row + i), True)
 
         # paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!B{}:E".format(start_row), 
@@ -2454,7 +2454,8 @@ def main(argv=None):
         argv = sys.argv
     
     sp = ShopifyParser()
-    sp.parse_all_stores()
+    sp.csv_parser(sp.gc_input)
+    sp.parse_GC()
 
 if __name__ == "__main__":
     sys.exit(main())
