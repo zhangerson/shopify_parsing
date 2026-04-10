@@ -114,7 +114,7 @@ class ShopifyParser:
                 self.output_data["Order Number"].append("{:.0f}".format(self.input_data["Name"][i]))
 
             # parse phone number
-            if(not str(self.input_data["Shipping Phone"][i]).isnumeric()):
+            if(isinstance(self.input_data["Shipping Phone"][i], str)):
                 phone_str = ''.join(filter(str.isdigit, self.input_data["Shipping Phone"][i]))
             else:
                 phone_str = "{:.0f}".format(self.input_data["Shipping Phone"][i])
