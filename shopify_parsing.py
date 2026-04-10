@@ -80,16 +80,17 @@ class ShopifyParser:
         # read in csv file and extract relevant columns
         df = pd.read_csv(csv_file)
         if(alt):
-            self.input_data = df[["Name", "Created at", "Shipping Name", "Shipping Phone", "Total", "Lineitem name", "Lineitem quantity"]]
+            self.input_data = df[["Name", "Created at", "Shipping Name", "Shipping Phone", "Total", "Lineitem name", "Lineitem quantity", "Financial Status"]]
         else:
-            self.input_data = df[["Name", "Created at", "Shipping Phone", "Total", "Lineitem name", "Lineitem quantity"]]
+            self.input_data = df[["Name", "Created at", "Shipping Phone", "Total", "Lineitem name", "Lineitem quantity", "Financial Status"]]
         self.data_length = len(self.input_data["Name"])
 
         # initialize output dataframe
         self.output_data = {"Date": [], 
                        "Order Number": [], 
                        "Phone Number": [], 
-                       "Revenue": []
+                       "Revenue": [], 
+                       "Status": []
                        }
         if(alt):
             self.output_data["Customer"] = []
@@ -129,6 +130,12 @@ class ShopifyParser:
 
             # parse revenue
             self.output_data["Revenue"].append("{:.2f}".format(self.input_data["Total"][i]))
+
+            #parse status
+            if(self.input_data["Financial Status"][i] == "voided"):
+                self.output_data["Status"].append("Cancelled")
+            else:
+                self.output_data["Status"].append("Processing")
 
             # parse customer name if needed
             if(alt):
@@ -337,7 +344,8 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
             
             item_array.append([self.output_data["Undereye serum PCS"][i], 
                                 self.output_data["Hairline powder"][i], 
@@ -365,7 +373,7 @@ class ShopifyParser:
                 sheet.update_acell("AB{}".format(start_row + i), True)
 
         # paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!B{}:E".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!B{}:F".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!I{}:Z".format(start_row), 
@@ -524,7 +532,8 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
             
             item_array.append([self.output_data["SFD"][i], 
                                 self.output_data["TKAP"][i], 
@@ -540,7 +549,7 @@ class ShopifyParser:
                                 self.output_data["WAX"][i]])
 
         # paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:S".format(start_row), 
@@ -691,7 +700,8 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["E&F MINTS"][i], 
                                 self.output_data["Metadetox"][i], 
@@ -705,7 +715,7 @@ class ShopifyParser:
                                 self.output_data["ACVE"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!I{}:R".format(start_row), 
@@ -825,13 +835,14 @@ class ShopifyParser:
                                 self.output_data["Date"][i], 
                                 self.output_data["Customer"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["Ark Drops"][i], 
                                 self.output_data["ACVE"][i]])
         
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:F".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!J{}:K".format(start_row), 
@@ -955,14 +966,15 @@ class ShopifyParser:
                                 self.output_data["Date"][i], 
                                 self.output_data["Customer"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
             
             item_array.append([self.output_data["Shilajit-30"][i], 
                                 self.output_data["Shilajit-120"][i], 
                                 self.output_data["Glutathione"][i]])
         
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:F".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!J{}:L".format(start_row), 
@@ -1109,7 +1121,8 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["MLE"][i], 
                                 self.output_data["BT"][i], 
@@ -1122,7 +1135,7 @@ class ShopifyParser:
                                 self.output_data["DIFFUSER"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:P".format(start_row), 
@@ -1237,12 +1250,13 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["BED PAD"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
@@ -1377,7 +1391,8 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["PATCHES"][i], 
                                 self.output_data["PLUMPER"][i], 
@@ -1387,7 +1402,7 @@ class ShopifyParser:
                                 self.output_data["EYE CREAM"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:M".format(start_row), 
@@ -1502,12 +1517,13 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["RUST CONVERTER"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
@@ -1622,12 +1638,13 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["SPINNER"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
@@ -1743,12 +1760,13 @@ class ShopifyParser:
                                 self.output_data["Date"][i], 
                                 self.output_data["Customer"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["Serum"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:F".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!J{}:J".format(start_row), 
@@ -1867,13 +1885,14 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["GEL"][i], 
                                 self.output_data["DERMA"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:I".format(start_row), 
@@ -1996,14 +2015,15 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["LEAKSHIELD"][i], 
                                 self.output_data["12-in-1 Mg"][i], 
                                 self.output_data["Mg Complex"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!I{}:K".format(start_row), 
@@ -2118,12 +2138,13 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["MISWAK"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
@@ -2246,14 +2267,15 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["CAR WASH"][i], 
                                 self.output_data["IC TRAY"][i], 
                                 self.output_data["FLOSSER"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:J".format(start_row), 
@@ -2368,12 +2390,13 @@ class ShopifyParser:
             info_array.append([self.output_data["Date"][i], 
                                 self.output_data["Order Number"][i], 
                                 self.output_data["Phone Number"][i], 
-                                self.output_data["Revenue"][i]])
+                                self.output_data["Revenue"][i], 
+                                self.output_data["Status"][i]])
 
             item_array.append([self.output_data["TOWEL"][i]])
             
         #paste arrays into spreadsheet
-        sheet.spreadsheet.values_update("P/L!A{}:D".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
