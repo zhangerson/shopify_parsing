@@ -9,71 +9,71 @@ class ShopifyParser:
 
     def __init__(self):
         self.masterfile = pd.read_csv("product_masterfile.csv")
-        self.credentials = "credentials.json"
+        self.credentials = "hopeful-disk-462006-f0-31fae0b7c9f8.json"
 
-        self.gc_sheet = "1F9JwYgSKO0wY9qPPMuJNsiX2eCz4inUIljOKK45I0A8"
+        self.gc_sheet = "1QtKGxkzUgmHYL2okYjZq3mebs7tdh-RT2JWnx9G7wMc"
         self.gc_input = "gc.csv"
-        self.run_gc = True
+        self.run_gc = False
 
-        self.fleximart_sheet = "1XuLCEPS3F7fiz3UtDWgUF6pUOq4BmNFrUhdMXHNu_Uw"
-        self.fleximart_input = "orders_export (15).csv"
-        self.run_fleximart = True
+        self.fleximart_sheet = "1YFa128DLmNNArzqcdwIS2xplJaE9fF714R7gm11wAuw"
+        self.fleximart_input = "fm.csv"
+        self.run_fleximart = False
 
-        self.glownest_sheet = "1K2tvS41V16-GShLlWxeRUE5L61llkVEp2GnGgLuwSYE"
-        self.glownest_input = "orders_export (2).csv"
+        self.glownest_sheet = "1gCpObAVVLf5Rowmld77IiSfp2S6Jva0NiPzIiosf18I"
+        self.glownest_input = "gn.csv"
         self.run_glownest = True
 
-        self.herbiotics_sheet = "1_AoyPt2tqMZxYRc8YMLP58TglnQl7wgrOemAOHtTHZ0"
-        self.herbiotics_input = "orders_export (3).csv"
+        self.herbiotics_sheet = "1Oiy9Z_OnVUNqVAt6ECfbaX75jRdCcX7CfdY14B5BKLc"
+        self.herbiotics_input = "herbiotics.csv"
         self.run_herbiotics = True
 
-        self.Bw_sheet = "1qSc4rJpFiu6QQagHU9ZlxFQ_jcciz-xDveDyX8Sndf4"
-        self.Bw_input = "orders_export (10).csv"
-        self.run_Bw = True
+        self.Bw_sheet = "1puvC6_cOqTngXIbCZfdULJFY7_0Gc0K7UNmyYFIKF08"
+        self.Bw_input = "bw.csv"
+        self.run_Bw = False
 
-        self.stacks_sheet = "1yxO303uIsU6GMcwXbLB0FihYvSfYuBWETAMNlTR07nw"
-        self.stacks_input = "orders_export.csv"
+        self.stacks_sheet = "1qvY7z7x0mOznm6e2mhNpoJAYkRZO2vPE1uvH0pBknHo"
+        self.stacks_input = "stacks.csv"
         self.run_stacks = True
 
-        self.nutria_sheet = "1uQJwL4GbNv-hqf_6r1iDU9CwhMLRXG1V-u4Y24ss1qk"
-        self.nutria_input = "orders_export (1).csv"
-        self.run_nutria = True
+        self.nutria_sheet = "1VAfqmOGKWHagftlY5tA3-vchRykGpcLd8pgjJThGcJo"
+        self.nutria_input = "nutria.csv"
+        self.run_nutria = False
 
-        self.gravien_sheet = "1Abs6tPDIXDtFQWVYzA6_jdCMGOX2N8200dc6DfS_rc4"
-        self.gravien_input = "orders_export (11).csv"
-        self.run_gravien = True
+        self.gravien_sheet = "1TTDuLLkYb0j26dh6o_vnrxrhHfyIXFWxqNXaD9oo8wU"
+        self.gravien_input = "gravien.csv"
+        self.run_gravien = False
 
-        self.primep_sheet = "1qxfb15xDWcWy5VouaPHwVirp2JP4YhJv5wZOZg1kWZc"
-        self.primep_input = "orders_export (12).csv"
+        self.primep_sheet = "1Ds_D4wfaCSBQiEc_u7WlQmsw8MDGbrcgcY-pHiCYYFM"
+        self.primep_input = "pp.csv"
         self.run_primep = True
 
-        self.glamore_sheet = "1l_VC0XsnUupaVdqDal2-IUuopFw4nRZav8TkWG8zDzc"
-        self.glamore_input = "orders_export (5).csv"
+        self.glamore_sheet = "1Y33DYlR231dVkHyG5qKVS4ih_lM7p95BQPYEVidtI_4"
+        self.glamore_input = "glamore.csv"
         self.run_glamore = True
 
-        self.wandw_sheet = "1vlO_iB61qeCVukmP7Stso3_dfps3Z_nAQ5m3xgKN1_8"
-        self.wandw_input = "orders_export (13).csv"
+        self.wandw_sheet = "19UtFDKqlNydKhTGHWsgrkxWX0qMZzZ1iko4nClEKPx8"
+        self.wandw_input = "ww.csv"
         self.run_wandw = True
 
-        self.flash_sheet = "1OQnhFekWrCeEILvn7Z3ZsX40UoYnWDKOiIJuO3D70GA"
-        self.flash_input = "orders_export (14).csv"
-        self.run_flash = True
+        self.flash_sheet = "1k7wFAGYutzsuBOxVw8qOMgJJd8VXehSxJgjHf6VXICY"
+        self.flash_input = "flash.csv"
+        self.run_flash = False
 
-        self.ML_sheet = "1jq4umlamappOYcugHmFzRVkFALzcPkU9hShk2oxSUeU"
-        self.ML_input = "orders_export (21).csv"
+        self.ML_sheet = "1HszCDU1VIz3SvN4fxlXDj_0u4ZpI3XMGsvgkEbamfMA"
+        self.ML_input = "ml.csv"
         self.run_ML = True
 
-        self.NB_sheet = "1qWAezLY9_nQuf5RN8idI8A-R6vm3lf_v3UXPoeyQ3lU"
-        self.NB_input = "orders_export (8).csv"
+        self.NB_sheet = "1iKplJQUslj0B45caqvfKKYR_n1_9pA3pmL3gu1ORLp8"
+        self.NB_input = "nb.csv"
         self.run_NB = True
 
-        self.Rg_sheet = "1pGLbyAwuVtId4UzvsyOCX_pZB18DCEnIyBT9-mbBs8c"
-        self.Rg_input = "orders_export (6).csv"
+        self.Rg_sheet = "1gly-D1lyzcuARuz0_eZgZx169PFB0cDdVgvT2U6JdiY"
+        self.Rg_input = "rg.csv"
         self.run_Rg = True
 
-        self.Fs_sheet = "16SES7pkE2P6oQXVtvDRTIXmnTvbRpSk-B410RUowbwY"
-        self.Fs_input = "orders_export (7).csv"
-        self.run_Fs = True
+        self.Fs_sheet = "1zK0S78owDXheNOmP-UKWwx-zJTHGEuqlqM7e0HT7MLM"
+        self.Fs_input = "fs.csv"
+        self.run_Fs = False
 
     def csv_parser(self, csv_file, alt=False):
 
@@ -114,7 +114,10 @@ class ShopifyParser:
                 self.output_data["Order Number"].append("{:.0f}".format(self.input_data["Name"][i]))
 
             # parse phone number
-            phone_str = "{:.0f}".format(self.input_data["Shipping Phone"][i])
+            if(not str(self.input_data["Shipping Phone"][i]).isnumeric()):
+                phone_str = ''.join(filter(str.isdigit, self.input_data["Shipping Phone"][i]))
+            else:
+                phone_str = "{:.0f}".format(self.input_data["Shipping Phone"][i])
             if(phone_str.startswith("880")):
                 phone_str = phone_str[3:]
             elif(phone_str.startswith("92")):
@@ -2454,8 +2457,7 @@ def main(argv=None):
         argv = sys.argv
     
     sp = ShopifyParser()
-    sp.csv_parser(sp.gc_input)
-    sp.parse_GC()
+    sp.parse_all_stores()
 
 if __name__ == "__main__":
     sys.exit(main())
