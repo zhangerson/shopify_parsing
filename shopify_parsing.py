@@ -21,10 +21,10 @@ class ShopifyParser:
 
         self.glownest_sheet = "1gCpObAVVLf5Rowmld77IiSfp2S6Jva0NiPzIiosf18I"
         self.glownest_input = "gn.csv"
-        self.run_glownest = True
+        self.run_glownest = False
 
         self.herbiotics_sheet = "1Oiy9Z_OnVUNqVAt6ECfbaX75jRdCcX7CfdY14B5BKLc"
-        self.herbiotics_input = "herbiotics.csv"
+        self.herbiotics_input = "herbs.csv"
         self.run_herbiotics = True
 
         self.Bw_sheet = "1puvC6_cOqTngXIbCZfdULJFY7_0Gc0K7UNmyYFIKF08"
@@ -616,7 +616,7 @@ class ShopifyParser:
                     product_name = "Oil"
                 elif(product == "9"):
                     product_name = "ACVE"
-                elif(prouct == "10"):
+                elif(product == "10"):
                     product_name = "TEST"
 
                 # ask for quantity and check that input is numeric
