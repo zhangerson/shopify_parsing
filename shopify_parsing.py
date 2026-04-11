@@ -167,6 +167,7 @@ class ShopifyParser:
         self.output_data["Wax"] = ['']*len(self.output_data["Date"])
         self.output_data["Hair Revival Duo"] = ['']*len(self.output_data["Date"])
         self.output_data["Hair Volume Duo"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -284,8 +285,7 @@ class ShopifyParser:
                     self.output_data["Seamless Straight Hair Strand"][marker] = "{:.0f}".format(int(self.input_data["Lineitem quantity"][i]))
                     self.output_data["Hair Volume Duo"][marker] = "1"
                 elif(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -313,8 +313,7 @@ class ShopifyParser:
                     self.output_data["Seamless Straight Hair Strand"][marker] = "{:.0f}".format(int(self.input_data["Lineitem quantity"][i]))
                     self.output_data["Hair Volume Duo"][marker] = "1"
                 elif(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -336,6 +335,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -366,11 +366,14 @@ class ShopifyParser:
                                 self.output_data["The Real Beef Tallow Balm"][i], 
                                 self.output_data["Wax"][i]])
             
+            test_array.append([self.output_data["TEST"][i]])
+            
             # handle checkboxes separately
             if(self.output_data["Hair Revival Duo"][i] == "1"):
                 sheet.update_acell("AA{}".format(start_row + i), True)
             if(self.output_data["Hair Volume Duo"][i] == "1"):
                 sheet.update_acell("AB{}".format(start_row + i), True)
+            
 
         # paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!B{}:F".format(start_row), 
@@ -379,6 +382,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!I{}:Z".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!AC{}:AC".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
     
 
     def parse_glownest(self):
@@ -398,6 +404,7 @@ class ShopifyParser:
         self.output_data["LullaBites"] = ['']*len(self.output_data["Date"])
         self.output_data["URO"] = ['']*len(self.output_data["Date"])
         self.output_data["WAX"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -482,8 +489,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -501,8 +507,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -524,6 +529,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -547,6 +553,8 @@ class ShopifyParser:
                                 self.output_data["LullaBites"][i], 
                                 self.output_data["URO"][i], 
                                 self.output_data["WAX"][i]])
+            
+            test_array.append([self.output_data["TEST"][i]])
 
         # paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
@@ -555,6 +563,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:S".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!T{}:T".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_herbiotics(self):
@@ -572,6 +583,7 @@ class ShopifyParser:
         self.output_data["PDA"] = ['']*len(self.output_data["Date"])
         self.output_data["Oil"] = ['']*len(self.output_data["Date"])
         self.output_data["ACVE"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -650,8 +662,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -669,8 +680,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -692,6 +702,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -714,6 +725,8 @@ class ShopifyParser:
                                 self.output_data["Oil"][i], 
                                 self.output_data["ACVE"][i]])
             
+            test_array.append([self.output_data["TEST"][i]])
+            
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
@@ -721,6 +734,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!I{}:R".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!S{}:S".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_stacks(self):
@@ -730,6 +746,7 @@ class ShopifyParser:
         # add stacks products to output dataframe
         self.output_data["Ark Drops"] = ['']*len(self.output_data["Date"])
         self.output_data["ACVE"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -784,8 +801,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -803,8 +819,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -826,6 +841,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -840,6 +856,8 @@ class ShopifyParser:
 
             item_array.append([self.output_data["Ark Drops"][i], 
                                 self.output_data["ACVE"][i]])
+            
+            test_array.append([self.output_data["TEST"][i]])
         
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:F".format(start_row), 
@@ -848,6 +866,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!J{}:K".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!L{}:L".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_nutria(self):
@@ -858,6 +879,7 @@ class ShopifyParser:
         self.output_data["Shilajit-30"] = ['']*len(self.output_data["Date"])
         self.output_data["Shilajit-120"] = ['']*len(self.output_data["Date"])
         self.output_data["Glutathione"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -915,8 +937,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -934,8 +955,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -957,6 +977,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -972,6 +993,8 @@ class ShopifyParser:
             item_array.append([self.output_data["Shilajit-30"][i], 
                                 self.output_data["Shilajit-120"][i], 
                                 self.output_data["Glutathione"][i]])
+            
+            test_array.append([self.output_data["TEST"][i]])
         
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:F".format(start_row), 
@@ -980,6 +1003,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!J{}:L".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!M{}:M".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
                 
 
     def parse_glamore(self):
@@ -996,6 +1022,7 @@ class ShopifyParser:
         self.output_data["GUMMIES"] = ['']*len(self.output_data["Date"])
         self.output_data["BESQUE"] = ['']*len(self.output_data["Date"])
         self.output_data["DIFFUSER"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1071,8 +1098,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1090,8 +1116,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1113,6 +1138,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -1134,6 +1160,8 @@ class ShopifyParser:
                                 self.output_data["BESQUE"][i], 
                                 self.output_data["DIFFUSER"][i]])
             
+            test_array.append([self.output_data["TEST"][i]])
+            
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
@@ -1141,6 +1169,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:P".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!Q{}:Q".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_ML(self):
@@ -1149,6 +1180,7 @@ class ShopifyParser:
         
         # add ML products to output dataframe
         self.output_data["BED PAD"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1200,8 +1232,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1219,8 +1250,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1242,6 +1272,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -1254,6 +1285,8 @@ class ShopifyParser:
                                 self.output_data["Status"][i]])
 
             item_array.append([self.output_data["BED PAD"][i]])
+
+            test_array.append([self.output_data["TEST"][i]])
             
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
@@ -1262,6 +1295,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!I{}:I".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_NB(self):
@@ -1275,6 +1311,7 @@ class ShopifyParser:
         self.output_data["OIL"] = ['']*len(self.output_data["Date"])
         self.output_data["HIJAB"] = ['']*len(self.output_data["Date"])
         self.output_data["EYE CREAM"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1341,8 +1378,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1360,8 +1396,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1383,6 +1418,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -1401,6 +1437,8 @@ class ShopifyParser:
                                 self.output_data["HIJAB"][i], 
                                 self.output_data["EYE CREAM"][i]])
             
+            test_array.append([self.output_data["TEST"][i]])
+            
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
@@ -1408,6 +1446,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:M".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!N{}:N".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_Rg(self):
@@ -1416,6 +1457,7 @@ class ShopifyParser:
         
         # add Rg products to output dataframe
         self.output_data["RUST CONVERTER"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1467,8 +1509,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1486,8 +1527,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1509,6 +1549,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -1521,6 +1562,8 @@ class ShopifyParser:
                                 self.output_data["Status"][i]])
 
             item_array.append([self.output_data["RUST CONVERTER"][i]])
+
+            test_array.append([self.output_data["TEST"][i]])
             
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
@@ -1529,6 +1572,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!I{}:I".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_Fs(self):
@@ -1537,6 +1583,7 @@ class ShopifyParser:
         
         # add Fs products to output dataframe
         self.output_data["SPINNER"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1588,8 +1635,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1607,8 +1653,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1630,6 +1675,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -1642,6 +1688,8 @@ class ShopifyParser:
                                 self.output_data["Status"][i]])
 
             item_array.append([self.output_data["SPINNER"][i]])
+
+            test_array.append([self.output_data["TEST"][i]])
             
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
@@ -1650,6 +1698,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!I{}:I".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_Bw(self):
@@ -1658,6 +1709,7 @@ class ShopifyParser:
 
         # add Bw products to output dataframe
         self.output_data["Serum"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1709,8 +1761,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1728,8 +1779,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1751,6 +1801,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -1764,6 +1815,8 @@ class ShopifyParser:
                                 self.output_data["Status"][i]])
 
             item_array.append([self.output_data["Serum"][i]])
+
+            test_array.append([self.output_data["TEST"][i]])
             
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:F".format(start_row), 
@@ -1772,6 +1825,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!J{}:J".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!K{}:K".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
     
 
     def parse_fleximart(self):
@@ -1781,6 +1837,7 @@ class ShopifyParser:
         # add fleximart products to output dataframe
         self.output_data["GEL"] = ['']*len(self.output_data["Date"])
         self.output_data["DERMA"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1835,8 +1892,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1854,8 +1910,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1877,6 +1932,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -1891,6 +1947,8 @@ class ShopifyParser:
             item_array.append([self.output_data["GEL"][i], 
                                 self.output_data["DERMA"][i]])
             
+            test_array.append([self.output_data["TEST"][i]])
+            
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
@@ -1898,6 +1956,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:I".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!J{}:J".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_gravien(self):
@@ -1908,6 +1969,7 @@ class ShopifyParser:
         self.output_data["LEAKSHIELD"] = ['']*len(self.output_data["Date"])
         self.output_data["12-in-1 Mg"] = ['']*len(self.output_data["Date"])
         self.output_data["Mg Complex"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -1965,8 +2027,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -1984,8 +2045,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -2007,6 +2067,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -2022,6 +2083,8 @@ class ShopifyParser:
                                 self.output_data["12-in-1 Mg"][i], 
                                 self.output_data["Mg Complex"][i]])
             
+            test_array.append([self.output_data["TEST"][i]])
+            
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
@@ -2029,6 +2092,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!I{}:K".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!L{}:L".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_primep(self):
@@ -2037,6 +2103,7 @@ class ShopifyParser:
         
         # add primep products to output dataframe
         self.output_data["MISWAK"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -2088,8 +2155,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -2107,8 +2173,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -2130,6 +2195,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -2142,6 +2208,8 @@ class ShopifyParser:
                                 self.output_data["Status"][i]])
 
             item_array.append([self.output_data["MISWAK"][i]])
+
+            test_array.append([self.output_data["TEST"][i]])
             
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
@@ -2150,6 +2218,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!I{}:I".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_wandw(self):
@@ -2160,6 +2231,7 @@ class ShopifyParser:
         self.output_data["CAR WASH"] = ['']*len(self.output_data["Date"])
         self.output_data["IC TRAY"] = ['']*len(self.output_data["Date"])
         self.output_data["FLOSSER"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -2217,8 +2289,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -2236,8 +2307,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -2259,6 +2329,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -2274,6 +2345,8 @@ class ShopifyParser:
                                 self.output_data["IC TRAY"][i], 
                                 self.output_data["FLOSSER"][i]])
             
+            test_array.append([self.output_data["TEST"][i]])
+            
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
@@ -2281,6 +2354,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:J".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!K{}:K".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
 
     def parse_flash(self):
@@ -2289,6 +2365,7 @@ class ShopifyParser:
         
         # add primep products to output dataframe
         self.output_data["TOWEL"] = ['']*len(self.output_data["Date"])
+        self.output_data["TEST"] = ['']*len(self.output_data["Date"])
 
         # loop through all line items and mark their quantities
         prev_name = self.input_data["Name"][0]
@@ -2340,8 +2417,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(quantity) * int(self.input_data["Lineitem quantity"][i])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -2359,8 +2435,7 @@ class ShopifyParser:
                     prev_name = self.input_data["Name"][i]
 
                 if(product_name == "TEST"):
-                    marker += 1
-                    continue
+                    self.output_data["TEST"][marker] = input_lineitem
                 else:
                     total = int(self.input_data["Lineitem quantity"][i]) * int(self.masterfile["Quantity"][lookup_idx[0]])
                     self.output_data[product_name][marker] = "{:.0f}".format(total)
@@ -2382,6 +2457,7 @@ class ShopifyParser:
 
         info_array = []
         item_array = []
+        test_array = []
 
         # loop through and process rows
         for i in range(len(self.output_data["Date"])):
@@ -2394,6 +2470,8 @@ class ShopifyParser:
                                 self.output_data["Status"][i]])
 
             item_array.append([self.output_data["TOWEL"][i]])
+
+            test_array.append([self.output_data["TEST"][i]])
             
         #paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!A{}:E".format(start_row), 
@@ -2402,6 +2480,9 @@ class ShopifyParser:
         sheet.spreadsheet.values_update("P/L!H{}:H".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
+        sheet.spreadsheet.values_update("P/L!I{}:I".format(start_row), 
+                                        params={'valueInputOption': 'USER_ENTERED'},
+                                        body={'values': test_array})
 
     
     def parse_all_stores(self):
