@@ -8,7 +8,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 class ShopifyParser:
 
     def __init__(self):
-        self.masterfile = pd.read_csv("product_masterfile.csv")
+        self.masterfile_name = "product_masterfile.csv"
         self.credentials = "hopeful-disk-462006-f0-31fae0b7c9f8.json"
 
         self.gc_sheet = "1QtKGxkzUgmHYL2okYjZq3mebs7tdh-RT2JWnx9G7wMc"
@@ -74,6 +74,94 @@ class ShopifyParser:
         self.Fs_sheet = "1zK0S78owDXheNOmP-UKWwx-zJTHGEuqlqM7e0HT7MLM"
         self.Fs_input = "fs.csv"
         self.run_Fs = False
+
+    def masterfile_parser(self):
+
+        self.masterfile = pd.read_csv(self.masterfile_name)
+        self.GC_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.GN_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.FM_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.HERB_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.GRAV_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.BW_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.STACKS_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.NUTRIA_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.GLAM_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.WW_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.FLASH_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.NB_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.RG_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.FS_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.ML_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+        self.PP_masterfile = {"Lineitem name": [], "Product": [], "Quantity": []}
+
+        for i in range(len(self.masterfile["Store"])):
+
+            if(self.masterfile["Store"] == "GC"):
+                self.GC_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.GC_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.GC_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "GN"):
+                self.GN_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.GN_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.GN_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "FM"):
+                self.FM_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.FM_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.FM_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "HERB"):
+                self.HERB_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.HERB_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.HERB_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "GRAV"):
+                self.GRAV_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.GRAV_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.GRAV_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "BW"):
+                self.BW_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.BW_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.BW_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "STACKS"):
+                self.STACKS_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.STACKS_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.STACKS_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "NUTRIA"):
+                self.NUTRIA_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.NUTRIA_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.NUTRIA_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "GLAM"):
+                self.GLAM_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.GLAM_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.GLAM_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "WW"):
+                self.WW_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.WW_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.WW_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "FLASH"):
+                self.FLASH_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.FLASH_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.FLASH_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "NB"):
+                self.NB_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.NB_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.NB_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "RG"):
+                self.RG_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.RG_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.RG_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "FS"):
+                self.FS_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.FS_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.FS_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "ML"):
+                self.ML_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.ML_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.ML_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+            elif(self.masterfile["Store"] == "PP"):
+                self.PP_masterfile["Lineitem name"].append(self.masterfile["Lineitem name"][i])
+                self.PP_masterfile["Product"].append(self.masterfile["Product"][i])
+                self.PP_masterfile["Quantity"].append(self.masterfile["Quantity"][i])
+                
 
     def csv_parser(self, csv_file, alt=False):
 
@@ -165,6 +253,7 @@ class ShopifyParser:
         self.output_data["SleepSlime Gummies"] = ['']*len(self.output_data["Date"])
         self.output_data["The Real Beef Tallow Balm"] = ['']*len(self.output_data["Date"])
         self.output_data["Wax"] = ['']*len(self.output_data["Date"])
+        self.output_data["Rosemary & Rice Water Hair Growth Spray"] = ['']*len(self.output_data["Date"])
         self.output_data["Hair Revival Duo"] = ['']*len(self.output_data["Date"])
         self.output_data["Hair Volume Duo"] = ['']*len(self.output_data["Date"])
         self.output_data["TEST"] = ['']*len(self.output_data["Date"])
@@ -178,7 +267,7 @@ class ShopifyParser:
             input_lineitem = self.input_data["Lineitem name"][i]
 
             # check if product is known
-            lookup_idx = np.where(np.asarray(self.masterfile["Lineitem name"]) == input_lineitem)[0]
+            lookup_idx = np.where(np.asarray(self.GC_masterfile["Lineitem name"]) == input_lineitem)[0]
             if(len(lookup_idx) == 0):
 
                 # if product is not known, add to product masterfile
@@ -201,15 +290,16 @@ class ShopifyParser:
                 print("15 - SleepSlime Gummies")
                 print("16 - The Real Beef Tallow Balm")
                 print("17 - Wax")
-                print("18 - Hair Revival Duo")
-                print("19 - Hair Volume Duo")
-                print("20 - test product, omit")
-                product = input("Please enter the number (0-20) that corresponds with the correct product for '{}': ".format(input_lineitem))
+                print("18 - Rosemary & Rice Water Hair Growth Spray")
+                print("19 - Hair Revival Duo")
+                print("20 - Hair Volume Duo")
+                print("21 - test product, omit")
+                product = input("Please enter the number (0-21) that corresponds with the correct product for '{}': ".format(input_lineitem))
 
                 # Check that the input is a number and within the specified range
-                while(not product.isnumeric() or (product.isnumeric() and int(product) > 20)):
+                while(not product.isnumeric() or (product.isnumeric() and int(product) > 21)):
                     print("Input was not valid! Try again...")
-                    product = input("Please enter the number (0-20) that corresponds with the correct product for '{}': ".format(input_lineitem))
+                    product = input("Please enter the number (0-21) that corresponds with the correct product for '{}': ".format(input_lineitem))
                 
                 # convert product index to product name
                 product_name = "Undereye serum PCS"
@@ -248,10 +338,12 @@ class ShopifyParser:
                 elif(product == "17"):
                     product_name = "Wax"
                 elif(product == "18"):
-                    product_name = "Hair Revival Duo"
+                    product_name = "Rosemary & Rice Water Hair Growth Spray"
                 elif(product == "19"):
-                    product_name = "Hair Volume Duo"
+                    product_name = "Hair Revival Duo"
                 elif(product == "20"):
+                    product_name = "Hair Volume Duo"
+                elif(product == "21"):
                     product_name = "TEST"
 
                 # ask for quantity and check that input is numeric
@@ -261,11 +353,13 @@ class ShopifyParser:
                     quantity = input("Please enter the quantity for product '{}: '".format(input_lineitem))
 
                 # write new line to masterfile
-                with open("product_masterfile.csv", "a", newline="") as f:
-                    csv.writer(f).writerow([input_lineitem, product_name, quantity])
+                with open(self.masterfile_name, "a", newline="") as f:
+                    csv.writer(f).writerow(["GC", input_lineitem, product_name, quantity])
                 
                 # read the new masterfile
-                self.masterfile = pd.read_csv("product_masterfile.csv")
+                self.GC_masterfile["Lineitem name"].append(input_lineitem)
+                self.GC_masterfile["Product"].append(product_name)
+                self.GC_masterfile["Quantity"].append(quantity)
 
                 # account for duplicate order numbers
                 if(i > 0 and self.input_data["Name"][i] == prev_name):
@@ -292,7 +386,7 @@ class ShopifyParser:
             else:
 
                 # extract data from masterfile
-                product_name = self.masterfile["Product"][lookup_idx[0]]
+                product_name = self.GC_masterfile["Product"][lookup_idx[0]]
 
                 # account for duplicate order numbers
                 if(i > 0 and self.input_data["Name"][i] == prev_name):
@@ -364,25 +458,26 @@ class ShopifyParser:
                                 self.output_data["Facial Hair Removal Kit"][i], 
                                 self.output_data["SleepSlime Gummies"][i], 
                                 self.output_data["The Real Beef Tallow Balm"][i], 
-                                self.output_data["Wax"][i]])
+                                self.output_data["Wax"][i], 
+                                self.output_data["Rosemary & Rice Water Hair Growth Spray"][i]])
             
             test_array.append([self.output_data["TEST"][i]])
             
             # handle checkboxes separately
             if(self.output_data["Hair Revival Duo"][i] == "1"):
-                sheet.update_acell("AA{}".format(start_row + i), True)
-            if(self.output_data["Hair Volume Duo"][i] == "1"):
                 sheet.update_acell("AB{}".format(start_row + i), True)
+            if(self.output_data["Hair Volume Duo"][i] == "1"):
+                sheet.update_acell("AC{}".format(start_row + i), True)
             
 
         # paste arrays into spreadsheet
         sheet.spreadsheet.values_update("P/L!B{}:F".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'}, 
                                         body={'values': info_array})
-        sheet.spreadsheet.values_update("P/L!I{}:Z".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!I{}:AA".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': item_array})
-        sheet.spreadsheet.values_update("P/L!AC{}:AC".format(start_row), 
+        sheet.spreadsheet.values_update("P/L!AD{}:AD".format(start_row), 
                                         params={'valueInputOption': 'USER_ENTERED'},
                                         body={'values': test_array})
     
@@ -415,7 +510,7 @@ class ShopifyParser:
             input_lineitem = self.input_data["Lineitem name"][i]
 
             # check if product is known
-            lookup_idx = np.where(np.asarray(self.masterfile["Lineitem name"]) == input_lineitem)[0]
+            lookup_idx = np.where(np.asarray(self.GN_masterfile["Lineitem name"]) == input_lineitem)[0]
             if(len(lookup_idx) == 0):
 
                 # if product is not known, add to product masterfile
@@ -475,10 +570,12 @@ class ShopifyParser:
                 
                 # write new line to masterfile
                 with open("product_masterfile.csv", "a", newline="") as f:
-                    csv.writer(f).writerow([input_lineitem, product_name, quantity])
+                    csv.writer(f).writerow(["GN", input_lineitem, product_name, quantity])
                 
                 # read the new masterfile
-                self.masterfile = pd.read_csv("product_masterfile.csv")
+                self.GN_masterfile["Lineitem name"].append(input_lineitem)
+                self.GN_masterfile["Product"].append(product_name)
+                self.GN_masterfile["Quantity"].append(quantity)
 
                 # account for duplicate order numbers
                 if(i > 0 and self.input_data["Name"][i] == prev_name):
@@ -496,7 +593,7 @@ class ShopifyParser:
             else:
 
                 # extract data from masterfile
-                product_name = self.masterfile["Product"][lookup_idx[0]]
+                product_name = self.GN_masterfile["Product"][lookup_idx[0]]
 
                 # account for duplicate order numbers
                 if(i > 0 and self.input_data["Name"][i] == prev_name):
@@ -594,7 +691,7 @@ class ShopifyParser:
             input_lineitem = self.input_data["Lineitem name"][i]
 
             # check if product is known
-            lookup_idx = np.where(np.asarray(self.masterfile["Lineitem name"]) == input_lineitem)[0]
+            lookup_idx = np.where(np.asarray(self.HERB_masterfile["Lineitem name"]) == input_lineitem)[0]
             if(len(lookup_idx) == 0):
 
                 # if product is not known, add to product masterfile
